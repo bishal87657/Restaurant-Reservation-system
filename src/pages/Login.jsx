@@ -1,6 +1,13 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { Mail, Lock, Eye, EyeOff, Utensils, ArrowLeft } from "lucide-react";
+import {
+  Mail,
+  Lock,
+  Eye,
+  EyeOff,
+  Utensils,
+  ArrowLeft
+} from "lucide-react";
 import { motion } from "framer-motion";
 
 function Login() {
@@ -10,16 +17,58 @@ function Login() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
-  const handleLogin = (e) => {
+  const [error, setError] = useState("");
+  const [loading, setLoading] = useState(false);
+
+  const handleLogin = async (e) => {
     e.preventDefault();
 
+    setError("");
+
+    // Basic frontend validation
     if (!email || !password) {
-      alert("Please enter your email and password.");
+      setError("Please enter your email and password.");
       return;
     }
 
-    // Frontend demo for now
-    navigate("/dashboard");
+    try {
+      setLoading(true);
+
+      // Send login request to FastAPI
+      const response = await fetch(
+        "http://localhost:8000/auth/login",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          // Allows the browser to receive/store the session cookie
+          credentials: "include",
+          body: JSON.stringify({
+            email,
+            password
+          })
+        }
+      );
+
+      const data = await response.json();
+
+      // Backend returned an error
+      if (!response.ok) {
+        setError(data.detail || "Login failed.");
+        return;
+      }
+
+      // Login successful
+      navigate("/dashboard");
+
+    } catch (error) {
+      setError(
+        "Unable to connect to the server. Please try again."
+      );
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
@@ -68,7 +117,9 @@ function Login() {
           transition={{ duration: 0.7 }}
         >
 
+          {/* Logo */}
           <Link to="/" className="auth-logo">
+
             <div className="auth-logo-icon">
               <Utensils size={20} />
             </div>
@@ -77,10 +128,13 @@ function Login() {
               <strong>Restora</strong>
               <span>Dine. Reserve. Repeat.</span>
             </div>
+
           </Link>
 
 
+          {/* Heading */}
           <div className="auth-heading">
+
             <p>WELCOME BACK</p>
 
             <h2>
@@ -91,9 +145,11 @@ function Login() {
               Manage your reservations and discover
               new dining experiences.
             </span>
+
           </div>
 
 
+          {/* Form */}
           <form
             className="auth-form"
             onSubmit={handleLogin}
@@ -183,12 +239,21 @@ function Login() {
             </label>
 
 
+            {/* Error Message */}
+            {error && (
+              <p className="auth-error">
+                {error}
+              </p>
+            )}
+
+
             {/* Login */}
             <button
               type="submit"
               className="auth-submit"
+              disabled={loading}
             >
-              Sign In
+              {loading ? "Signing In..." : "Sign In"}
             </button>
 
 
@@ -213,12 +278,15 @@ function Login() {
           </form>
 
 
+          {/* Signup Link */}
           <p className="auth-switch">
+
             Don't have an account?
 
             <Link to="/signup">
               Create an account
             </Link>
+
           </p>
 
         </motion.div>
