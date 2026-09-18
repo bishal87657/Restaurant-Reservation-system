@@ -1,8 +1,10 @@
+
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import {
   User,
   Mail,
+  Phone,
   Lock,
   Eye,
   EyeOff,
@@ -19,14 +21,20 @@ function Signup() {
 
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
+  const [phone, setPhone] = useState("");
   const [password, setPassword] = useState("");
   const [confirmPassword, setConfirmPassword] = useState("");
 
   const handleSignup = (e) => {
     e.preventDefault();
 
-    if (!name || !email || !password || !confirmPassword) {
+    if (!name || !email || !phone || !password || !confirmPassword) {
       alert("Please fill in all fields.");
+      return;
+    }
+
+    if (!/^[0-9]{10}$/.test(phone)) {
+      alert("Please enter a valid 10-digit phone number.");
       return;
     }
 
@@ -137,6 +145,25 @@ function Signup() {
                   placeholder="Enter your email"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
+                />
+              </div>
+            </div>
+
+            {/* PHONE */}
+            <div className="auth-input-group">
+              <label>Phone Number</label>
+
+              <div className="auth-input">
+                <Phone size={18} />
+
+                <input
+                  type="tel"
+                  placeholder="Enter your 10-digit phone number"
+                  value={phone}
+                  maxLength="10"
+                  onChange={(e) =>
+                    setPhone(e.target.value.replace(/\D/g, ""))
+                  }
                 />
               </div>
             </div>
