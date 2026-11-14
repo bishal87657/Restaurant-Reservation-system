@@ -1,0 +1,5254 @@
+[{
+  "title": "Puri Heritage Foods",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Indian restaurant",
+  "address": "Kashi haripur, Khuntia Bagicha, Akhandalamani Rd, near Huluhulia bridge, Puri, Odisha 752002, India",
+  "neighborhood": "Balighat",
+  "street": "Kashi haripur, Khuntia Bagicha, Akhandalamani Rd, near Huluhulia bridge",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://puri-heritage-alpha.vercel.app/",
+  "phone": "+91 80939 97994",
+  "phoneUnformatted": "+918093997994",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8237009,
+    "lng": 85.8428936
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJzSR5mvvHGToRCtXaDeFb0Vg",
+  "categories": [
+    "Indian restaurant"
+  ],
+  "fid": "0x3a19c7fb9a7924cd:0x58d15be10ddad50a",
+  "cid": "6399997567628399882",
+  "reviewsCount": 8,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 8
+  },
+  "imagesCount": 20,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.271Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Puri%20Heritage%20Foods&query_place_id=ChIJzSR5mvvHGToRCtXaDeFb0Vg",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe80512xK7wJo14agUb2J_FZLRCHHv5DcT89ZB12J55hqgqR6eVa6OiNkmxeG-ksWt5Pt_otY8Mi4XkrK7SiwHzkGoip17p9g4IEctBy9EjphXL0WdthvSl1XVylnFRRISf620WULocXaf0=w598-h240-k-no",
+  "kgmid": "/g/11p225n2m_",
+  "businessProfileId": "1561453157680483337"
+},
+{
+  "title": "Bawarchi Delicious Food Corner",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Sandha Chhaka, Nabakalebara Road, near Akhandalamani Temple, Makubana, Puri, Atharanala, Odisha 752002, India",
+  "neighborhood": "Makubana",
+  "street": "Sandha Chhaka, Nabakalebara Road, near Akhandalamani Temple",
+  "city": "Puri, Atharanala",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.8214736,
+    "lng": 85.8369488
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJnwNggL7HGToRarWby3iYKsA",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c7be8060039f:0xc02a9878cb9bb56a",
+  "cid": "13847047648883488106",
+  "reviewsCount": 82,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 0,
+    "threeStar": 5,
+    "fourStar": 4,
+    "fiveStar": 69
+  },
+  "imagesCount": 13,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.272Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bawarchi%20Delicious%20Food%20Corner&query_place_id=ChIJnwNggL7HGToRarWby3iYKsA",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcOXPICFSbLRbSUyna9Cmi1_X8SkLQvkHGnLzxRktfshmScK4iTBhE8c27JqOFqcn6MdOVvV2KQzYfjQ7FKvPZY_72ppgHNseBc-axkNQNiJ6o3QnI-lvTE_d8uy9T3n6u9tPiHA=w480-h240-k-no",
+  "kgmid": "/g/11k43k6xb8",
+  "businessProfileId": null
+},
+{
+  "title": "MOM BIRYANI JUNCTION",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Biryani restaurant",
+  "address": "Charinala, Puri, Alikia, Odisha 752002, India",
+  "neighborhood": "Charinala",
+  "street": null,
+  "city": "Puri, Alikia",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "http://www.mombiriyanijunction.com/",
+  "phone": "+91 98610 60820",
+  "phoneUnformatted": "+919861060820",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.836003,
+    "lng": 85.83613
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJlS9JXV3FGToRLVac5Jpq9QI",
+  "categories": [
+    "Biryani restaurant"
+  ],
+  "fid": "0x3a19c55d5d492f95:0x2f56a9ae49c562d",
+  "cid": "213193770862925357",
+  "reviewsCount": 229,
+  "reviewsDistribution": {
+    "oneStar": 32,
+    "twoStar": 8,
+    "threeStar": 23,
+    "fourStar": 43,
+    "fiveStar": 123
+  },
+  "imagesCount": 285,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.272Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/Lgn8V6aiKB8?source=pa&opi=79508299&hl=en-US&gei=j9j1avCjLo7smLQPwuCHgAU&ahbb=1&sourceurl=https://www.google.com/search?authuser%3D0%26tbm%3Dmap%26q%3DRestaurant%26psi%3Djdj1auiYHI2hptQPv_qLiQo.1794496653655.1%26hl%3Den%26gl%3Dus%26pb%3D!4m12!1m3!1d7506.382727941809!2d85.83384161580085!3d19.83185431690201!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!8i0!10b1!12m36!1m1!18b1!2m3!5m1!6e2!20e3!6m18!4b1!49b1!63m0!73m0!74i150000!75b1!85b1!89b1!91b1!101i97!110m0!114b1!149b1!171b1!176f8!179f90!182b1!183m0!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1sjdj1auiYHI2hptQPv_qLiQo!2s1i:0,t:20588,p:jdj1auiYHI2hptQPv_qLiQo:22!4m1!2i20588!7e81!12e3!24m92!1m26!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m15!3b1!4b1!5b1!6b1!13b1!14b1!15b1!17b1!21b1!22b0!25b1!27m1!1b0!28b0!31b0!2b1!5m5!2b1!5b1!6b1!7b1!10b1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m17!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m8!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!9b1!89b1!103b1!113b1!117b1!122m1!1b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!34m19!2b1!3b1!4b1!6b1!7b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!46m1!1e10!47m0!49m7!3b1!6m2!1b1!2b1!7m2!1e3!2b1!50m25!1m21!2m7!1u3!4zT3RldsWZZW7DqQ!5e1!9s!10m2!3m1!1e1!2m7!1u2!4zTmVqbMOpcGUgaG9kbm9jZW7DqQ!5e1!9s!10m2!2m1!1e1!3m1!1u2!3m1!1u3!4BIAE!2e2!3m1!3b1!59BQ2dBd0Fn!61b1!67m3!7b1!10b1!14b0!69i675",
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 10:45 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 10:45 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 10:45 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 10:45 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 10:45 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 10:45 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 10:45 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible seating": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=MOM%20BIRYANI%20JUNCTION&query_place_id=ChIJlS9JXV3FGToRLVac5Jpq9QI",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 3,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeavjSyT1oCZ12ElZlJMcs1pPrBBIO2u7I6uWF5BkVrAsMsuKLw8GJL7S2iA_jMPGHKyuTdV2-wDrIhzwCbcz4uv8mzlzMovCpOsYJn8EdkY6-x625OsoGkEF5xQYtMPxypHkVlzg=w515-h240-k-no",
+  "kgmid": "/g/11spwb_6xf",
+  "businessProfileId": "7603019381676832487"
+},
+{
+  "title": "Maa Bata Mangala",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Vegetarian restaurant",
+  "address": "Batamangala, Puri, Batagaon, Odisha 752002, India",
+  "neighborhood": "Batamangala",
+  "street": null,
+  "city": "Puri, Batagaon",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8413386,
+    "lng": 85.836753
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJfeX_McXGGToRWg6nroMEoaM",
+  "categories": [
+    "Vegetarian restaurant",
+    "Breakfast restaurant"
+  ],
+  "fid": "0x3a19c6c531ffe57d:0xa3a10483aea70e5a",
+  "cid": "11790710263050079834",
+  "reviewsCount": 1035,
+  "reviewsDistribution": {
+    "oneStar": 34,
+    "twoStar": 29,
+    "threeStar": 127,
+    "fourStar": 262,
+    "fiveStar": 583
+  },
+  "imagesCount": 294,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.272Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Maa%20Bata%20Mangala&query_place_id=ChIJfeX_McXGGToRWg6nroMEoaM",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 4,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1WKA4ByYHMrSdK6xFels4cxyF35ChbpDHESdPtFP4XoZgVJlYfi6sA5cULZg9OPxCo-dxiOHlvA1z7Mf7npTrsn5zsD3KTLt1qwXy5si_RNUsbZcC0Q8_FVPGhQggGV-EdlY=w408-h725-k-no",
+  "kgmid": "/g/11bzt2phcy",
+  "businessProfileId": "6279872662326363076"
+},
+{
+  "title": "Mehfil- Rooftop Restaurant and Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Medical square, Royal Grand Heritage, Grand Rd, above Hotel RGH, Balagandi, Puri, Odisha 752001, India",
+  "neighborhood": "Balagandi",
+  "street": "Medical square, Royal Grand Heritage, Grand Rd, above Hotel RGH",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "http://www.royalgrandheritage.com/",
+  "phone": "+91 73260 33999",
+  "phoneUnformatted": "+917326033999",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8129345,
+    "lng": 85.8307652
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJVXScIpjHGToRKK_4grEGg84",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c798229c7455:0xce8306b182f8af28",
+  "cid": "14880744953238564648",
+  "reviewsCount": 2957,
+  "reviewsDistribution": {
+    "oneStar": 120,
+    "twoStar": 29,
+    "threeStar": 73,
+    "fourStar": 141,
+    "fiveStar": 2594
+  },
+  "imagesCount": 860,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.272Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Mehfil-%20Rooftop%20Restaurant%20and%20Cafe&query_place_id=ChIJVXScIpjHGToRKK_4grEGg84",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 5,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4l8SxLxQiipGMATI8KIlXozRCow-iE6Omkn-kaeZxc5fxbjukvwdVIevJWGsogcHGxp1Uf0kLchGckkxwWhMXpbSkkT9950vYvJ4VhxrKFo9eiL8EBvczxbpN7PHVaXSA8Pux=w408-h306-k-no",
+  "kgmid": "/g/11tp2ck99b",
+  "businessProfileId": "10882613920873212222"
+},
+{
+  "title": "S.S.S Family Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Family restaurant",
+  "address": "Cuttack - Puri Bypass Rd, Mangarajpur, Puri, Batagaon, Odisha 752002, India",
+  "neighborhood": "Mangarajpur",
+  "street": "Cuttack - Puri Bypass Rd",
+  "city": "Puri, Batagaon",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 93700 91803",
+  "phoneUnformatted": "+919370091803",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8412418,
+    "lng": 85.8313976
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJw2pUOwDHGToRWbU3gfH_RKM",
+  "categories": [
+    "Family restaurant"
+  ],
+  "fid": "0x3a19c7003b546ac3:0xa344fff18137b559",
+  "cid": "11764809539318691161",
+  "reviewsCount": 16,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 1,
+    "fiveStar": 10
+  },
+  "imagesCount": 96,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.272Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 12:30 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 12:30 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 12:30 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 12:30 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 12:30 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 12:30 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 12:30 AM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=S.S.S%20Family%20Restaurant&query_place_id=ChIJw2pUOwDHGToRWbU3gfH_RKM",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8eG17FDcsxxeohibri1Ih1atLm_gmr-X0jNjBNVhEq6LkBGkHO5yMt4MlgWVHIdLbiA3jTdktU0adeKdLQDj4UC3wVZve1AWiibPc1wfwNLU9XPF89acDzorZ5n0bbQXWbevHIcQu8nfW=w408-h306-k-no",
+  "kgmid": "/g/11yz9wgvdw",
+  "businessProfileId": "11988141024916262072"
+},
+{
+  "title": "Munu Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Atharanala, Gopinathpur, Puri, Atharanala alias samang, Odisha 752002, India",
+  "neighborhood": "Atharanala, Gopinathpur",
+  "street": null,
+  "city": "Puri, Atharanala alias samang",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 76560 88321",
+  "phoneUnformatted": "+917656088321",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8207947,
+    "lng": 85.8318809
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPTcZjp_HGToRJmnkEja5xFM",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c79f8e19373d:0x53c4b93612e46926",
+  "cid": "6036153042479638822",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.272Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Munu%20Restaurant&query_place_id=ChIJPTcZjp_HGToRJmnkEja5xFM",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 7,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tThN3QZ_hVUM-YvWmVme-A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=249.42387&pitch=0&thumbfov=100",
+  "kgmid": "/g/11ypqxyzv8",
+  "businessProfileId": "16099912171293734007"
+},
+{
+  "title": "BT Pure Veg Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Vegetarian restaurant",
+  "address": "Out Gate, Bus stand, near Indian oil petrol pump, behind Gundicha Temple, Sarbodaya Nagar, Puri, Odisha 752002, India",
+  "neighborhood": "Sarbodaya Nagar",
+  "street": "Out Gate, Bus stand, near Indian oil petrol pump, behind Gundicha Temple",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8157091,
+    "lng": 85.8408285
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJcTGBQ3bHGToRColTaMGU8uE",
+  "categories": [
+    "Vegetarian restaurant"
+  ],
+  "fid": "0x3a19c77643813171:0xe1f294c16853890a",
+  "cid": "16281239161297668362",
+  "reviewsCount": 16,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 16
+  },
+  "imagesCount": 26,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.272Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11:30 AM to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=BT%20Pure%20Veg%20Restaurant&query_place_id=ChIJcTGBQ3bHGToRColTaMGU8uE",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdW0D2VKrAu5pNnT7ObI4YoeEbtVIjRWt1OOPsoOtbNAYRLh__Of2jCHorPEj_WoJ2E2cLwikAv9GAjClR_mJTXNCR09l_Y8XWbabDShLr-l7yeheo8m6HtEzVb9yWp6LbGKr5SHAylRqQ=w408-h306-k-no",
+  "kgmid": "/g/11nr851hyp",
+  "businessProfileId": "7258467955550330907"
+},
+{
+  "title": "Parida Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "RR9R+PVX, Beldal-Puri Rd, Sarbodaya Nagar, Puri, Odisha 752002, India",
+  "neighborhood": "Sarbodaya Nagar",
+  "street": "RR9R+PVX, Beldal-Puri Rd",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 82491 75837",
+  "phoneUnformatted": "+918249175837",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.8193745,
+    "lng": 85.842232
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJwa6vaQDHGToRFAhXxttDp-0",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c70069afaec1:0xeda743dbc6570814",
+  "cid": "17124730719304091668",
+  "reviewsCount": 48,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 1,
+    "threeStar": 5,
+    "fourStar": 11,
+    "fiveStar": 25
+  },
+  "imagesCount": 69,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.272Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11:30 AM to 12 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11:30 AM to 12 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11:30 AM to 12 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11:30 AM to 12 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11:30 AM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11:30 AM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11:30 AM to 12 AM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Parida%20Restaurant&query_place_id=ChIJwa6vaQDHGToRFAhXxttDp-0",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 9,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTKYZ2C8Vkc5esTqHJqdorItbILElaRVYI84Id89fD4HbTXrV0a1SiENxQUa07pow1KygxVGiKEZquA-BEHORsJeLIgNf0_caIShA9TWllQSY7YZGOjYimEqDhN78dyoUpejan8PtRqd8=w408-h306-k-no",
+  "kgmid": "/g/11y49ly44z",
+  "businessProfileId": null
+},
+{
+  "title": "Aamantran Hotel & Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "infront of Garuda Square, Athar Nala Rd, Puri, Atharanala alias Jitikar Mu, Odisha 752002, India",
+  "neighborhood": null,
+  "street": "infront of Garuda Square, Athar Nala Rd",
+  "city": "Puri, Atharanala alias Jitikar Mu",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8193652,
+    "lng": 85.8328455
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJfc8UanLHGToRJupbWiFQQuo",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c7726a14cf7d:0xea4250215a5bea26",
+  "cid": "16880142457518156326",
+  "reviewsCount": 7,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 6
+  },
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.272Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 11:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Aamantran%20Hotel%20%26%20Restaurant&query_place_id=ChIJfc8UanLHGToRJupbWiFQQuo",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3rLKDglApO2Dr_Hyf3AJF0ygaQZdK6xcl9ou3q1hwalkdTntYpHIddV1mTgikyCELUChjrlQn-imI-Hoj6Z5An19Op4rK022pp-NARmD9kCpbsBLQFJNUx3kDPAE_Bi8ZHIOL6ay_O_gw=w408-h306-k-no",
+  "kgmid": "/g/11yny8n2f3",
+  "businessProfileId": "10815432967882484985"
+},
+{
+  "title": "Maa Dakhinakali Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Odia restaurant",
+  "address": "RVG6+865, Beldal-Puri Rd, Purussottam Nagar, Puri, Balukhand, Odisha 752003, India",
+  "neighborhood": "Purussottam Nagar",
+  "street": "RVG6+865, Beldal-Puri Rd",
+  "city": "Puri, Balukhand",
+  "postalCode": "752003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.8257614,
+    "lng": 85.8605987
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJfSrXG1TBGToRVLxHdNHADEs",
+  "categories": [
+    "Odia restaurant"
+  ],
+  "fid": "0x3a19c1541bd72a7d:0x4b0cc0d17447bc54",
+  "cid": "5407909258396679252",
+  "reviewsCount": 18,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 1,
+    "fiveStar": 14
+  },
+  "imagesCount": 23,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.273Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Maa%20Dakhinakali%20Restaurant&query_place_id=ChIJfSrXG1TBGToRVLxHdNHADEs",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSh-Zfo1j4YlytmJw08eVu_tQm2Ksghd0nHJj5jbF6xxy7zts80AIkcIMmA88pBgFkHajVy8jlrdpSP3vMeQ8UVqxqTaYy0GyJkj1kSlWLNCyKkxtX-B8NK7q2t1_chSDlKSy2sw=w426-h240-k-no",
+  "kgmid": "/g/11ll8g9vdn",
+  "businessProfileId": null
+},
+{
+  "title": "SHREEBHOG.Next",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Family restaurant",
+  "address": "Annapurna Theatre Fornt, near Town Thana, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "Annapurna Theatre Fornt, near Town Thana",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://www.instagram.com/shreebhog.next?psln=MXVzNDE1NjBjenJj&utm_source=qr",
+  "phone": "+91 76530 23400",
+  "phoneUnformatted": "+917653023400",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8082932,
+    "lng": 85.8224608
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJFQPPCgDHGToR6i5px4VhRt8",
+  "categories": [
+    "Family restaurant",
+    "Restaurant"
+  ],
+  "fid": "0x3a19c7000acf0315:0xdf466185c7692eea",
+  "cid": "16088653946031779562",
+  "reviewsCount": 46,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 1,
+    "fiveStar": 42
+  },
+  "imagesCount": 66,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.273Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=SHREEBHOG.Next&query_place_id=ChIJFQPPCgDHGToR6i5px4VhRt8",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfX8AOgpK-iSi67PAMyBHhP5t0g_jczbOHSsu5wqASp041GECHaOmOomu0ECHjJsKs4mCGUyB2a_l8CwJxjUGzqwPZCeLxI3-Oyr59TJGfQnGxyYoDl8CR_CamTguIRTStBUMw7l3Ix2-Hd=w426-h240-k-no",
+  "kgmid": "/g/11z84l5wwg",
+  "businessProfileId": "15834295613891465564"
+},
+{
+  "title": "Ashish Panda Food and Beverage Co.",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "near Railway Crossing, Matiapada, Sarbodaya Nagar, Puri, Odisha 752002, India",
+  "neighborhood": "Matiapada, Sarbodaya Nagar",
+  "street": "near Railway Crossing",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 80933 26463",
+  "phoneUnformatted": "+918093326463",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8195655,
+    "lng": 85.8426847
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJGUeuSnrHGToRJ6lR71CAxTU",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c77a4aae4719:0x35c58050ef51a927",
+  "cid": "3874644139523025191",
+  "reviewsCount": 120,
+  "reviewsDistribution": {
+    "oneStar": 23,
+    "twoStar": 2,
+    "threeStar": 1,
+    "fourStar": 8,
+    "fiveStar": 86
+  },
+  "imagesCount": 51,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.273Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/-FukE1gZnWg?source=pa&opi=79508299&hl=en-US&gei=j9j1avCjLo7smLQPwuCHgAU&ahbb=1&sourceurl=https://www.google.com/search?authuser%3D0%26tbm%3Dmap%26q%3DRestaurant%26psi%3Djdj1auiYHI2hptQPv_qLiQo.1794496653655.1%26hl%3Den%26gl%3Dus%26pb%3D!4m12!1m3!1d7506.382727941809!2d85.83384161580085!3d19.83185431690201!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!8i0!10b1!12m36!1m1!18b1!2m3!5m1!6e2!20e3!6m18!4b1!49b1!63m0!73m0!74i150000!75b1!85b1!89b1!91b1!101i97!110m0!114b1!149b1!171b1!176f8!179f90!182b1!183m0!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1sjdj1auiYHI2hptQPv_qLiQo!2s1i:0,t:20588,p:jdj1auiYHI2hptQPv_qLiQo:22!4m1!2i20588!7e81!12e3!24m92!1m26!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m15!3b1!4b1!5b1!6b1!13b1!14b1!15b1!17b1!21b1!22b0!25b1!27m1!1b0!28b0!31b0!2b1!5m5!2b1!5b1!6b1!7b1!10b1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m17!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m8!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!9b1!89b1!103b1!113b1!117b1!122m1!1b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!34m19!2b1!3b1!4b1!6b1!7b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!46m1!1e10!47m0!49m7!3b1!6m2!1b1!2b1!7m2!1e3!2b1!50m25!1m21!2m7!1u3!4zT3RldsWZZW7DqQ!5e1!9s!10m2!3m1!1e1!2m7!1u2!4zTmVqbMOpcGUgaG9kbm9jZW7DqQ!5e1!9s!10m2!2m1!1e1!3m1!1u2!3m1!1u3!4BIAE!2e2!3m1!3b1!59BQ2dBd0Fn!61b1!67m3!7b1!10b1!14b0!69i675",
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ashish%20Panda%20Food%20and%20Beverage%20Co.&query_place_id=ChIJGUeuSnrHGToRJ6lR71CAxTU",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 14,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbauZV5plwVxnKjQ-qLKVW8d01o39eXf5UzxE-QVqXbSEPDTa6wXXzN9EtVhiUnUEE6Rp3ZNwTbN3AyDyl-riASVJuf44Q8jr2uexL8Uf9Ba3aaKeeIYbDKVH74yl14RF0bnJaNRdOoK2A=w426-h240-k-no",
+  "kgmid": "/g/11mrwhc0qt",
+  "businessProfileId": "204452220899612395"
+},
+{
+  "title": "Howrah Kolkata restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Indian restaurant",
+  "address": "HOWRAH KOLKAT RESTUREANT AD!- Puri goude bade sahi Near → Sonar kila Hotal pin => 752001 Dist →>, Asst, Puri, →, Odisha 752001, India",
+  "neighborhood": "Asst",
+  "street": "HOWRAH KOLKAT RESTUREANT AD!- Puri goude bade sahi Near → Sonar kila Hotal pin => 752001 Dist →>",
+  "city": "Puri, →",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.8134554,
+    "lng": 85.8312359
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJRSTARgDHGToRh3GOqHIllQM",
+  "categories": [
+    "Indian restaurant"
+  ],
+  "fid": "0x3a19c70046c02445:0x3952572a88e7187",
+  "cid": "258153728028078471",
+  "reviewsCount": 12,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 10
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.273Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Howrah%20Kolkata%20restaurant&query_place_id=ChIJRSTARgDHGToRh3GOqHIllQM",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 15,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S5Gk4Zm-2kHj4B7H4101MA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=339.03876&pitch=0&thumbfov=100",
+  "kgmid": "/g/11yx7yq2n7",
+  "businessProfileId": null
+},
+{
+  "title": "Flavour’s Fusion Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Old Sadar Thana Rd, near scs college back gate, Duttatota, Puri, Odisha 752001, India",
+  "neighborhood": "Duttatota",
+  "street": "Old Sadar Thana Rd, near scs college back gate",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 79786 28536",
+  "phoneUnformatted": "+917978628536",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8064464,
+    "lng": 85.8287803
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJXT81gZrHGToRmSTPagdfXXM",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c79a81353f5d:0x735d5f076acf2499",
+  "cid": "8312904972657173657",
+  "reviewsCount": 194,
+  "reviewsDistribution": {
+    "oneStar": 10,
+    "twoStar": 3,
+    "threeStar": 1,
+    "fourStar": 15,
+    "fiveStar": 165
+  },
+  "imagesCount": 237,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.273Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Flavour%E2%80%99s%20Fusion%20Restaurant&query_place_id=ChIJXT81gZrHGToRmSTPagdfXXM",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAch1m1VqZ_lcrqLm_yuZz_ywaZ3BT7mkk-sh_2Jqvo8yYmW4YYJwCtxsMQXe87XNBDXgp-nLKOHAtbc3-cR4tvjrNhC-ZWPthvac8iYmpSvIy_MJb3ZODGYLEoxvyDq_0XLvSO7Nh0lln=w408-h306-k-no",
+  "kgmid": "/g/11w_h4r0cj",
+  "businessProfileId": "8604650590143520592"
+},
+{
+  "title": "Puri Veg Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "RRCQ+8GP, Nabakalebar road, Khaki Matha Ln, Puri, Odisha 752002, India",
+  "neighborhood": null,
+  "street": "RRCQ+8GP, Nabakalebar road, Khaki Matha Ln",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.8169184,
+    "lng": 85.8382053
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ9bGvFwDHGToRECZ_uMoYLJY",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c70017afb1f5:0x962c18cab87f2610",
+  "cid": "10821051263622260240",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "imagesCount": 5,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.273Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Puri%20Veg%20Restaurant&query_place_id=ChIJ9bGvFwDHGToRECZ_uMoYLJY",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvL54tY1Cci1AM2M2c7sfTLlVLmXTwWteUZDJr-vywj0p3gJxJhFN55cj_aBuNsf3c-_tNRknPFxhIQmwsewTx6Z4Y6_LGz8Vk8fY8HuqCeVBdM_3cQoJT4SFqPUnh6TBq1klo6G_tWK_s=w408-h544-k-no",
+  "kgmid": "/g/11z83gc9_8",
+  "businessProfileId": null
+},
+{
+  "title": "Micky's Cafe & Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Market square, Grand Rd, inside Lokanath Guest House, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "Market square, Grand Rd, inside Lokanath Guest House",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 79780 49379",
+  "phoneUnformatted": "+917978049379",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8084508,
+    "lng": 85.8232589
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJK-FiKtvFGToRYiB2dGM02hU",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c5db2a62e12b:0x15da346374762062",
+  "cid": "1574628621479714914",
+  "reviewsCount": 119,
+  "reviewsDistribution": {
+    "oneStar": 9,
+    "twoStar": 1,
+    "threeStar": 4,
+    "fourStar": 10,
+    "fiveStar": 95
+  },
+  "imagesCount": 247,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.273Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/gLfSFiefReQ?source=pa&opi=79508299&hl=en-US&gei=j9j1avCjLo7smLQPwuCHgAU&ahbb=1&sourceurl=https://www.google.com/search?authuser%3D0%26tbm%3Dmap%26q%3DRestaurant%26psi%3Djdj1auiYHI2hptQPv_qLiQo.1794496653655.1%26hl%3Den%26gl%3Dus%26pb%3D!4m12!1m3!1d7506.382727941809!2d85.83384161580085!3d19.83185431690201!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!8i0!10b1!12m36!1m1!18b1!2m3!5m1!6e2!20e3!6m18!4b1!49b1!63m0!73m0!74i150000!75b1!85b1!89b1!91b1!101i97!110m0!114b1!149b1!171b1!176f8!179f90!182b1!183m0!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1sjdj1auiYHI2hptQPv_qLiQo!2s1i:0,t:20588,p:jdj1auiYHI2hptQPv_qLiQo:22!4m1!2i20588!7e81!12e3!24m92!1m26!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m15!3b1!4b1!5b1!6b1!13b1!14b1!15b1!17b1!21b1!22b0!25b1!27m1!1b0!28b0!31b0!2b1!5m5!2b1!5b1!6b1!7b1!10b1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m17!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m8!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!9b1!89b1!103b1!113b1!117b1!122m1!1b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!34m19!2b1!3b1!4b1!6b1!7b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!46m1!1e10!47m0!49m7!3b1!6m2!1b1!2b1!7m2!1e3!2b1!50m25!1m21!2m7!1u3!4zT3RldsWZZW7DqQ!5e1!9s!10m2!3m1!1e1!2m7!1u2!4zTmVqbMOpcGUgaG9kbm9jZW7DqQ!5e1!9s!10m2!2m1!1e1!3m1!1u2!3m1!1u3!4BIAE!2e2!3m1!3b1!59BQ2dBd0Fn!61b1!67m3!7b1!10b1!14b0!69i675",
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 11:30 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Delivery": [
+      {
+        "day": "Monday",
+        "hours": "3–10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "3–10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "3–10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "3–10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "3–10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "3–10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "3–10 PM"
+      }
+    ],
+    "Breakfast": [
+      {
+        "day": "Monday",
+        "hours": "7–10:30 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7–10:30 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7–10:30 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7–10:30 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7–10:30 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7–10:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7–10:30 AM"
+      }
+    ]
+  },
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Micky's%20Cafe%20%26%20Restaurant&query_place_id=ChIJK-FiKtvFGToRYiB2dGM02hU",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEcHKSdvhgG24faVFTCGeW8jiUwrdu4JYUAIfASLw8xlvFOAdBtGpKGpqwpONcYwptVSROl_Z-sxKuHniDoVdU72GJOExWK5SnhbJWNO416qrCpvg4S4JRbnAbtTkBZWVn0j97KAY45IpG=w408-h306-k-no",
+  "kgmid": "/g/11x97l9my3",
+  "businessProfileId": "5855959402806600287"
+},
+{
+  "title": "Taste of India",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "South Indian restaurant",
+  "address": "VIP Rd, nr. jhadeswari club, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "VIP Rd, nr. jhadeswari club",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 93380 27977",
+  "phoneUnformatted": "+919338027977",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8079337,
+    "lng": 85.8327242
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJcVq74BDHGToRTcWycUOsLUM",
+  "categories": [
+    "South Indian restaurant",
+    "Indian restaurant"
+  ],
+  "fid": "0x3a19c710e0bb5a71:0x432dac4371b2c54d",
+  "cid": "4840714580163478861",
+  "reviewsCount": 1544,
+  "reviewsDistribution": {
+    "oneStar": 144,
+    "twoStar": 34,
+    "threeStar": 83,
+    "fourStar": 278,
+    "fiveStar": 1005
+  },
+  "imagesCount": 453,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:36.273Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Taste%20of%20India&query_place_id=ChIJcVq74BDHGToRTcWycUOsLUM",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8dqfCiE24SvWBPxN46ZAfwLyZ_ftNZvOhmj0j14vb27F4aV5l1Ab6zgsemN4szWWB9QAhGMDI5iMHn1URINC_qNF3SLyeEZvVjM_kvDpdkSvmduhrhOFAzdkoJ_w6PKGuFYIGSuHWmzB3=w408-h306-k-no",
+  "kgmid": "/g/11jt7zpn_4",
+  "businessProfileId": "17131840573190146222"
+},
+{
+  "title": "The Cafe Junction",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Shop No-14, H. R. Complex, near Mahadev Temple, Balighat, Puri, Odisha 752002, India",
+  "neighborhood": "Balighat",
+  "street": "Shop No-14, H. R. Complex, near Mahadev Temple",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://link.zomato.com/xqzv/rshare?id=6667288030563540",
+  "phone": "+91 70089 34317",
+  "phoneUnformatted": "+917008934317",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8234288,
+    "lng": 85.8478492
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJscMe1wHHGToRZMhO88x3PKc",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c701d71ec3b1:0xa73c77ccf34ec864",
+  "cid": "12050638425075664996",
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 0
+  },
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:37.114Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Cafe%20Junction&query_place_id=ChIJscMe1wHHGToRZMhO88x3PKc",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=np1fgFX8NtFH2buQ_YwQ0w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=49.726448&pitch=0&thumbfov=100",
+  "kgmid": "/g/11vsq395p6",
+  "businessProfileId": "15991513528944791140"
+},
+{
+  "title": "Sunshine Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Coffee shop",
+  "address": "RR3V+794, Chakra Tirtha Rd, Badasirei, Puri, Odisha 752002, India",
+  "neighborhood": "Badasirei",
+  "street": "RR3V+794, Chakra Tirtha Rd",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.8032826,
+    "lng": 85.8436718
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJnV2nEQDFGToR9bTx9j3MPVw",
+  "categories": [
+    "Coffee shop"
+  ],
+  "fid": "0x3a19c50011a75d9d:0x5c3dcc3df6f1b4f5",
+  "cid": "6646693191576827125",
+  "reviewsCount": 83,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 5,
+    "fiveStar": 77
+  },
+  "imagesCount": 93,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:37.114Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 11:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sunshine%20Cafe&query_place_id=ChIJnV2nEQDFGToR9bTx9j3MPVw",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 3,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLegKw9w_zQu-z_f5IkrOpllDV-iEsxGgs-nPrgaGLrF4SkVOl1zr9ObWlL4_tR9i4u1Qp6shDuysvcRD2lhVUn080cApkT7Tt58QIEDJuXc292zrONzds7VO_Cb-UhxRR-rTMRmI4lyMRjv=w408-h544-k-no",
+  "kgmid": "/g/11wvqr23z9",
+  "businessProfileId": null
+},
+{
+  "title": "PURI Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Shree Setu Fly over Bridge, Puri Bhubaneswar Bypass, Road, New Sujata Nagar, Puri, Odisha 752002, India",
+  "neighborhood": "New Sujata Nagar",
+  "street": "Shree Setu Fly over Bridge, Puri Bhubaneswar Bypass, Road",
+  "city": "Puri, Samanga",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 70030 09364",
+  "phoneUnformatted": "+917003009364",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8207623,
+    "lng": 85.8149732
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJbRPaSvnHGToR5rYQHm10lnY",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c7f94ada136d:0x7696746d1e10b6e6",
+  "cid": "8545145354986764006",
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:37.114Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=PURI%20Cafe&query_place_id=ChIJbRPaSvnHGToR5rYQHm10lnY",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 4,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ1gZTJkWiSF3WatpdwO6-XU3Rpe2u3n2m9c2bA4aNzLLgKc9yeOvwYhVV7kH7tZZK51b7O2ZeENV6nXY8SI5e3JKvNk7m-AbC6egXIu9ojQl8DBQnbd2Vw43CfPDDLNAzJIOeLt04Tcnq=w408-h306-k-no",
+  "kgmid": "/g/11lw4drrqr",
+  "businessProfileId": "14531006675844164680"
+},
+{
+  "title": "Kouzina Kafe - The Food Court",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Ward No -24, Uppar, near Malijaga Hanuman Temple, Badasankha, Mali Sahi, Puri, Odisha 752002, India",
+  "neighborhood": "Badasankha",
+  "street": "Ward No -24, Uppar, near Malijaga Hanuman Temple",
+  "city": "Mali Sahi, Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 89261 51954",
+  "phoneUnformatted": "+918926151954",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8133986,
+    "lng": 85.8324663
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJgeb0hPnHGToRaLCLB-Gql3s",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c7f984f4e681:0x7b97aae1078bb068",
+  "cid": "8905774671619403880",
+  "reviewsCount": 25,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 21
+  },
+  "imagesCount": 28,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:37.114Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 12 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 12 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 12 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 12 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 12 AM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kouzina%20Kafe%20-%20The%20Food%20Court&query_place_id=ChIJgeb0hPnHGToRaLCLB-Gql3s",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOTRSAKUqLKLQiAoh24PLAq2SLCPfolmUGlUtbCeBxHDXkCQBxtw-0RItnTYpgU3tXEyAEWQfdp52QoSNCs367ABGWm98KRCx0rppfWVVUx9Tr-DROH9_m87IbCTNUFPMOb2Ek=w408-h306-k-no",
+  "kgmid": "/g/11vzktwnr7",
+  "businessProfileId": "13013710680807956370"
+},
+{
+  "title": "CAFE K HOUSE",
+  "subTitle": "କ୍ୟାଫେ କେ ହାଉସ",
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "College Rd, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "College Rd",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://www.instagram.com/cafe_k_house?igsh=ZGkzYmRlMXp6dXlr",
+  "phone": "+91 99370 40007",
+  "phoneUnformatted": "+919937040007",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8060834,
+    "lng": 85.8304093
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJp0WZtXDFGToRbUOVVRCdYEc",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c570b59945a7:0x47609d105595436d",
+  "cid": "5143283467937989485",
+  "reviewsCount": 52,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 1,
+    "threeStar": 3,
+    "fourStar": 12,
+    "fiveStar": 33
+  },
+  "imagesCount": 41,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:37.114Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:30 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:30 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:30 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:30 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:30 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8:30 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8:30 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=CAFE%20K%20HOUSE&query_place_id=ChIJp0WZtXDFGToRbUOVVRCdYEc",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 7,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe82_Yigj3S7OM9PSUQYBdod0Zn5oD0JN4cogQai2smjrMOvvMFbN_zs77kQ5j9gfzPvHnMbDuYWWgNNXeTZewpn9e_W6okUogMrW9vQl-KrPr00R70XGPVdpZPuSWo5TtMWCI1dpUOIKU=w408-h306-k-no",
+  "kgmid": "/g/11j2ls_k0n",
+  "businessProfileId": "6539113302309761692"
+},
+{
+  "title": "Ashish Panda Food and Beverage Co.",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Bhanumati Rd, Dolamandap Sahi, Puri, Odisha 752001, India",
+  "neighborhood": "Dolamandap Sahi",
+  "street": "Bhanumati Rd",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 99373 66463",
+  "phoneUnformatted": "+919937366463",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8043278,
+    "lng": 85.8206382
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJneD9Ll7FGToR7RJdG5jQDrU",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c55e2efde09d:0xb50ed0981b5d12ed",
+  "cid": "13046594522251596525",
+  "reviewsCount": 680,
+  "reviewsDistribution": {
+    "oneStar": 66,
+    "twoStar": 6,
+    "threeStar": 5,
+    "fourStar": 8,
+    "fiveStar": 595
+  },
+  "imagesCount": 89,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:37.114Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7:30 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7:30 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7:30 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7:30 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7:30 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7:30 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7:30 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ashish%20Panda%20Food%20and%20Beverage%20Co.&query_place_id=ChIJneD9Ll7FGToR7RJdG5jQDrU",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEyalkzW_60Z2SbhGuW3I-q5n_TVBCA7gWW0VQfgw8sTQw5pZqo_xz-Ye_UoCUKoR9ib1n7OpgWCBOfKvwObOPRd5BT3Arr3vjXPGsn7PYP2jrFKwDxESmsb9LtOxJ9DnBfpU-0AAwhS0A=w408-h306-k-no",
+  "kgmid": "/g/11pyc3ct0m",
+  "businessProfileId": "6274269301549099980"
+},
+{
+  "title": "Koraput Coffee Café",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Coffee shop",
+  "address": "QRXP+HJ, Puri, Odisha 752002, India",
+  "neighborhood": null,
+  "street": "QRXP+HJ",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.7988288,
+    "lng": 85.8359861
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJF4o7zmnFGToRidvFocUy5W4",
+  "categories": [
+    "Coffee shop"
+  ],
+  "fid": "0x3a19c569ce3b8a17:0x6ee532c5a1c5db89",
+  "cid": "7990848938242857865",
+  "reviewsCount": 68,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 0,
+    "threeStar": 6,
+    "fourStar": 12,
+    "fiveStar": 45
+  },
+  "imagesCount": 226,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:37.115Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "4 to 9:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 to 9:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 to 9:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4 to 9:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4 to 9:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "4 to 9:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "4 to 9:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Koraput%20Coffee%20Caf%C3%A9&query_place_id=ChIJF4o7zmnFGToRidvFocUy5W4",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.83384161580085,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmgTLl2BgEU-0zpQStd_lgjqf9-YGgxPc1RKn4FUhx7gz8nYd0DuC19w5S8vshvAGFTb_jIUy84qCc8l_QxoMQaCupv7LJX4JqgNTlDgCxx6h1lYhXer4YAjcRBduSwyReClXs=w426-h240-k-no",
+  "kgmid": "/g/11r_qvfr25",
+  "businessProfileId": null
+},
+{
+  "title": "Café Daffodil",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "RR7M+M22, NH316, Badasankha, Puri, Odisha 752002, India",
+  "neighborhood": "Badasankha",
+  "street": "RR7M+M22, NH316",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 73777 26999",
+  "phoneUnformatted": "+917377726999",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8141615,
+    "lng": 85.832627
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJB81kWgDHGToRjwZ3oHu24uY",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c7005a64cd07:0xe6e2b67ba077068f",
+  "cid": "16637060615549421199",
+  "reviewsCount": 448,
+  "reviewsDistribution": {
+    "oneStar": 18,
+    "twoStar": 3,
+    "threeStar": 3,
+    "fourStar": 23,
+    "fiveStar": 401
+  },
+  "imagesCount": 188,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.707Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Daffodil&query_place_id=ChIJB81kWgDHGToRjwZ3oHu24uY",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfk8lo_jYiTu86ZLpf06bPXANkJPYxEEbIKLQQOKEVhbIE-Nq6rwHOcSEn4489Bjm2Gs9Swrnv1QmpNYBTvGod7YDM4sBS4FtGq9uCRMD8VbpOdxF-BRoyhqyjqodHo9AZDGPmVvbo4whdf=w408-h306-k-no",
+  "kgmid": "/g/11xvbn_m33",
+  "businessProfileId": "18325692640668499068"
+},
+{
+  "title": "Café Daffodil",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Swami Pranavananda Marg, Baliapanda, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "Swami Pranavananda Marg",
+  "city": "Baliapanda, Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.7937428,
+    "lng": 85.8119404
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ5fuaF93FGToRD1TQUZwDGH0",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c5dd179afbe5:0x7d18039c51d0540f",
+  "cid": "9013958624104436751",
+  "reviewsCount": 96,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 3,
+    "fiveStar": 92
+  },
+  "imagesCount": 25,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.707Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Daffodil&query_place_id=ChIJ5fuaF93FGToRD1TQUZwDGH0",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 5,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTpcvIbiFzwAgTbX7WiKnyYQ1YssrL0cSdHSRUtuh_kMeE5yXL76nM_K8Qnsv_9m2Nr_QZnrq9FBumfPvQw5Ff6J_etWz6FkDqhwAkKRQ0D-a3WS2J_vMECMhwRFclIcqVfmqH7dQ3qpRS=w408-h306-k-no",
+  "kgmid": "/g/11zdrshq46",
+  "businessProfileId": "17853017273344032921"
+},
+{
+  "title": "Momo Magic Cafe Puri",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "VIP Rd, beside Waffle Castle, near Jhadeshwari Club, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "VIP Rd, beside Waffle Castle, near Jhadeshwari Club",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 77499 10858",
+  "phoneUnformatted": "+917749910858",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8075528,
+    "lng": 85.8326219
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJASm2VEvHGToR5h0gKT3eNN8",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c74b54b62901:0xdf34de3d29201de6",
+  "cid": "16083724523511225830",
+  "reviewsCount": 212,
+  "reviewsDistribution": {
+    "oneStar": 15,
+    "twoStar": 3,
+    "threeStar": 5,
+    "fourStar": 21,
+    "fiveStar": 168
+  },
+  "imagesCount": 53,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.707Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Momo%20Magic%20Cafe%20Puri&query_place_id=ChIJASm2VEvHGToR5h0gKT3eNN8",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_VmbNJz66ciFbjBt1nlT3I0sDNQGdwBOkqdYOPini1T6Pp1c86dHEqQyqdNelTQ2gs3p4_Nb_N6nOnqQst44dBmm2vKfCLXZt7kteJ7OO6LvY-BEYo-Ns25ePCzp_n85meBVkhI7DjgRw=w408-h541-k-no",
+  "kgmid": "/g/11zctgb7h_",
+  "businessProfileId": "2351761998984085590"
+},
+{
+  "title": "Swaadeshi cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "VIP road, rameswaram temple, near excise barak, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "VIP road, rameswaram temple, near excise barak",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8058056,
+    "lng": 85.8323518
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJiwNrGDbFGToRIUM6B2-NqtY",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c536186b038b:0xd6aa8d6f073a4321",
+  "cid": "15468331378159534881",
+  "reviewsCount": 19,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 19
+  },
+  "imagesCount": 27,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.707Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Swaadeshi%20cafe&query_place_id=ChIJiwNrGDbFGToRIUM6B2-NqtY",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 7,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2-hDdkXGb90iXPlAfBZMg2l5gR2WEe3W4jYCzShdKJ0V2b6ZDY4G6kAReiAjRHLS5y7tAVhFScqbV7dJ6B32i0wTw7q4pRRy9N-5wcIrqlS7WQq707bzIsVgpbLqqn2q2pxRf9F1X1RWqaOaZ8T2AuuB7_GGZw8iYCFvx6Kx4vwEB7yLQ3u8BC=w408-h271-k-no",
+  "kgmid": "/g/11nw35qx8l",
+  "businessProfileId": "8299505498837611140"
+},
+{
+  "title": "Beach Shack cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Coffee shop",
+  "address": "Marine drive road, Baliapanda Rd, near Lighthouse Lane, Baliapanda Housing Board Colony, Puri, Odisha 752001, India",
+  "neighborhood": "Baliapanda Housing Board Colony",
+  "street": "Marine drive road, Baliapanda Rd, near Lighthouse Lane",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://www.instagram.com/beachshackcafe2k26?igsh=MW0weTRkdjQzcWdxZA==",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.7882661,
+    "lng": 85.8024944
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQ21eMADFGToRhjFiP4QJykE",
+  "categories": [
+    "Coffee shop",
+    "Restaurant"
+  ],
+  "fid": "0x3a19c500305e6d43:0x41ca09843f623186",
+  "cid": "4740612021364601222",
+  "reviewsCount": 269,
+  "reviewsDistribution": {
+    "oneStar": 8,
+    "twoStar": 3,
+    "threeStar": 1,
+    "fourStar": 25,
+    "fiveStar": 232
+  },
+  "imagesCount": 122,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.707Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "4 PM to 2 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "4 PM to 2 AM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Beach%20Shack%20cafe&query_place_id=ChIJQ21eMADFGToRhjFiP4QJykE",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVmyJM_QpRwuJmMFpX_d8a34kG7ixKDbOctZQFiLn2eF6z43Sizdr73QPVmj9Z5qmb72WHthCtfkdjLblnlcJre5t8Ylc1bCltOamdmsZU2S2u97NoxitW7Z7YWqUT7UULT6BM4dpb_kza=w408-h301-k-no",
+  "kgmid": "/g/11mzb4r3c8",
+  "businessProfileId": "1620084175614895551"
+},
+{
+  "title": "Sky Light Rooftop Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Hotel Sapphire International, Chakra Tirtha Rd, Penthakata, Puri, Odisha 752002, India",
+  "neighborhood": "Penthakata",
+  "street": "Hotel Sapphire International, Chakra Tirtha Rd",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8021612,
+    "lng": 85.8463089
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJOabo-GPFGToRwLOolWAxevA",
+  "categories": [
+    "Cafe",
+    "Hotel",
+    "Restaurant"
+  ],
+  "fid": "0x3a19c563f8e8a639:0xf07a316095a8b3c0",
+  "cid": "17328216807158887360",
+  "reviewsCount": 46,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 3,
+    "threeStar": 1,
+    "fourStar": 4,
+    "fiveStar": 38
+  },
+  "imagesCount": 38,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.707Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/JiZug4GpNbs?source=pa&opi=79508299&hl=en-US&gei=ldj1au2uBcmtur8PpqCJuAs&ahbb=1&sourceurl=https://www.google.com/search?authuser%3D0%26tbm%3Dmap%26q%3DCafe%26psi%3Dktj1at6jGszHkPIPyJ2_iAY.1794496658769.1%26hl%3Den%26gl%3Dus%26pb%3D!4m12!1m3!1d7506.382727941809!2d85.81666598419913!3d19.83185431690201!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!8i0!10b1!12m36!1m1!18b1!2m3!5m1!6e2!20e3!6m18!4b1!49b1!63m0!73m0!74i150000!75b1!85b1!89b1!91b1!101i97!110m0!114b1!149b1!171b1!176f8!179f90!182b1!183m0!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1sktj1at6jGszHkPIPyJ2_iAY!2s1i:0,t:20588,p:ktj1at6jGszHkPIPyJ2_iAY:22!4m1!2i20588!7e81!12e3!24m92!1m26!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m15!3b1!4b1!5b1!6b1!13b1!14b1!15b1!17b1!21b1!22b0!25b1!27m1!1b0!28b0!31b0!2b1!5m5!2b1!5b1!6b1!7b1!10b1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m17!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m8!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!9b1!89b1!103b1!113b1!117b1!122m1!1b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!34m19!2b1!3b1!4b1!6b1!7b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!46m1!1e10!47m0!49m7!3b1!6m2!1b1!2b1!7m2!1e3!2b1!50m25!1m21!2m7!1u3!4zT3RldsWZZW7DqQ!5e1!9s!10m2!3m1!1e1!2m7!1u2!4zTmVqbMOpcGUgaG9kbm9jZW7DqQ!5e1!9s!10m2!2m1!1e1!3m1!1u2!3m1!1u3!4BIAE!2e2!3m1!3b1!59BQ2dBd0Fn!61b1!67m3!7b1!10b1!14b0!69i675",
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible seating": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Light%20Rooftop%20Cafe&query_place_id=ChIJOabo-GPFGToRwLOolWAxevA",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 9,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzM2O-rGkfpyV9z-caRk-TTW9qBNLmLHXaav6dRKz298IqkhwvGaV4zmHWeoVph4Vyh7DTUidFZ2HIR-udm1HAi9soVdZTiB-wJ9qKgL9oi8I09XN5uAW5XtGNXZubniAg4TBWiQ=w408-h306-k-no",
+  "kgmid": "/g/11kspptk0r",
+  "businessProfileId": "18205171815644398812"
+},
+{
+  "title": "Cafe espresso",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "New, New Marine Drive Rd, near swargadwar, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "New, New Marine Drive Rd, near swargadwar",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://cafespresso.in/",
+  "phone": "+91 70644 59200",
+  "phoneUnformatted": "+917064459200",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.792352,
+    "lng": 85.8155131
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJB3cbovnFGToRBjuGcKrcp-g",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c5f9a21b7707:0xe8a7dcaa70863b06",
+  "cid": "16764610762500356870",
+  "reviewsCount": 47,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 3,
+    "fiveStar": 44
+  },
+  "imagesCount": 29,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.708Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20espresso&query_place_id=ChIJB3cbovnFGToRBjuGcKrcp-g",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNSug6cra9UQ5BD-dBISbZr9VJ5g039vGJ3lTRbAqTb-Nv9qC7dY5essUfbxneiHkLPHSqPy2LcYrl6EF2OlzHgvQKViip-C2GAfLkRvVEYPg9xulY6eHdL-V4IKrtbzooUEGMFyxcYRmO=w408-h544-k-no",
+  "kgmid": "/g/11nv2bcvt8",
+  "businessProfileId": "4503020826280139781"
+},
+{
+  "title": "The Aura Cloud Kitchen & Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Talabania Helipad, Ln 4, PKRIT Colony, Puri, Odisha 752002, India",
+  "neighborhood": "PKRIT Colony",
+  "street": "Talabania Helipad, Ln 4",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 97772 03026",
+  "phoneUnformatted": "+919777203026",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8125044,
+    "lng": 85.8462576
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ4T7ZhXDHGToRDJ_s08KXdyg",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c77085d93ee1:0x287797c2d3ec9f0c",
+  "cid": "2915966146780634892",
+  "reviewsCount": 33,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 2,
+    "fiveStar": 31
+  },
+  "imagesCount": 20,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.708Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Aura%20Cloud%20Kitchen%20%26%20Cafe&query_place_id=ChIJ4T7ZhXDHGToRDJ_s08KXdyg",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLexfrm3P1MIFMga_ajD6yqU_g7XEyhUNIea8HIuwkw7KTpxqGCmrbUpnijUVNxq9v6YNzd2OaHxEwv42lzAIhLWq8W61IPKvrUlNSaXLXArhVcGvKd0PNJ0zIxG--qfbSKEgaYjju5Gb2k=w408-h260-k-no",
+  "kgmid": "/g/11z0vbdm5x",
+  "businessProfileId": "17035521713029118387"
+},
+{
+  "title": "Zorko Puri",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "SCS college back gate, beside Padhee tutorial, Duttatota, Puri, Odisha 752001, India",
+  "neighborhood": "Duttatota",
+  "street": "SCS college back gate, beside Padhee tutorial",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 63728 27713",
+  "phoneUnformatted": "+916372827713",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.806249,
+    "lng": 85.8298911
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJS14aE3PHGToRmGfWDPN8XlI",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c773131a5e4b:0x525e7cf30cd66798",
+  "cid": "5935318742255167384",
+  "reviewsCount": 57,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 6,
+    "fiveStar": 47
+  },
+  "imagesCount": 172,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.708Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/VTB_sNO3VKo?source=pa&opi=79508299&hl=en-US&gei=ldj1au2uBcmtur8PpqCJuAs&ahbb=1&sourceurl=https://www.google.com/search?authuser%3D0%26tbm%3Dmap%26q%3DCafe%26psi%3Dktj1at6jGszHkPIPyJ2_iAY.1794496658769.1%26hl%3Den%26gl%3Dus%26pb%3D!4m12!1m3!1d7506.382727941809!2d85.81666598419913!3d19.83185431690201!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!8i0!10b1!12m36!1m1!18b1!2m3!5m1!6e2!20e3!6m18!4b1!49b1!63m0!73m0!74i150000!75b1!85b1!89b1!91b1!101i97!110m0!114b1!149b1!171b1!176f8!179f90!182b1!183m0!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1sktj1at6jGszHkPIPyJ2_iAY!2s1i:0,t:20588,p:ktj1at6jGszHkPIPyJ2_iAY:22!4m1!2i20588!7e81!12e3!24m92!1m26!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m15!3b1!4b1!5b1!6b1!13b1!14b1!15b1!17b1!21b1!22b0!25b1!27m1!1b0!28b0!31b0!2b1!5m5!2b1!5b1!6b1!7b1!10b1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m17!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m8!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!9b1!89b1!103b1!113b1!117b1!122m1!1b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!34m19!2b1!3b1!4b1!6b1!7b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!46m1!1e10!47m0!49m7!3b1!6m2!1b1!2b1!7m2!1e3!2b1!50m25!1m21!2m7!1u3!4zT3RldsWZZW7DqQ!5e1!9s!10m2!3m1!1e1!2m7!1u2!4zTmVqbMOpcGUgaG9kbm9jZW7DqQ!5e1!9s!10m2!2m1!1e1!3m1!1u2!3m1!1u3!4BIAE!2e2!3m1!3b1!59BQ2dBd0Fn!61b1!67m3!7b1!10b1!14b0!69i675",
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11:30 AM to 1:30 PM, 4:30 to 9:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11:30 AM to 1:30 PM, 4:30 to 9:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11:30 AM to 1:30 PM, 4:30 to 9:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11:30 AM to 1:30 PM, 4:30 to 9:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11:30 AM to 1:30 PM, 4:30 to 9:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11:30 AM to 1:30 PM, 4:30 to 9:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11:30 AM to 1:30 PM, 4:30 to 9:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Zorko%20Puri&query_place_id=ChIJS14aE3PHGToRmGfWDPN8XlI",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLepmPMGInQEI1KPorA1lwdgxaM8zHVBPY3agXZjEFiPW_YA__NF0-sGsrk1Rx92mkf3AqzMHksWicowVCXmPUQ9s_crHCmIGWA3h7_kfBWlbxda3sKT3KiK1G7pvsZ8PgyS_j80BH6H37f3=w408-h544-k-no",
+  "kgmid": "/g/11m_36vtf_",
+  "businessProfileId": "6705364024026466703"
+},
+{
+  "title": "Cafe Cookies",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "New Marine Drive Rd, Baliapanda Housing Board Colony, Puri, Odisha 752001, India",
+  "neighborhood": "Baliapanda Housing Board Colony",
+  "street": "New Marine Drive Rd",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.7883866,
+    "lng": 85.8029838
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJLbJypU_FGToRZroIjPenppM",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c54fa572b22d:0x93a6a7f78c08ba66",
+  "cid": "10639375851357518438",
+  "reviewsCount": 1746,
+  "reviewsDistribution": {
+    "oneStar": 189,
+    "twoStar": 63,
+    "threeStar": 87,
+    "fourStar": 282,
+    "fiveStar": 1125
+  },
+  "imagesCount": 3265,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.708Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Cookies&query_place_id=ChIJLbJypU_FGToRZroIjPenppM",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 15,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6AQWBOZ6DCUnSFO4pwcti9x-6hiUhqpaUX5UWGtIKg2cgDnu73Gxjj3lKtQca8DKLTkCPjo5H2nZYfmwi0Cf9ak7Ue-Ybo7o5bRb4wuhenf9kA_pBcByOO7-Iy6-0YDGBv9z0=w408-h544-k-no",
+  "kgmid": "/g/11ssnqxn1n",
+  "businessProfileId": "1176436315252777032"
+},
+{
+  "title": "Cafe Cookies",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "SCS Nagar, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "SCS Nagar",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8045489,
+    "lng": 85.8296206
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJqRy256jFGToRmjJGZtAgre8",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c5a8e7b61ca9:0xefad20d06646329a",
+  "cid": "17270496225476883098",
+  "reviewsCount": 98,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 28,
+    "fiveStar": 60
+  },
+  "imagesCount": 136,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.708Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Cookies&query_place_id=ChIJqRy256jFGToRmjJGZtAgre8",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4_2j1ijTfQbqDgfDXCHwK1JHaZqYUpwsr9kSVweqHX3UYAASs1koKles9asoLo09nHP_NdiDhT0avnSF_sAIkDqOif86s8D86bxKXQNQiwHW4i4ObpR1EYQZNSjZ_uejF6bwL-w=w408-h306-k-no",
+  "kgmid": "/g/11l33bhn9m",
+  "businessProfileId": "5042090517496826134"
+},
+{
+  "title": "Bumpy Bites",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "RR4H+FR8 SCS College Back Gate, Duttatota, Puri, Odisha 752001, India",
+  "neighborhood": "Duttatota",
+  "street": "RR4H+FR8 SCS College Back Gate",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://www.instagram.com/bumpy_bites_official?igsh=dHF2aXlxMGo1bGtw",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8061875,
+    "lng": 85.8295625
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUTu76NrHGToRiIfi1Hm0Vvk",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c7dae8bb3b51:0xf956b479d4e28788",
+  "cid": "17966746198796830600",
+  "reviewsCount": 310,
+  "reviewsDistribution": {
+    "oneStar": 19,
+    "twoStar": 7,
+    "threeStar": 13,
+    "fourStar": 46,
+    "fiveStar": 225
+  },
+  "imagesCount": 172,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.708Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12:30 to 3 PM, 6:30 to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12:30 to 3 PM, 6:30 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12:30 to 3 PM, 6:30 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12:30 to 3 PM, 6:30 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12:30 to 3 PM, 6:30 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12:30 to 3 PM, 6:30 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12:30 to 3 PM, 6:30 to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible seating": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bumpy%20Bites&query_place_id=ChIJUTu76NrHGToRiIfi1Hm0Vvk",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfS2rNYZgDwF5vbDXp0vUSCRuNn6vai7erFRsBKMLFepZKUaNIoBj_jgts4W52zqnRWMy3cO8gRvR9mRz7fnyaCrCSr-VxSIbLk2pnIZm0A2o7O8cAlHjVnmjsFE7ZL7IMiGepf_SmIlaMl=w408-h306-k-no",
+  "kgmid": "/g/11v0t193sk",
+  "businessProfileId": "11925564418858522555"
+},
+{
+  "title": "Harry's Cafe",
+  "subTitle": "ହ୍ୟାରିଙ୍କ କ୍ୟାଫେ",
+  "description": "Vegetarian Indian snacks & thali served alongside Chinese staples offered in a casual setting.",
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Chakra Tirtha Rd, Badasirei, Puri, Odisha 752002, India",
+  "neighborhood": "Badasirei",
+  "street": "Chakra Tirtha Rd",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 94377 53675",
+  "phoneUnformatted": "+919437753675",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8034075,
+    "lng": 85.8443172
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ1aMynQHEGToRi4QqpG_SrM0",
+  "categories": [
+    "Cafe",
+    "Breakfast restaurant",
+    "Vegetarian restaurant",
+    "Fast food restaurant"
+  ],
+  "fid": "0x3a19c4019d32a3d5:0xcdacd26fa42a848b",
+  "cid": "14820451850706912395",
+  "reviewsCount": 1529,
+  "reviewsDistribution": {
+    "oneStar": 49,
+    "twoStar": 25,
+    "threeStar": 43,
+    "fourStar": 125,
+    "fiveStar": 1287
+  },
+  "imagesCount": 141,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.708Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:30 AM to 4 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:30 AM to 4 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:30 AM to 4 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:30 AM to 4 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:30 AM to 4 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8:30 AM to 4 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8:30 AM to 4 PM, 7 to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible seating": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Harry's%20Cafe&query_place_id=ChIJ1aMynQHEGToRi4QqpG_SrM0",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDPaulQ8yq6kb0MMdimWxKVi8puwXkB8PaKZJShkSSMWR_CHSnD7AuZ2Dqhhf6tAgGAVbVeyxQLawpyrbFMpWO65NdzjMqfulzqo2o1Dpx4KUEO2kg-oBfAnnh-WPA5eixcPGyAIyjXLAd=w408-h306-k-no",
+  "kgmid": "/g/11hbt4m81h",
+  "businessProfileId": "9194486371433965587"
+},
+{
+  "title": "Narayan cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "near raj hotel, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "near raj hotel",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 83380 29272",
+  "phoneUnformatted": "+918338029272",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.7919117,
+    "lng": 85.8104093
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJj_bOFADFGToR5M6lu523lZc",
+  "categories": [
+    "Cafe",
+    "Coffee shop"
+  ],
+  "fid": "0x3a19c50014cef68f:0x9795b79dbba5cee4",
+  "cid": "10922838359342960356",
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 11
+  },
+  "imagesCount": 9,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.708Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Narayan%20cafe&query_place_id=ChIJj_bOFADFGToR5M6lu523lZc",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJvZReLTgTdfjWnCwZ5EmqIHIh52rrpXQTXbj8CNKbLWmqWCmOjYlCps1imHGqQST3f5QGnWkpzw7uQT-wsnNvpTeJGvLN14o0wAndP4ET4lcv3atv1d6YbmPIDyZQDfG3C60_NzWVBDUD=w408-h306-k-no",
+  "kgmid": "/g/11zzvm791t",
+  "businessProfileId": "12929451736284539983"
+},
+{
+  "title": "Chilli Darbar",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Family restaurant",
+  "address": "VIP Rd, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "VIP Rd",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8029941,
+    "lng": 85.8322548
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ6_ao21fFGToRBR7z7op_mr0",
+  "categories": [
+    "Family restaurant"
+  ],
+  "fid": "0x3a19c557dba8f6eb:0xbd9a7f8aeef31e05",
+  "cid": "13662372654272945669",
+  "reviewsCount": 38,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 3,
+    "fiveStar": 33
+  },
+  "imagesCount": 26,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.741Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 3:30 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 3:30 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 3:30 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 3:30 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 3:30 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 3:30 PM, 7 to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 3:30 PM, 7 to 10:30 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Breakfast": [
+      {
+        "day": "Monday",
+        "hours": "7–11 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7–11 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7–11 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7–11 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7–11 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7–11 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7–11 AM"
+      }
+    ]
+  },
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Chilli%20Darbar&query_place_id=ChIJ6_ao21fFGToRBR7z7op_mr0",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 7,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeno78AySfPquAT-0jJsUQ7t8hgHw0sUhRQaupKNPb-INwQhii6adW0NjTvPyb3mI0ErmqFr3AdPGdserdn-CnvaeQPyMTe0uBvwjLX39whVPoaHZlvizYyFVpoBqu5TBzfLtiz9WQ-t3Ou=w408-h256-k-no",
+  "kgmid": "/g/11nvtmc_0v",
+  "businessProfileId": "17205424404136025841"
+},
+{
+  "title": "TULASI HOTEL AND RESTAURANTS",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "in front of Tulashi Appartment, Golasahi, Rebatiraman, Odisha 752002, India",
+  "neighborhood": null,
+  "street": "in front of Tulashi Appartment",
+  "city": "Golasahi, Rebatiraman",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 82492 75910",
+  "phoneUnformatted": "+918249275910",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8165256,
+    "lng": 85.7881171
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQ8SqS-LHGToRHJR8nmVyKr8",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c7e24baac443:0xbf2a72659e7c941c",
+  "cid": "13774948191042311196",
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 11
+  },
+  "imagesCount": 84,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.742Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=TULASI%20HOTEL%20AND%20RESTAURANTS&query_place_id=ChIJQ8SqS-LHGToRHJR8nmVyKr8",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdakpC98uSvcDZL2WK8NZ2Em3oVCG6mT0bwnPscpT9aBe2fbgDoHLLvD7zSiM-R2OLF7_lFeSY1awlFFRrL9VJM49co1ufgjfEM8_TAnUR1t77KDgo-v7kOWC8D0kgRccDdHpyKOQxh6TM7=w480-h240-k-no",
+  "kgmid": "/g/11zbnj8svd",
+  "businessProfileId": "13311719143739214983"
+},
+{
+  "title": "Hot Spot Multicuisine Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Darji pokhari, chhak, Puri, Odisha 752002, India",
+  "neighborhood": "chhak",
+  "street": "Darji pokhari",
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8107912,
+    "lng": 85.8309512
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJsYppOKnHGToRPunTNCMjFYk",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c7a938698ab1:0x8915232334d3e93e",
+  "cid": "9877839991824181566",
+  "reviewsCount": 6,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 5
+  },
+  "imagesCount": 69,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.742Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hot%20Spot%20Multicuisine%20Restaurant&query_place_id=ChIJsYppOKnHGToRPunTNCMjFYk",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeH1Oi1cmh0YmZAo0tYde_iiGnMZ7U-lrsXIHIi9fJPzlNzcqtTbVVablxTxfZCzCDvw9NMhB7iyVbx_BTgqJvyL5Lhk2LbTwnmhe5e1tvuDHfSMMPETfgx3Lxpt9tVYd_94n_KVu7_63Bs=w425-h240-k-no",
+  "kgmid": "/g/11n52wly41",
+  "businessProfileId": "7416678162410261086"
+},
+{
+  "title": "EAT Restaurant, Puri ( Veg & Pure veg )",
+  "subTitle": null,
+  "description": "Counter-serve outlet for breakfast and coffee, sandwiches, soups and salads.",
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Grand Rd, near Nayak Plaza, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "Grand Rd, near Nayak Plaza",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 70080 10177",
+  "phoneUnformatted": "+917008010177",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8126871,
+    "lng": 85.8291777
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ5Wl2qVXHGToR-MLRBeP_UFQ",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c755a97669e5:0x5450ffe305d1c2f8",
+  "cid": "6075637247843091192",
+  "reviewsCount": 301,
+  "reviewsDistribution": {
+    "oneStar": 61,
+    "twoStar": 9,
+    "threeStar": 22,
+    "fourStar": 47,
+    "fiveStar": 162
+  },
+  "imagesCount": 478,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.742Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=EAT%20Restaurant%2C%20Puri%20(%20Veg%20%26%20Pure%20veg%20)&query_place_id=ChIJ5Wl2qVXHGToR-MLRBeP_UFQ",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYaHK1mOFBoH-uOKryb7C6vvml5haRq4VQGrflBdbouYkrYRVvv2o_LfEjZxJbOH6APKK6lD1hlRkke7r_oXrD-AVEVx9vBh25aR3KTwXE4WaF4y2EZFbZ-2bQkqmeasrCLuQ=w533-h240-k-no",
+  "kgmid": "/g/11rv1m3cx0",
+  "businessProfileId": "15506248038512146313"
+},
+{
+  "title": "RK restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "QRX3+X9F, Parvati nagar, Kriyayoga ashram Lane, Damodar Rd, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "QRX3+X9F, Parvati nagar, Kriyayoga ashram Lane, Damodar Rd",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 91142 40156",
+  "phoneUnformatted": "+919114240156",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.7999406,
+    "lng": 85.8034067
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJo5l1HgDFGToRGHOFE1xGqvk",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c5001e7599a3:0xf9aa465c13857318",
+  "cid": "17990269022763315992",
+  "reviewsCount": 35,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 0,
+    "fiveStar": 33
+  },
+  "imagesCount": 54,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.742Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7:30 AM to 9:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7:30 AM to 9:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7:30 AM to 9:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7:30 AM to 9:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7:30 AM to 9:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7:30 AM to 9:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7:30 AM to 9:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=RK%20restaurant&query_place_id=ChIJo5l1HgDFGToRGHOFE1xGqvk",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2UmpA68QLt0a98GNLTewkOgX6XaNKykZepgBrGCbEuAqT8w4yEi7lgNRqtKY5VQfhshgu0Hc9g2zlyr_p6KHu10PBumROCqgYTLJoUHD1iJOwgkPmkunk9AcKsr8hTgirQe78wpnH3J6VID3H9v_g_UbbxVy7yT_Mx3sfWZ9EwvXhmTNjN223E=w408-h271-k-no",
+  "kgmid": "/g/11w8x5bpqk",
+  "businessProfileId": null
+},
+{
+  "title": "THE RESTRO HOUSE",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Ramaballav Rd, near st xavier high school, near 752002, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "Ramaballav Rd, near st xavier high school, near 752002",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 80797 70769",
+  "phoneUnformatted": "+918079770769",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.8024698,
+    "lng": 85.8313075
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJDZ-QcjPFGToR50A406kTGg4",
+  "categories": [
+    "Restaurant",
+    "Cafe"
+  ],
+  "fid": "0x3a19c53372909f0d:0xe1a13a9d33840e7",
+  "cid": "1016146286039548135",
+  "reviewsCount": 117,
+  "reviewsDistribution": {
+    "oneStar": 9,
+    "twoStar": 4,
+    "threeStar": 1,
+    "fourStar": 9,
+    "fiveStar": 94
+  },
+  "imagesCount": 155,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.742Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 3 PM, 6:30 to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 3 PM, 6:30 to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 3 PM, 6:30 to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 3 PM, 6:30 to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 3 PM, 6:30 to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 3 PM, 6:30 to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 3 PM, 6:30 to 10:30 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Kitchen": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM–9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM–9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM–9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM–9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM–9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM–9 PM"
+      }
+    ],
+    "Dinner": [
+      {
+        "day": "Monday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM–5 PM"
+      }
+    ]
+  },
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Assistive hearing loop": true
+      },
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      },
+      {
+        "Wheelchair accessible restroom": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=THE%20RESTRO%20HOUSE&query_place_id=ChIJDZ-QcjPFGToR50A406kTGg4",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLemtOK5nZhW-uZNkVvnfRaPpfp76RaVyj2TmyVv52f-n7he6PlS22dRPCydpRX1c5WaWbJWs_LPHcuHpyqoq8ln9svC4oZ0V_H1Cb9g-gLumMNb-Cu_W-xkr7siaXA7PNsmWAJ7J76sDaPN=w408-h544-k-no",
+  "kgmid": "/g/11mdpf4b1w",
+  "businessProfileId": "2091041092180890572"
+},
+{
+  "title": "PURNA STREET FOOD DUM PUKHT BIRYANI",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "near Alikia, Puri, Batagaon, Odisha 752002, India",
+  "neighborhood": null,
+  "street": "near Alikia",
+  "city": "Puri, Batagaon",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 83580 61232",
+  "phoneUnformatted": "+918358061232",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.848643,
+    "lng": 85.8363719
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJw14WmtnGGToRkUkco7RF83M",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19c6d99a165ec3:0x73f345b4a31c4991",
+  "cid": "8355098375835371921",
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 8
+  },
+  "imagesCount": 17,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:41.743Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 11:30 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Lunch": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM–4 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM–4 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM–4:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM–4:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM–4 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM–4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM–4 PM"
+      }
+    ],
+    "Dinner": [
+      {
+        "day": "Monday",
+        "hours": "6:30–11:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6:30–11:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6:30–11:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6:30–11:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6:30–11:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6:30–11:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6:30–11:30 PM"
+      }
+    ]
+  },
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Assistive hearing loop": false
+      },
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible restroom": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=PURNA%20STREET%20FOOD%20DUM%20PUKHT%20BIRYANI&query_place_id=ChIJw14WmtnGGToRkUkco7RF83M",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@19.83185431690201,85.81666598419913,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJlD-Cx7q9jtbblpws0lKseBB6vhz8_u7dFwRzdx5-ZCarB1PuqxWb7aL29o0Gj4uBkjwlmrHp1-_bIpXS8EEUwpMuuHTAOgYvl2I4XpMg0F59kbaphBjJ-CSE2zsyTRngpbst=w426-h240-k-no",
+  "kgmid": "/g/11kbbschpx",
+  "businessProfileId": "2567304370803525279"
+},
+{
+  "title": "After Coffee",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "PW-1, near Gattani Sevaniketan, PWD Colony, Puri, Odisha 752001, India",
+  "neighborhood": "PWD Colony",
+  "street": "PW-1, near Gattani Sevaniketan",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.800748,
+    "lng": 85.8296458
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUebapdDFGToRk1xcOfCXPO0",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19c5d0a5dae651:0xed3c97f0395c5c93",
+  "cid": "17094705343601859731",
+  "reviewsCount": 4,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 4
+  },
+  "imagesCount": 63,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:45.998Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=After%20Coffee&query_place_id=ChIJUebapdDFGToRk1xcOfCXPO0",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.79952629436599,85.83384161580085,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3UEha85f6ek0zTmDMZ4tZqC5psXJsEmwGcs4M0dA5VQQ_rNOdFNIyfeoLqXN_ccPbAHTau8E7JA1LLyO-UAMwnrHI6mNZAKm6LdPz0JF1EG3fiVY7oFMdhgEK-54ehVnKV7OkueIYtC1MddKM5V17WEALkxNNw3zUJLLOyrappApAk0t4ycyMC=w408-h271-k-no",
+  "kgmid": "/g/11zxmydnv7",
+  "businessProfileId": "11146989895901563119"
+},
+{
+  "title": "Honey Bee Bakery And Pizzeria",
+  "subTitle": "ହନୀ ବି ବେକରୀ ଆଣ୍ଡ ପିଜ୍ଜେରିଆ",
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Badasirei, Puri, Odisha 752002, India",
+  "neighborhood": "Badasirei",
+  "street": null,
+  "city": "Puri",
+  "postalCode": "752002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.8028543,
+    "lng": 85.8424178
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ0w6ZAAHEGToRTd-7C757TJw",
+  "categories": [
+    "Cafe",
+    "Bakery",
+    "Restaurant",
+    "Western restaurant"
+  ],
+  "fid": "0x3a19c40100990ed3:0x9c4c7bbe0bbbdf4d",
+  "cid": "11262512824317632333",
+  "reviewsCount": 1715,
+  "reviewsDistribution": {
+    "oneStar": 108,
+    "twoStar": 63,
+    "threeStar": 137,
+    "fourStar": 384,
+    "fiveStar": 1023
+  },
+  "imagesCount": 2432,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:45.998Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:30 AM to 2 PM, 6 to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:30 AM to 2 PM, 6 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:30 AM to 2 PM, 6 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:30 AM to 2 PM, 6 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:30 AM to 2 PM, 6 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8:30 AM to 2 PM, 6 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8:30 AM to 2 PM, 6 to 9:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Honey%20Bee%20Bakery%20And%20Pizzeria&query_place_id=ChIJ0w6ZAAHEGToRTd-7C757TJw",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.79952629436599,85.83384161580085,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 13,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczttCg7s51AoFaaghkRErpAr7cGYBXLpWrTDw9Efs05NisJ3ZEABiPCjh5Kvs5PMAwt3PtB0dv1xpFp59xe8ce3gkMC6baKe-NvamO6TDFdBi7brT5vAG23oPeCHTT-ewPbeLrXg=w408-h306-k-no",
+  "kgmid": "/g/1tdbp8ws",
+  "businessProfileId": null
+},
+{
+  "title": "TEA TIME PURI",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Ward 12, Plot No 64, Gopal Ballav Road, Bhanumati Rd, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "Ward 12, Plot No 64, Gopal Ballav Road, Bhanumati Rd",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 99383 83832",
+  "phoneUnformatted": "+919938383832",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 19.7977418,
+    "lng": 85.824362
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJnyky-WXHGToRuUXgQA-CvLo",
+  "categories": [
+    "Cafe",
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Tea store"
+  ],
+  "fid": "0x3a19c765f932299f:0xbabc820f40e045b9",
+  "cid": "13455772788700759481",
+  "reviewsCount": 44,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 2,
+    "threeStar": 2,
+    "fourStar": 6,
+    "fiveStar": 33
+  },
+  "imagesCount": 65,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:45.999Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      },
+      {
+        "Wheelchair accessible restroom": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=TEA%20TIME%20PURI&query_place_id=ChIJnyky-WXHGToRuUXgQA-CvLo",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.79952629436599,85.83384161580085,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmVMaA9QFH3Rx7xaF4aRDwEVbi2ZSD8mXEV6gVOBxT5XwxiIC1U7YkZY2eT2xr_Jnk1aw88CmNU6NStrkQykMibkr-ZqCs3qntjkta-tnSsNilJN1YAxqgqvNOym9B8mHM03PC=w519-h240-k-no",
+  "kgmid": "/g/11sbkyvx34",
+  "businessProfileId": "15967788347076756150"
+},
+{
+  "title": "Joasty's Restro Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Coffee shop",
+  "address": "RR3H+J4F, Pushpa Rd, Puri, Odisha 752001, India",
+  "neighborhood": null,
+  "street": "RR3H+J4F, Pushpa Rd",
+  "city": "Puri",
+  "postalCode": "752001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 19.8040053,
+    "lng": 85.8275686
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJd0C1aADFGToRiVuSNoB2tc4",
+  "categories": [
+    "Coffee shop"
+  ],
+  "fid": "0x3a19c50068b54077:0xceb5768036925b89",
+  "cid": "14894941635641236361",
+  "reviewsCount": 2,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 2
+  },
+  "imagesCount": 6,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:17:45.999Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Joasty's%20Restro%20Cafe&query_place_id=ChIJd0C1aADFGToRiVuSNoB2tc4",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@19.79952629436599,85.83384161580085,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdybkJDO287jwJQfl0pTYTjyiW7Mc9ZFvmLHVST6kM3HmpCgurcPTT90NyOZDvp3wZS52Dwf-YfwRzmugUE4gSt2uZGOdOu1SMJ1jbtMaSCHUQVCqXfK7RMj-nl_L4Iqja5HRdJmS67u3U=w408-h873-k-no",
+  "kgmid": "/g/11yr_qvnw4",
+  "businessProfileId": null
+}]

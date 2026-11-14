@@ -1,0 +1,5431 @@
+[{
+  "title": "Cafe Corner",
+  "subTitle": "କ୍ୟାଫେ କର୍ନର",
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Cantonment Rd, Biju Patnaik Colony, Kataka, Odisha 753001, India",
+  "neighborhood": "Biju Patnaik Colony",
+  "street": "Cantonment Rd",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 99382 91897",
+  "phoneUnformatted": "+919938291897",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4825515,
+    "lng": 85.8699114
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJEzGUw3ISGToR2SJ6tvVw-MI",
+  "categories": [
+    "Cafe",
+    "Coffee shop",
+    "Restaurant"
+  ],
+  "fid": "0x3a191272c3943113:0xc2f870f5b67a22d9",
+  "cid": "14049103238213018329",
+  "reviewsCount": 676,
+  "reviewsDistribution": {
+    "oneStar": 28,
+    "twoStar": 16,
+    "threeStar": 71,
+    "fourStar": 202,
+    "fiveStar": 359
+  },
+  "imagesCount": 355,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.023Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Corner&query_place_id=ChIJEzGUw3ISGToR2SJ6tvVw-MI",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPc9So4reAJqldOZxneqWpjyCUi8Ej_Qct9XlnEBwYub6V7EoSTlMjNvHMzioVzE-ul4oyg8tgHhwo1MVmEgIceezObYjYcJzkt0rQA8-C5t72TIcssuJE8C-XtWr7yX5nb0g=w530-h240-k-no",
+  "kgmid": "/g/124yljx57",
+  "businessProfileId": "11925510168872113772"
+},
+{
+  "title": "Coffee Center",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Coffee shop",
+  "address": "Infront of Barabati Palace, Stadium Rd, Biju Patnaik Colony, Kataka, Odisha 753001, India",
+  "neighborhood": "Biju Patnaik Colony",
+  "street": "Infront of Barabati Palace, Stadium Rd",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4826673,
+    "lng": 85.8691456
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ_Ysgz3ISGToRcHGVt6zrfOM",
+  "categories": [
+    "Coffee shop"
+  ],
+  "fid": "0x3a191272cf208bfd:0xe37cebacb7957170",
+  "cid": "16392235870768689520",
+  "reviewsCount": 54,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 10,
+    "fiveStar": 42
+  },
+  "imagesCount": 134,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.024Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Coffee%20Center&query_place_id=ChIJ_Ysgz3ISGToRcHGVt6zrfOM",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeh7cqwtI_cLU-57DF8GYdbFCebJhLx7TRqkqdyH1n1sWvERt5yhbQzaxQKcpk8VSVN1lx5jldpI5OoDTpUZ8oWbRdHnWANGjdDvY_hGCNaiIpjWnd5TS-iUVSJKuM23vJ3hWw=w426-h240-k-no",
+  "kgmid": "/g/11fzvr488v",
+  "businessProfileId": "10946678171218194956"
+},
+{
+  "title": "Urban Cafe 2.O",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "IB St, in front of Apollo Pharmacy, Jagatpur, Odisha 754021, India",
+  "neighborhood": null,
+  "street": "IB St, in front of Apollo Pharmacy",
+  "city": "Jagatpur",
+  "postalCode": "754021",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://www.instagram.com/urban_cafe2?igsh=MWI1cG0wdnFnbGNobg%3D%3D&utm_source=qr",
+  "phone": "+91 70089 97826",
+  "phoneUnformatted": "+917008997826",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.5010809,
+    "lng": 85.9088995
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJqe2i6tYTGToRw-pScrTWSvs",
+  "categories": [
+    "Cafe",
+    "Bakery",
+    "Coffee store",
+    "Ice cream shop"
+  ],
+  "fid": "0x3a1913d6eaa2eda9:0xfb4ad6b47252eac3",
+  "cid": "18107521322296994499",
+  "reviewsCount": 191,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 2,
+    "threeStar": 13,
+    "fourStar": 46,
+    "fiveStar": 124
+  },
+  "imagesCount": 298,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.024Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 9:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 9:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 9:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 9:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 9:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 9:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 9:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Cafe%202.O&query_place_id=ChIJqe2i6tYTGToRw-pScrTWSvs",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 3,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2rmwX2MKSW5CtbkXe5A8AK2Kq8Gv-Kdy_jrFj02yDmXG2SigTjWQYHJfY-lCvN02L16BWkI9iNDjPh7pU9PsLcYXlkGsxZiB2dLq489TEb6gms8KLAHQRnP0L82DJiyx2EE7rfUnlFfkLZ-UrutZ23-UGzSYbAc2VkijJtNndMZ6ehEP_YafY4Mg=w430-h240-k-no",
+  "kgmid": "/g/11r7xn_m4l",
+  "businessProfileId": "4081949892492521740"
+},
+{
+  "title": "Sujal's cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "IB St, Kataka, Jagatpur, Odisha 754021, India",
+  "neighborhood": null,
+  "street": "IB St",
+  "city": "Kataka, Jagatpur",
+  "postalCode": "754021",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 72050 86116",
+  "phoneUnformatted": "+917205086116",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4966431,
+    "lng": 85.9074947
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZbGO7zMTGToRdl3bo9OrqVY",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a191333ef8eb165:0x56a9abd3a3db5d76",
+  "cid": "6244711283801415030",
+  "reviewsCount": 8,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 8
+  },
+  "imagesCount": 7,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.024Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sujal's%20cafe&query_place_id=ChIJZbGO7zMTGToRdl3bo9OrqVY",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 4,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKxf_26mPiDpUVwMt1z5sOqvwnLUM_5wQYXia0vCacT14Xe2l20MIIGF7Nzc3ZoDzvnkIihU6PZwA6ILBEZxg1SX4IrcnaDRk72nU4SSmnrAEPQ8BzSwsD9nKYUqfShS8G85ITeuyQQKHP=w408-h306-k-no",
+  "kgmid": "/g/11z1rn2xgc",
+  "businessProfileId": "13615419459511489881"
+},
+{
+  "title": "Gen-Z Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Shop No.1, Food Court, inside Netaji Memorial, Dargah Bazaar, Kataka, Odisha 753001, India",
+  "neighborhood": "Dargah Bazaar",
+  "street": "Shop No.1, Food Court, inside Netaji Memorial",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 99376 68757",
+  "phoneUnformatted": "+919937668757",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4679418,
+    "lng": 85.8670649
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJu8EOcEcNGToR6nkYx0WVpb8",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a190d47700ec1bb:0xbfa59545c71879ea",
+  "cid": "13809607959327046122",
+  "reviewsCount": 28,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 28
+  },
+  "imagesCount": 11,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.025Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 1:30 PM, 3 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 1:30 PM, 3 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 1:30 PM, 3 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 1:30 PM, 3 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 1:30 PM, 3 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 1:30 PM, 3 to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Gen-Z%20Cafe&query_place_id=ChIJu8EOcEcNGToR6nkYx0WVpb8",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 5,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcd5lzJ7z4uhDVo9mzQ6Efw8rAN9mF6oR1cuU-gOxPe3Hy-CIEWe5U3ZMQloUDYIj0Usj0oyZetAZC9fUn96q0G7ISryi6qLGPoREZK5049N-Kwm9w9idEj_WflGqvra3xeJuTRGbgZrikc=w408-h408-k-no",
+  "kgmid": "/g/11zdf3476_",
+  "businessProfileId": "16739060292697972276"
+},
+{
+  "title": "Cloud 9 Coquina Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Kanika Chhak, Infront of Cuttack Chandi Samaj Ghara, beside Trinath Dahibara, Kataka, Odisha 753001, India",
+  "neighborhood": "Tulasipur Colony",
+  "street": "Kanika Chhak, Infront of Cuttack Chandi Samaj Ghara, beside Trinath Dahibara",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4787229,
+    "lng": 85.8603356
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJuyvHYjUTGToR8yt0AtbKOIg",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19133562c72bbb:0x8838cad602742bf3",
+  "cid": "9815818408366975987",
+  "reviewsCount": 40,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 5,
+    "fiveStar": 33
+  },
+  "imagesCount": 65,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.025Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 to 9:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 9:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 9:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 9:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 to 9:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 to 9:30 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Happy hours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM–2 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM–2 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM–2 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM–2 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM–2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ]
+  },
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cloud%209%20Coquina%20Cafe&query_place_id=ChIJuyvHYjUTGToR8yt0AtbKOIg",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLePDqR85foohoUsptjHP-PTUEONoyOjr7wg5Qc58Jh0MGcDSGLYNvdLUwKK63z-VnrFNJsXCY9gJTeeV4cbmMjpxNy_uwKpbg877ThjWyRrPAWHv0L3Os_gG1rZVj5s4KGOXELwCowvuDpq=w408-h306-k-no",
+  "kgmid": "/g/11y_ykv8mj",
+  "businessProfileId": "2083749796641576060"
+},
+{
+  "title": "SRIKKANT CAFE",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Biswanath Market Complex, Sikharpur, Kataka, Odisha 753003, India",
+  "neighborhood": "Sikharpur",
+  "street": "Biswanath Market Complex",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 91320 32091",
+  "phoneUnformatted": "+919132032091",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4678368,
+    "lng": 85.9062419
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJXawJ_I8NGToRQC3EuyRRXHc",
+  "categories": [
+    "Cafe",
+    "Restaurant"
+  ],
+  "fid": "0x3a190d8ffc09ac5d:0x775c5124bbc42d40",
+  "cid": "8600838606581673280",
+  "reviewsCount": 388,
+  "reviewsDistribution": {
+    "oneStar": 9,
+    "twoStar": 4,
+    "threeStar": 19,
+    "fourStar": 60,
+    "fiveStar": 296
+  },
+  "imagesCount": 182,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.025Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=SRIKKANT%20CAFE&query_place_id=ChIJXawJ_I8NGToRQC3EuyRRXHc",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 7,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYWicJAPOTrLrCJquB-MWl0nikhTebafNpEiX1Oj9NXlxshhyig-GbSPXXi7teYlFVBEOwBPpqOwe0Cdk4boS0NAmME2qBJus0DJ1wRP0GWm5Sl4gNvkrJsB5sXj8xyl8b8XXkiw=w408-h544-k-no",
+  "kgmid": "/g/11rk5brkd0",
+  "businessProfileId": "3415948415650487234"
+},
+{
+  "title": "Nescafe - TBB (The Brown Bean)",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Canal Road, Jobra Rd, near Great India Transport, Kataka, Odisha 753003, India",
+  "neighborhood": "LIC Colony",
+  "street": "Canal Road, Jobra Rd, near Great India Transport",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 78732 83614",
+  "phoneUnformatted": "+917873283614",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4715749,
+    "lng": 85.8948605
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJj1diPGQNGToRkqBHB87vuuM",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a190d643c62578f:0xe3baefce0747a092",
+  "cid": "16409691860442259602",
+  "reviewsCount": 21,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 3,
+    "fiveStar": 18
+  },
+  "imagesCount": 110,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.025Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Nescafe%20-%20TBB%20(The%20Brown%20Bean)&query_place_id=ChIJj1diPGQNGToRkqBHB87vuuM",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzS4Do6aSnRAXKAbgJCetIG0o9-XpnDOW0IxUA9JVQg74QsiVAwNI_mDZyIQVaZmljj6LgPYvjaPuzHaIp8kq_wq3Q2rvs6auw6VYqcTqtENRZPjReArvCjSjBZlBAsrhdwitIn0WWJ_-m=w408-h544-k-no",
+  "kgmid": "/g/11zbqjx_s5",
+  "businessProfileId": "9438546436949438941"
+},
+{
+  "title": "Castella Bakery and Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Plot no 617, Chandi Rd, near Jyotsna Furniture, Chandi Chhaka, Chaka, Kataka, Odisha 753001, India",
+  "neighborhood": "Chandi Chhaka, Chaka",
+  "street": "Plot no 617, Chandi Rd, near Jyotsna Furniture",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://www.instagram.com/the_castella_bakery?igsh=ODBpdDMyem5kaDNk&utm_source=qr",
+  "phone": "+91 97774 57419",
+  "phoneUnformatted": "+919777457419",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4779936,
+    "lng": 85.8619284
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ33VfwGMTGToR0M5aTjSDljY",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a191363c05f75df:0x369683344e5aced0",
+  "cid": "3933475585230819024",
+  "reviewsCount": 79,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 1,
+    "threeStar": 3,
+    "fourStar": 9,
+    "fiveStar": 62
+  },
+  "imagesCount": 155,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.025Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10:30 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10:30 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10:30 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10:30 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10:30 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10:30 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Castella%20Bakery%20and%20Cafe&query_place_id=ChIJ33VfwGMTGToR0M5aTjSDljY",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 9,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAcp-LTe-KcNi7xnmDrFD4if9T7wEDfGemu-pP5-QP61GoJM4Plp922O_TA2E1J6Atja2O9N67zIRvxFQTm3uMXuw-eDwhhvQSlEFMCa6sX9pwY52wyt2Mzek0SLKExPCpynBPf70Ef5wt=w408-h544-k-no",
+  "kgmid": "/g/11w31jjqmj",
+  "businessProfileId": "4933110560156795907"
+},
+{
+  "title": "Tapri time",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Barabati Stadium Infront of Barabati palace, Odisha 753001, India",
+  "neighborhood": "Biju Patnaik Colony",
+  "street": "Barabati Stadium Infront of Barabati palace",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 70081 27204",
+  "phoneUnformatted": "+917008127204",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4826937,
+    "lng": 85.8692976
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ0zTkgyQTGToR6MlcZCgXEMY",
+  "categories": [
+    "Cafe",
+    "Coffee shop"
+  ],
+  "fid": "0x3a19132483e434d3:0xc6101728645cc9e8",
+  "cid": "14271932681387035112",
+  "reviewsCount": 23,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 5,
+    "fiveStar": 14
+  },
+  "imagesCount": 49,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.025Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Tapri%20time&query_place_id=ChIJ0zTkgyQTGToR6MlcZCgXEMY",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvip6EeQAbt630LqLFQeMwRwaoM1z0NX0Ltc7F2WzMRko3qpaKfPrrkIuqtLcy5_uYXw8-DRNTeXBGcFGkZs8bpVNk3O2LvQUMZ-eUI5AqWGLYJfbHZ4llWhy3-C3FQltNbqV0=w408-h510-k-no",
+  "kgmid": "/g/11sr1j6nyy",
+  "businessProfileId": "5443218807853657569"
+},
+{
+  "title": "Fit Foods Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Italian restaurant",
+  "address": "Jagatpur, Odisha 754021, India",
+  "neighborhood": null,
+  "street": null,
+  "city": "Jagatpur",
+  "postalCode": "754021",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 78150 06907",
+  "phoneUnformatted": "+917815006907",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4980123,
+    "lng": 85.9086222
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZ9GATMANGToRb9dee84rnK4",
+  "categories": [
+    "Italian restaurant"
+  ],
+  "fid": "0x3a190dc04c80d167:0xae9c2bce7b5ed76f",
+  "cid": "12581979624799393647",
+  "reviewsCount": 54,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 6,
+    "fiveStar": 45
+  },
+  "imagesCount": 56,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.025Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Fit%20Foods%20Cafe&query_place_id=ChIJZ9GATMANGToRb9dee84rnK4",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdh0qP8imkMnbjU-It9DXuicd1busZIzQUPoGptXFaEwyjp4-BqT_JKJ_78ICZpxtVaGvzjjvbw9UgiwtO6rrxjit2zs-kbc1JuZDpTP_f7nISTCzaYkROyHkCoIeLtmJ6iM5mS=w523-h240-k-no",
+  "kgmid": "/g/11ls_fw8cp",
+  "businessProfileId": "9710341173898250401"
+},
+{
+  "title": "Big Cup Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Barabati Food Court, near Barabati Stadium Road, Biju Patnaik Colony, Kataka, Odisha 753001, India",
+  "neighborhood": "Biju Patnaik Colony",
+  "street": "Barabati Food Court, near Barabati Stadium Road",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4829649,
+    "lng": 85.8680438
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJJ6aM9scTGToRCuneh848oD4",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a1913c7f68ca627:0x3ea03cce87dee90a",
+  "cid": "4512673684365699338",
+  "reviewsCount": 15,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 0,
+    "fiveStar": 12
+  },
+  "imagesCount": 13,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.026Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Big%20Cup%20Cafe&query_place_id=ChIJJ6aM9scTGToRCuneh848oD4",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcxUVMWDps-KMhTQO44-RWk0JqgQpDk1x5AIzQ7YV3dTg4pDXr3ba8s3XUfVa0OIRMtUbGHx4uGnuimqHqFCwYmHipJssFY40p6wwHfCD-KZHaDWhm5iyG8ShGUvDEfOMf2jy4Ib9cnuZy=w408-h306-k-no",
+  "kgmid": "/g/11zxqhmkry",
+  "businessProfileId": "14310201047931775359"
+},
+{
+  "title": "Millet Shakti Cafe & Information Centre",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Coffee shop",
+  "address": "FVJ9+WXJ, Stadium Rd, Biju Patnaik Colony, Kataka, Odisha 753001, India",
+  "neighborhood": "Biju Patnaik Colony",
+  "street": "FVJ9+WXJ, Stadium Rd",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 20.4824288,
+    "lng": 85.8697541
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJJy2MKgATGToRva-hjsVYqWQ",
+  "categories": [
+    "Coffee shop"
+  ],
+  "fid": "0x3a1913002a8c2d27:0x64a958c58ea1afbd",
+  "cid": "7253426280381657021",
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 3,
+    "fiveStar": 6
+  },
+  "imagesCount": 38,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.026Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Millet%20Shakti%20Cafe%20%26%20Information%20Centre&query_place_id=ChIJJy2MKgATGToRva-hjsVYqWQ",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 13,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdggUqvQuhy87NTWRjlkRfDQg60Dm_7kSq3_IKp0PaZqyqBoUJpc0Mu55xVT-kY7GpowjXETzbSeDbep2BG_encRXiT-I2fsumAxqYxVns518Z0PeIr3dDgRzadsY09pridawYm=w408-h306-k-no",
+  "kgmid": "/g/11y2wxkvzx",
+  "businessProfileId": null
+},
+{
+  "title": "Coffeecient Under the Banyan Tree",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Coffee shop",
+  "address": "FVCW+PJX, Jobra Rd, Municipal Colony, Kataka, Odisha 753003, India",
+  "neighborhood": "Municipal Colony",
+  "street": "FVCW+PJX, Jobra Rd",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "http://www.coffeecient.in/",
+  "phone": "+91 76090 04098",
+  "phoneUnformatted": "+917609004098",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4718539,
+    "lng": 85.8966041
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJcY26FAANGToR5-Udy13JmJM",
+  "categories": [
+    "Coffee shop"
+  ],
+  "fid": "0x3a190d0014ba8d71:0x9398c95dcb1de5e7",
+  "cid": "10635471924712302055",
+  "reviewsCount": 24,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 21
+  },
+  "imagesCount": 29,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.026Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Coffeecient%20Under%20the%20Banyan%20Tree&query_place_id=ChIJcY26FAANGToR5-Udy13JmJM",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 14,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQVhqIj2Ms6xMaFhWwQEcgIIdWpCObJ1LdF_sUhN0Ar5OPwbXzErTVLIIDJwt7ZaTxKPtgZDF3yTwsxAW0Xllaa-h2F2RzxLXsBtnrSB3fyDG3zz___b90zJnL2Ih7NwKN3yjpgF1KoMM=w408-h544-k-no",
+  "kgmid": "/g/11nw0snl90",
+  "businessProfileId": "2590721015571727007"
+},
+{
+  "title": "Cafe CENTER",
+  "subTitle": "କ୍ୟାଫେ ସେଣ୍ଟର",
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "College Square to Cuttack Railway Station Rd, LIC Colony, Kataka, Odisha 753003, India",
+  "neighborhood": "LIC Colony",
+  "street": "College Square to Cuttack Railway Station Rd",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 73771 00719",
+  "phoneUnformatted": "+917377100719",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4664728,
+    "lng": 85.8960661
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJbxS1RykNGToRY4t65ni65Ho",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a190d2947b5146f:0x7ae4ba78e67a8b63",
+  "cid": "8855407795742870371",
+  "reviewsCount": 359,
+  "reviewsDistribution": {
+    "oneStar": 12,
+    "twoStar": 7,
+    "threeStar": 35,
+    "fourStar": 85,
+    "fiveStar": 220
+  },
+  "imagesCount": 286,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.026Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20CENTER&query_place_id=ChIJbxS1RykNGToRY4t65ni65Ho",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 15,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKWJmWMo8PihtlWLjnyFaXhC4r609bNMAuBdtcVUyGignDO18dhDVs4NpRmuEHA-v-gyHg-j-yHfsL8hT93b1RCt-WeRkEwJEc5Iv2nfbD8J-DwXOhpg8BGQUj4ytlplmpZbAK=w408-h879-k-no",
+  "kgmid": "/g/11h79tcmvl",
+  "businessProfileId": "1186332742505718316"
+},
+{
+  "title": "Maharaja cafe & lounge",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Dolamundai Rd, Bajrakabati, Kataka, Odisha 753001, India",
+  "neighborhood": "Bajrakabati",
+  "street": "Dolamundai Rd",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://sites.google.com/view/maharaja-cafe-lounge/home",
+  "phone": "+91 89175 57544",
+  "phoneUnformatted": "+918917557544",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4610858,
+    "lng": 85.8865405
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJybivFAgNGToROF-hvT8cgQ8",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a190d0814afb8c9:0xf811c3fbda15f38",
+  "cid": "1117205242654580536",
+  "reviewsCount": 44,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 0,
+    "fiveStar": 41
+  },
+  "imagesCount": 15,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.026Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Maharaja%20cafe%20%26%20lounge&query_place_id=ChIJybivFAgNGToROF-hvT8cgQ8",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtTwTpfyg3HS2oJ4N1_sNFqpkdxO3qX078xCWQjNJg-zATEVsr4-8ILUQWuXK4c54wqcODMx5r6NKqCbQN7DsZs6N7oPhmhFPysKz5qa2leJXLSboyeXajrIX7Ro8Duz9WJTflxA=w408-h408-k-no",
+  "kgmid": "/g/11tk8p5ly6",
+  "businessProfileId": "6268801750951541443"
+},
+{
+  "title": "Cafe Chocolate Affairs",
+  "subTitle": "କ୍ୟାଫେ ଚକୋଲେଟ୍ ଆଫେୟାର୍ସ",
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Burdhwan Compound, behind MadhuSudan Law College, Kataka, Odisha 753003, India",
+  "neighborhood": "Municipal Colony",
+  "street": "Burdhwan Compound, behind MadhuSudan Law College",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 97788 44624",
+  "phoneUnformatted": "+919778844624",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.467989,
+    "lng": 85.898636
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJjS1Pgx8NGToRlOWdkqltVq4",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a190d1f834f2d8d:0xae566da9929de594",
+  "cid": "12562348785673299348",
+  "reviewsCount": 309,
+  "reviewsDistribution": {
+    "oneStar": 38,
+    "twoStar": 4,
+    "threeStar": 18,
+    "fourStar": 48,
+    "fiveStar": 201
+  },
+  "imagesCount": 470,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.026Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/tJWLxXgoH80?source=pa&opi=79508299&hl=en-US&gei=GNj1arbcGaOYkPIPldql4As&ahbb=1&sourceurl=https://www.google.com/search?authuser%3D0%26tbm%3Dmap%26q%3DCafe%26psi%3DFdj1av3IMZG-kPIPwtei8Qk.1794496534087.1%26hl%3Den%26gl%3Dus%26pb%3D!4m12!1m3!1d7474.657592373325!2d85.88778763939104!3d20.492743412538832!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!8i0!10b1!12m36!1m1!18b1!2m3!5m1!6e2!20e3!6m18!4b1!49b1!63m0!73m0!74i150000!75b1!85b1!89b1!91b1!101i97!110m0!114b1!149b1!171b1!176f8!179f90!182b1!183m0!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1sFdj1av3IMZG-kPIPwtei8Qk!2s1i:0,t:20588,p:Fdj1av3IMZG-kPIPwtei8Qk:22!4m1!2i20588!7e81!12e3!24m92!1m26!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m15!3b1!4b1!5b1!6b1!13b1!14b1!15b1!17b1!21b1!22b0!25b1!27m1!1b0!28b0!31b0!2b1!5m5!2b1!5b1!6b1!7b1!10b1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m17!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m8!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!9b1!89b1!103b1!113b1!117b1!122m1!1b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!34m19!2b1!3b1!4b1!6b1!7b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!46m1!1e10!47m0!49m7!3b1!6m2!1b1!2b1!7m2!1e3!2b1!50m25!1m21!2m7!1u3!4zT3RldsWZZW7DqQ!5e1!9s!10m2!3m1!1e1!2m7!1u2!4zTmVqbMOpcGUgaG9kbm9jZW7DqQ!5e1!9s!10m2!2m1!1e1!3m1!1u2!3m1!1u3!4BIAE!2e2!3m1!3b1!59BQ2dBd0Fn!61b1!67m3!7b1!10b1!14b0!69i675",
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 9:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 9 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 9 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 9 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Takeout": [
+      {
+        "day": "Monday",
+        "hours": "9 AM–8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM–8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM–8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM–8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM–8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM–8:30 PM"
+      }
+    ],
+    "Breakfast": [
+      {
+        "day": "Monday",
+        "hours": "9 AM–9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM–9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM–9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM–9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM–9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM–9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM–9 PM"
+      }
+    ]
+  },
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible seating": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Chocolate%20Affairs&query_place_id=ChIJjS1Pgx8NGToRlOWdkqltVq4",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEyCdeLZS4XGhWYDrL0y9fXIzuSGGfOx9ctS5uj1uFYyxlSRTntWZ-Qe6cNKP9zFcMIJjrGsXnzcOAcI-LGULyrIZSCyb5zjAiWehpR3PqV9yBMqju8MDwslGd5nyYkna1Ocqd=w408-h306-k-no",
+  "kgmid": "/g/11f7cv8tzc",
+  "businessProfileId": "13780265354652301523"
+},
+{
+  "title": "Chai Break - Cuttack",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "2nd Floor, Golden Arcade, Cantonment Rd, Maachhua Bazar, Kataka, Odisha 753001, India",
+  "neighborhood": "Maachhua Bazar",
+  "street": "2nd Floor, Golden Arcade, Cantonment Rd",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "http://www.chaibreak.com/",
+  "phone": "+91 99380 35556",
+  "phoneUnformatted": "+919938035556",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4772623,
+    "lng": 85.8809637
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPZm8SBATGToRp53yvmyxh9s",
+  "categories": [
+    "Cafe",
+    "Coffee shop",
+    "Hookah store",
+    "Indian restaurant",
+    "Italian grocery store",
+    "Italian restaurant",
+    "Pizza restaurant",
+    "Tea house"
+  ],
+  "fid": "0x3a19131048bc993d:0xdb87b16cbef29da7",
+  "cid": "15818807296780311975",
+  "reviewsCount": 526,
+  "reviewsDistribution": {
+    "oneStar": 53,
+    "twoStar": 21,
+    "threeStar": 35,
+    "fourStar": 103,
+    "fiveStar": 314
+  },
+  "imagesCount": 653,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.026Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "1 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "1 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "1 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "1 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "1 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "1 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "1 to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Assistive hearing loop": false
+      },
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible parking lot": false
+      },
+      {
+        "Wheelchair accessible restroom": false
+      },
+      {
+        "Wheelchair accessible seating": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Chai%20Break%20-%20Cuttack&query_place_id=ChIJPZm8SBATGToRp53yvmyxh9s",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXc6JZapdfylelXh1PZW4JVkj3V9vj0rZ__NM29V6La9ijERpnZwuN2eFPParGhOiYHgcjCgA43PXQywLTgsQFB49BM96HXR1qheNfjkjBbkTHwQE19iV6nrj1ecEy4J9KqY8OhA=w408-h725-k-no",
+  "kgmid": "/g/11s39kmbvm",
+  "businessProfileId": "7599710758883799713"
+},
+{
+  "title": "Cafe Coffee Express",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Railway Station, East Side Gate Entrance, Gandarpur, Kataka, Odisha 753003, India",
+  "neighborhood": "Gandarpur",
+  "street": "Railway Station, East Side Gate Entrance",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 78539 69308",
+  "phoneUnformatted": "+917853969308",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4636084,
+    "lng": 85.9012717
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJAVzBDhcNGToR1r2FJ6sDdsM",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a190d170ec15c01:0xc37603ab2785bdd6",
+  "cid": "14084448918285172182",
+  "reviewsCount": 13,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 11
+  },
+  "imagesCount": 20,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.026Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Coffee%20Express&query_place_id=ChIJAVzBDhcNGToR1r2FJ6sDdsM",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLec4Bcy34kDL4oRkdYMW8UMnlARPkfp9wN6g7syWP_M-hf3W1p8Pw_C0B4dDVPwdp4HS1mAsiImb_jCasNZ04iBKrwu_hOHn7rn4adxEBpMXfti_1_0j3Co2KW4utVClsi5YRMXNc6Y-P-s=w408-h725-k-no",
+  "kgmid": "/g/11zgs9c6py",
+  "businessProfileId": "6992259693676041045"
+},
+{
+  "title": "Bindas Cafe",
+  "subTitle": "ବିନ୍ଦାସ କ୍ୟାଫେ",
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "FV99+7G4, Oriya Bazar, Kataka, Odisha 753001, India",
+  "neighborhood": "Oriya Bazar",
+  "street": "FV99+7G4",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 20.4681402,
+    "lng": 85.8688151
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJI4zvtfQNGToR1024RbN5we8",
+  "categories": [
+    "Cafe",
+    "Breakfast restaurant",
+    "Restaurant"
+  ],
+  "fid": "0x3a190df4b5ef8c23:0xefc179b345b84dd7",
+  "cid": "17276223456445746647",
+  "reviewsCount": 49,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 4,
+    "fiveStar": 41
+  },
+  "imagesCount": 83,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.027Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bindas%20Cafe&query_place_id=ChIJI4zvtfQNGToR1024RbN5we8",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdU4qxwiaitIba-VuGnVW2ukxOiG0ppSabMdGZ5Z1h6gcHWXV5EM_naA5gJ9_SrPLC21IAYsddfXqtOF8EJN_ayHe1w6hTz9xxCG6QbSvRazVCZMaogJHXeOc8ZIPFiyXB3v1ZY=w408-h306-k-no",
+  "kgmid": "/g/11d_72gzmd",
+  "businessProfileId": null
+},
+{
+  "title": "Aama Katak Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Buxi Bazaar, Kataka, Odisha 753001, India",
+  "neighborhood": "Buxi Bazaar",
+  "street": null,
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4798766,
+    "lng": 85.8715806
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJuVSbftoTGToRDEi2ZngfTFo",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a1913da7e9b54b9:0x5a4c1f7866b6480c",
+  "cid": "6506610163623282700",
+  "reviewsCount": 25,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 23
+  },
+  "imagesCount": 19,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.124Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11:30 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11:30 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11:30 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11:30 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11:30 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Aama%20Katak%20Restaurant&query_place_id=ChIJuVSbftoTGToRDEi2ZngfTFo",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJMNt6x-AG7Lmv6SLy4TC9V7u9ObEWZB9LzimAdIBY_dKchT5L4d7FU3s8Z_krcaCKat9wikmuD-tEf1gM5RHCOJnnIbW465Efbjb5F7H3793EwCzB80btQhZXbIQgIixWSmgtyp5kARM1=w447-h240-k-no",
+  "kgmid": "/g/11zzcqrmc_",
+  "businessProfileId": "4836121482804145806"
+},
+{
+  "title": "Golden Spoon, Cuttack",
+  "subTitle": "ଗୋଲ୍ଡେନ ସ୍ପୁନ୍, କଟକ",
+  "description": "Health-conscious frozen yogurt chain offering fat-free & low-fat options, plus classic toppings.",
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Stadium Rd, Biju Patnaik Colony, Kataka, Odisha 753001, India",
+  "neighborhood": "Biju Patnaik Colony",
+  "street": "Stadium Rd",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "http://goldenspooncuttack.com/",
+  "phone": "+91 90400 80583",
+  "phoneUnformatted": "+919040080583",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.482473,
+    "lng": 85.8697079
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJVxWPz3ISGToR-k0JBIkqoOg",
+  "categories": [
+    "Restaurant",
+    "Chinese restaurant",
+    "Dessert restaurant",
+    "Family restaurant",
+    "Indian restaurant",
+    "Seafood restaurant"
+  ],
+  "fid": "0x3a191272cf8f1557:0xe8a02a8904094dfa",
+  "cid": "16762444581039590906",
+  "reviewsCount": 3951,
+  "reviewsDistribution": {
+    "oneStar": 359,
+    "twoStar": 183,
+    "threeStar": 530,
+    "fourStar": 1198,
+    "fiveStar": 1681
+  },
+  "imagesCount": 2823,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.124Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 3:30 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 3:30 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 3:30 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 3:30 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 3:30 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 3:30 PM, 7 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 3:30 PM, 7 to 11 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Drive through": [
+      {
+        "day": "Monday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM–5 PM"
+      }
+    ],
+    "Delivery": [
+      {
+        "day": "Monday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM–5 PM"
+      }
+    ],
+    "Dinner": [
+      {
+        "day": "Monday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM–5 PM"
+      }
+    ]
+  },
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      },
+      {
+        "Assistive hearing loop": false
+      },
+      {
+        "Wheelchair accessible parking lot": false
+      },
+      {
+        "Wheelchair accessible restroom": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Spoon%2C%20Cuttack&query_place_id=ChIJVxWPz3ISGToR-k0JBIkqoOg",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxvFWjpiaPzi7RXkooid2AkKpU-wxy9clsr8_cHcJHTpNMY-434FqAur-PxxA1SXioDFjP-rGu99SYE0r8WfKmtwBrG_MAz2CelH1d3EXJZqZmdl7DdmxYuRXyWMbf-sPuPDtI=w408-h306-k-no",
+  "kgmid": "/g/11b6nwh0vw",
+  "businessProfileId": "5428932287466135105"
+},
+{
+  "title": "Swadam multicuisine restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Plot No-1066, Mahanadi Vihar, Kataka, Odisha 753004, India",
+  "neighborhood": "Mahanadi Vihar",
+  "street": "Plot No-1066",
+  "city": "Kataka",
+  "postalCode": "753004",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 99382 08157",
+  "phoneUnformatted": "+919938208157",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4659851,
+    "lng": 85.9119846
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ0b84IgANGToRUPvXBal6tQs",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a190d002238bfd1:0xbb57aa905d7fb50",
+  "cid": "843715371567938384",
+  "reviewsCount": 190,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 2,
+    "threeStar": 6,
+    "fourStar": 15,
+    "fiveStar": 161
+  },
+  "imagesCount": 115,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.125Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 11:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Swadam%20multicuisine%20restaurant&query_place_id=ChIJ0b84IgANGToRUPvXBal6tQs",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 4,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7zBC-5FwfJQ7iz3lIa7GgHTr8EFmTXttIJyQu8SFSeJWw_sy6WsJXOucDoma_AnMIiwk9CgoXwdxUo1KHCItz9YwxrdJezzSExrOfnuGlAxDxkkD0E4S2uQsG0Q_JxFsv-g8Z2E5O1Fsj=w408-h306-k-no",
+  "kgmid": "/g/11yqtv15yd",
+  "businessProfileId": "7426685057459556462"
+},
+{
+  "title": "Rajwada Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Rajasthani restaurant",
+  "address": "Stadium Rd, Biju Patnaik Colony, Kataka, Odisha 753001, India",
+  "neighborhood": "Biju Patnaik Colony",
+  "street": "Stadium Rd",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 70089 50120",
+  "phoneUnformatted": "+917008950120",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.482593,
+    "lng": 85.8702709
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 3.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJSfNP2_gTGToRY29FXWLNAts",
+  "categories": [
+    "Rajasthani restaurant",
+    "Candy store"
+  ],
+  "fid": "0x3a1913f8db4ff349:0xdb02cd625d456f63",
+  "cid": "15781401866614959971",
+  "reviewsCount": 18,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 3,
+    "fiveStar": 8
+  },
+  "imagesCount": 21,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.125Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 11:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Rajwada%20Restaurant&query_place_id=ChIJSfNP2_gTGToRY29FXWLNAts",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 5,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpW8rO-M_Zg7hoNRMDEB0n8EVnVOR9hRuNzMpXxpGiHNJKEdL-vdRQtTpCwAQCEu7XjancPZJadC2cOmq3PMat8Qt0Hd7sbjZROn2P6nuwWAjS_ET4eNAw_1kHWBHgsE29rcs=w427-h240-k-no",
+  "kgmid": "/g/11qf_v3g7x",
+  "businessProfileId": "10026035073104179743"
+},
+{
+  "title": "BLAST (CAFE - RESTAURANT - CATERING)",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Rex plaza, Top floor, Jobra Rd, Kataka, Odisha 753003, India",
+  "neighborhood": "LIC Colony",
+  "street": "Rex plaza, Top floor, Jobra Rd",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "http://www.blastcafe.in/",
+  "phone": "+91 78735 57777",
+  "phoneUnformatted": "+917873557777",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4684173,
+    "lng": 85.8960733
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ90vIbHwNGToRsZsbj8iL6i8",
+  "categories": [
+    "Restaurant",
+    "Cafe",
+    "Chinese restaurant",
+    "Coffee shop",
+    "Indian restaurant"
+  ],
+  "fid": "0x3a190d7c6cc84bf7:0x2fea8bc88f1b9bb1",
+  "cid": "3452725757843577777",
+  "reviewsCount": 5685,
+  "reviewsDistribution": {
+    "oneStar": 305,
+    "twoStar": 130,
+    "threeStar": 488,
+    "fourStar": 1649,
+    "fiveStar": 3113
+  },
+  "imagesCount": 5138,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.125Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=BLAST%20(CAFE%20-%20RESTAURANT%20-%20CATERING)&query_place_id=ChIJ90vIbHwNGToRsZsbj8iL6i8",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 7,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcguVwEKF3K6vAKZ3WB6sjECqtTpBzKxrTZhD__jvJAOm28DiUb05zB48USOUDThbb-GDgQrQfTqhlW0YdDOBVMbkr5F1_DzXm7g3g4beprK1423mtp5h_1JpntmcjpyxvV264=w425-h240-k-no",
+  "kgmid": "/g/11c3tjdwtl",
+  "businessProfileId": "16342009441730618081"
+},
+{
+  "title": "UTKALA DINE INN",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Dhaba",
+  "address": "Nuapatna, Choudwar, Kataka, Odisha 753001, India",
+  "neighborhood": "Nuapatna, Choudwar",
+  "street": null,
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4741459,
+    "lng": 85.8847601
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJvbn10CkTGToRqP1k9mdXwcA",
+  "categories": [
+    "Dhaba"
+  ],
+  "fid": "0x3a191329d0f5b9bd:0xc0c15767f664fda8",
+  "cid": "13889478829814381992",
+  "reviewsCount": 20,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 2,
+    "fiveStar": 15
+  },
+  "imagesCount": 40,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.125Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 12:30 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 12:30 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 12:30 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 12:30 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 12:30 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 12 AM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=UTKALA%20DINE%20INN&query_place_id=ChIJvbn10CkTGToRqP1k9mdXwcA",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqgCbr_Dlnw2R_yfQpvpWcA-JB_q8XuEovpgRzXsDVzjzkKLMEwXK0MpEhhApHf0WOyaN5ae33ex4SJvuOUtuwxyutYoxM3p1s_frw0rUw03qC-kPZZ7WU08IxtOq5KiU8RrdQdQ0Pd6t2=w408-h544-k-no",
+  "kgmid": "/g/11zbs13b9h",
+  "businessProfileId": "189748305145843957"
+},
+{
+  "title": "Taste Me Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Taste Me Restaurant, MUNICIPAL CORPORATION, in front of Reliance Smart, Chauliaganj, Kataka, Odisha 753004, India",
+  "neighborhood": "Chauliaganj",
+  "street": "Taste Me Restaurant, MUNICIPAL CORPORATION, in front of Reliance Smart",
+  "city": "Kataka",
+  "postalCode": "753004",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 96689 76693",
+  "phoneUnformatted": "+919668976693",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.454307,
+    "lng": 85.9117463
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJsbVEPQANGToR237pfPsheU0",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a190d003d44b5b1:0x4d7921fb7ce97edb",
+  "cid": "5582530577118625499",
+  "reviewsCount": 152,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 9,
+    "fiveStar": 134
+  },
+  "imagesCount": 107,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.125Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Taste%20Me%20Restaurant&query_place_id=ChIJsbVEPQANGToR237pfPsheU0",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 9,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLePP-jg9L3sBxpr8eD_KBd3IPPmCbX79qU-wet5nBmx9lfWW2xlzEns5GmdoYAOKEQ657GyAI8NbL9-UTbAggoXFzamu0e3MqbuTMAdmUtsKfPQAqCLgxH5VmUlMOdT-AUrxRh9e3tu3jms=w408-h306-k-no",
+  "kgmid": "/g/11ms4ghh67",
+  "businessProfileId": "5108155395681090487"
+},
+{
+  "title": "Aditya Restaurant & Catering Service",
+  "subTitle": "ଆଦିତ୍ୟ ରେଷ୍ଟୁରାଣ୍ଟ & କ୍ୟାଟରିଙ୍ଗ ସର୍ଭିସ",
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Biryani restaurant",
+  "address": "Barabati stadium, Biju Patnaik Colony, Kataka, Odisha 753005, India",
+  "neighborhood": "Biju Patnaik Colony",
+  "street": "Barabati stadium",
+  "city": "Kataka",
+  "postalCode": "753005",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "http://adityacatering.com/",
+  "phone": "+91 90902 43333",
+  "phoneUnformatted": "+919090243333",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4821574,
+    "lng": 85.8686731
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 3.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUYykOwQSGToRkcNhNXYmPY0",
+  "categories": [
+    "Biryani restaurant",
+    "Chinese restaurant",
+    "Indian restaurant"
+  ],
+  "fid": "0x3a1912043ba48c51:0x8d3d26763561c391",
+  "cid": "10177333022070784913",
+  "reviewsCount": 907,
+  "reviewsDistribution": {
+    "oneStar": 180,
+    "twoStar": 56,
+    "threeStar": 122,
+    "fourStar": 205,
+    "fiveStar": 344
+  },
+  "imagesCount": 704,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.126Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 11 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Takeout": [
+      {
+        "day": "Monday",
+        "hours": "12–3:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12–3:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12–3:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12–3:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12–3:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12–3:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12–3:30 PM"
+      }
+    ]
+  },
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible seating": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Aditya%20Restaurant%20%26%20Catering%20Service&query_place_id=ChIJUYykOwQSGToRkcNhNXYmPY0",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfACrHnFXC2AyjCE29g6Auan7_I8N7LoMVjmxayVvuVOX6U-2m2L-zAfnNCRFDItZrgjPIaIydtrVHAb0UqKODyr3Ag7GbUiPnPlwpV9yB0OGUjEmRdwl4vZx4LAuiBHHe8YrmWw=w408-h544-k-no",
+  "kgmid": "/g/12605d5hh",
+  "businessProfileId": "3092695627539608700"
+},
+{
+  "title": "Trisha family restaurant",
+  "subTitle": "ତ୍ରିଶ ଫ୍ୟାମିଲୀ ରେଷ୍ଟୁରାଣ୍ଟ",
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Family restaurant",
+  "address": "FWC4+HVR, Sikharpur, Kataka, Odisha 753003, India",
+  "neighborhood": "Sikharpur",
+  "street": "FWC4+HVR",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 20.4714802,
+    "lng": 85.9071392
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJuU88KK4NGToROdalGRuVNJY",
+  "categories": [
+    "Family restaurant"
+  ],
+  "fid": "0x3a190dae283c4fb9:0x9634951b19a5d639",
+  "cid": "10823439748105098809",
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 0,
+    "fiveStar": 8
+  },
+  "imagesCount": 0,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.126Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Trisha%20family%20restaurant&query_place_id=ChIJuU88KK4NGToROdalGRuVNJY",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdim2F2MoRSrQHjKk65b-IEySOUfwBkF51TFhfi4x2YT54k8MI-czhqfFZ2Xz99OpTrq51OgY_Jq0AidnDxj3oHuagoBu2PTFpAkXAwuVtch-VefjwcaFLsWC8J6aYzezfgjb5y0hfvFIo=w426-h240-k-no",
+  "kgmid": "/g/11gxh36ml0",
+  "businessProfileId": null
+},
+{
+  "title": "DREAM LAND FOODS",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Shop No-3, Mahanadi Vihar Main Rd, near saraswati School, Mahanadi Vihar, Kataka, Odisha 753004, India",
+  "neighborhood": "Mahanadi Vihar",
+  "street": "Shop No-3, Mahanadi Vihar Main Rd, near saraswati School",
+  "city": "Kataka",
+  "postalCode": "753004",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 97777 97055",
+  "phoneUnformatted": "+919777797055",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4628147,
+    "lng": 85.9146995
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPQ316OwNGToR5K02FHQ9ErY",
+  "categories": [
+    "Restaurant",
+    "Biryani restaurant"
+  ],
+  "fid": "0x3a190dece8f50d3d:0xb6123d741436ade4",
+  "cid": "13119616233248304612",
+  "reviewsCount": 380,
+  "reviewsDistribution": {
+    "oneStar": 9,
+    "twoStar": 4,
+    "threeStar": 15,
+    "fourStar": 33,
+    "fiveStar": 319
+  },
+  "imagesCount": 151,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.126Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12:30 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12:30 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12:30 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12:30 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12:30 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12:30 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12:30 to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible seating": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=DREAM%20LAND%20FOODS&query_place_id=ChIJPQ316OwNGToR5K02FHQ9ErY",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 14,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5Ad-o97lY8uz_pRivYsxsrU7OUyz4CBs9BeUx9GXj-zHvf1GlMdY94TnUX66ayI-bGYtu46QHgFbJwB2CXLKhREoKiiZ_8_vHWS-bjVjg06mnNpY3J0YuTgbXKdJkxQjGqA=w408-h306-k-no",
+  "kgmid": "/g/11pv6swdc5",
+  "businessProfileId": "2211380238935967277"
+},
+{
+  "title": "RANI’S KITCHEN",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Family restaurant",
+  "address": "FW45+G3H, Chauliaganj, Kataka, Odisha 753004, India",
+  "neighborhood": "Chauliaganj",
+  "street": "FW45+G3H",
+  "city": "Kataka",
+  "postalCode": "753004",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 20.4565299,
+    "lng": 85.9077944
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJc4DLTwANGToRD_v-z1LgorM",
+  "categories": [
+    "Family restaurant"
+  ],
+  "fid": "0x3a190d004fcb8073:0xb3a2e052cffefb0f",
+  "cid": "12944154925297761039",
+  "reviewsCount": 20,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 18
+  },
+  "imagesCount": 61,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.126Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=RANI%E2%80%99S%20KITCHEN&query_place_id=ChIJc4DLTwANGToRD_v-z1LgorM",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 15,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3OHCCfp8AGOMLsLroFR38ftKNj_D3EkUL1WyX75thLuuIqguuZWPBWoMhDvAit8_N5dKdS2nWbZHZiOQWyCOkMo4PRdyiMkLlRrtYVenT8_vdiBTbqLha2aSpNpa5mysJfeOa4u3qxEq1=w408-h544-k-no",
+  "kgmid": "/g/11zkv106f3",
+  "businessProfileId": null
+},
+{
+  "title": "Bombay Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Indian restaurant",
+  "address": "College Square, Municipal Colony, Kataka, Odisha 753003, India",
+  "neighborhood": "Municipal Colony",
+  "street": "College Square",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "http://www.hotelbombayinn.com/",
+  "phone": "+91 73810 03702",
+  "phoneUnformatted": "+917381003702",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4690072,
+    "lng": 85.8963644
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJC_ilXvYNGToRBze8yOxtHis",
+  "categories": [
+    "Indian restaurant"
+  ],
+  "fid": "0x3a190df65ea5f80b:0x2b1e6decc8bc3707",
+  "cid": "3107041656679708423",
+  "reviewsCount": 944,
+  "reviewsDistribution": {
+    "oneStar": 114,
+    "twoStar": 33,
+    "threeStar": 113,
+    "fourStar": 246,
+    "fiveStar": 438
+  },
+  "imagesCount": 466,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.126Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bombay%20Restaurant&query_place_id=ChIJC_ilXvYNGToRBze8yOxtHis",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRj2vMAeuMrACjocLBRDTJD6qEX0-X9MSasn7Y4ByYbpunG2krctQomwvjGppPFyPMZ82HA7EN5q8wC0WgF71DAG_Kru4MW3p-byqEuTTn9jBuvaOmwfIbtWqZmbVjeqIqOmWSpdHQfZWT=w408-h306-k-no",
+  "kgmid": "/g/11qhx9f_9y",
+  "businessProfileId": "17678389086197397627"
+},
+{
+  "title": "Wok n Kadhai",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Besides Marwadi Hindi Vidyalaya (Back Gate Balu Bazar, Odisha 753002, India",
+  "neighborhood": "Nimchouri",
+  "street": "Besides Marwadi Hindi Vidyalaya (Back Gate Balu Bazar",
+  "city": "Kataka",
+  "postalCode": "753002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 98611 03664",
+  "phoneUnformatted": "+919861103664",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4639387,
+    "lng": 85.8635968
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJV3iafpoNGToRWb-SpCG0OpI",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a190d9a7e9a7857:0x923ab421a492bf59",
+  "cid": "10536932334774697817",
+  "reviewsCount": 82,
+  "reviewsDistribution": {
+    "oneStar": 9,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 4,
+    "fiveStar": 67
+  },
+  "imagesCount": 21,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.126Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "7:30 AM to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "7:30 AM to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Wok%20n%20Kadhai&query_place_id=ChIJV3iafpoNGToRWb-SpCG0OpI",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUVKF2xY49MMnNqU_B3oynI4Vw9__0VVjxF2zuObWUYyoyDnDz4Fop5C2yhddzb75eNgHMQJGB4fUSIZm_uqqd6eNkqgtRPTEs2_Zrj56NWvfwvxUFw0UpZQrdXi-6e6MFuQ2mHQ=w408-h272-k-no",
+  "kgmid": "/g/11t9wpcq0b",
+  "businessProfileId": "7478840588691124036"
+},
+{
+  "title": "Nibedita Kitchen",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Mandapada Doulatabad, Chaudwar, Mandapara, Odisha 754026, India",
+  "neighborhood": "Mandapada Doulatabad",
+  "street": null,
+  "city": "Chaudwar, Mandapara",
+  "postalCode": "754026",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://nibeditakitchen.vercel.app/",
+  "phone": "+91 78949 84976",
+  "phoneUnformatted": "+917894984976",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.5040805,
+    "lng": 85.9015055
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ68HUFsITGToRHlRBAn6MsrI",
+  "categories": [
+    "Restaurant",
+    "Delivery Restaurant"
+  ],
+  "fid": "0x3a1913c216d4c1eb:0xb2b28c7e0241541e",
+  "cid": "12876508757437273118",
+  "reviewsCount": null,
+  "imagesCount": 9,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.126Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6 AM to 9 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6 AM to 9 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6 AM to 9 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6 to 9 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6 AM to 9 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6 AM to 9 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6 AM to 9 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Nibedita%20Kitchen&query_place_id=ChIJ68HUFsITGToRHlRBAn6MsrI",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbo-txZeRKXsJte3PTPXIgHCwTXltpphQRQEqraA6PHIoVTP-9QAyjyGNIm_Rtq1doSLFoqwp56N3Qx8oOuyib_CUJ6pfSi9G7EOFbmfSIOHdbsyaGAXU4ONW_pfnBD76CXCs7eTaC7Bd_=w427-h240-k-no",
+  "kgmid": "/g/11nvb1qfn0",
+  "businessProfileId": "13195024976956151519"
+},
+{
+  "title": "Snax relax cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Pizza restaurant",
+  "address": "Mahanadi Vihar, Kataka, Odisha 753004, India",
+  "neighborhood": "Mahanadi Vihar",
+  "street": null,
+  "city": "Kataka",
+  "postalCode": "753004",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 98537 14497",
+  "phoneUnformatted": "+919853714497",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.465096,
+    "lng": 85.9103339
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ2-qpQmYNGToRX5llVwHTWgE",
+  "categories": [
+    "Pizza restaurant"
+  ],
+  "fid": "0x3a190d6642a9eadb:0x15ad3015765995f",
+  "cid": "97622344656591199",
+  "reviewsCount": 56,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 7,
+    "fiveStar": 47
+  },
+  "imagesCount": 173,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.126Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 to 10:30 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Delivery": [
+      {
+        "day": "Monday",
+        "hours": "5–10:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "5–10:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5–10:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "5–10:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "5–10:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "5–10:30 PM"
+      }
+    ]
+  },
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Snax%20relax%20cafe&query_place_id=ChIJ2-qpQmYNGToRX5llVwHTWgE",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQnHB8B8PqibJb6Q-L7rYpl8FI0vYg1LWkYrAqzHZil2AP2SvIZkXA5nJgvnjDf2eyAScwFT0wp6lAw0Oe_4UCVHGtzhuSvUyN20w0ymlo9xhkwXfZ3xOLdBk-IT1TCCDieC6S=w408-h359-k-no",
+  "kgmid": "/g/11s850z6mv",
+  "businessProfileId": "1311649263322596259"
+},
+{
+  "title": "Shloka Restaurant and Lounge",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Non vegetarian restaurant",
+  "address": "Kanika Rd, Masik Patna Colony, Kataka, Odisha 753008, India",
+  "neighborhood": "Masik Patna Colony",
+  "street": "Kanika Rd",
+  "city": "Kataka",
+  "postalCode": "753008",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 97780 11724",
+  "phoneUnformatted": "+919778011724",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4786281,
+    "lng": 85.8574328
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJoeCYooMTGToRV1YbS03MM_s",
+  "categories": [
+    "Non vegetarian restaurant"
+  ],
+  "fid": "0x3a191383a298e0a1:0xfb33cc4d4b1b5657",
+  "cid": "18101035959676786263",
+  "reviewsCount": 253,
+  "reviewsDistribution": {
+    "oneStar": 30,
+    "twoStar": 15,
+    "threeStar": 30,
+    "fourStar": 50,
+    "fiveStar": 128
+  },
+  "imagesCount": 534,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:37.126Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/k5Pqy7ulpyU?source=pa&opi=79508299&hl=en-US&gei=GNj1aseVIMnLvMcPwImSwQk&ahbb=1&sourceurl=https://www.google.com/search?authuser%3D0%26tbm%3Dmap%26q%3DRestaurant%26psi%3DFdj1arjEMZqlkPIP9u7AkAM.1794496534212.1%26hl%3Den%26gl%3Dus%26pb%3D!4m12!1m3!1d7474.657592373325!2d85.88778763939104!3d20.492743412538832!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!8i0!10b1!12m36!1m1!18b1!2m3!5m1!6e2!20e3!6m18!4b1!49b1!63m0!73m0!74i150000!75b1!85b1!89b1!91b1!101i97!110m0!114b1!149b1!171b1!176f8!179f90!182b1!183m0!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1sFdj1arjEMZqlkPIP9u7AkAM!2s1i:0,t:20588,p:Fdj1arjEMZqlkPIP9u7AkAM:22!4m1!2i20588!7e81!12e3!24m92!1m26!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m15!3b1!4b1!5b1!6b1!13b1!14b1!15b1!17b1!21b1!22b0!25b1!27m1!1b0!28b0!31b0!2b1!5m5!2b1!5b1!6b1!7b1!10b1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m17!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m8!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!9b1!89b1!103b1!113b1!117b1!122m1!1b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!34m19!2b1!3b1!4b1!6b1!7b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!46m1!1e10!47m0!49m7!3b1!6m2!1b1!2b1!7m2!1e3!2b1!50m25!1m21!2m7!1u3!4zT3RldsWZZW7DqQ!5e1!9s!10m2!3m1!1e1!2m7!1u2!4zTmVqbMOpcGUgaG9kbm9jZW7DqQ!5e1!9s!10m2!2m1!1e1!3m1!1u2!3m1!1u3!4BIAE!2e2!3m1!3b1!59BQ2dBd0Fn!61b1!67m3!7b1!10b1!14b0!69i675",
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10:30 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10:30 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10:30 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10:30 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10:30 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10:30 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10:30 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Shloka%20Restaurant%20and%20Lounge&query_place_id=ChIJoeCYooMTGToRV1YbS03MM_s",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCyQyjwNeG6zC0Z2anEaZMXFoZu2YYHwv5SZeGOA9l4qCUCW70T7rynfbkbToe1sDlC-ezdiFDe4G-IXL4ZKgOWlRDtKiIgOcvJyFRpRJ-XzjHr2aZet9sll4gH7oiprRLFQTdVw=w408-h544-k-no",
+  "kgmid": "/g/11rqggcy4s",
+  "businessProfileId": "6271739168146239441"
+},
+{
+  "title": "Pristine Paradise",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Madhusudan Nagar, Near, Mahanadi Rd, Kataka, Odisha 753008, India",
+  "neighborhood": "Tulsipur",
+  "street": "Madhusudan Nagar, Near, Mahanadi Rd",
+  "city": "Kataka",
+  "postalCode": "753008",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://pristineparadise.in/",
+  "phone": "+91 78730 95000",
+  "phoneUnformatted": "+917873095000",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4861982,
+    "lng": 85.8608154
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJp7x6gOMTGToRZs0-rTdtGOI",
+  "categories": [
+    "Restaurant",
+    "Event venue",
+    "Hotel",
+    "Banquet hall"
+  ],
+  "fid": "0x3a1913e3807abca7:0xe2186d37ad3ecd66",
+  "cid": "16291891737909972326",
+  "reviewsCount": 561,
+  "reviewsDistribution": {
+    "oneStar": 14,
+    "twoStar": 5,
+    "threeStar": 29,
+    "fourStar": 146,
+    "fiveStar": 367
+  },
+  "imagesCount": 434,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:41.735Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Pristine%20Paradise&query_place_id=ChIJp7x6gOMTGToRZs0-rTdtGOI",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.87061236060896,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5Jz0wsQeU4NWjCpZAaRx1MDyxDTFPI2nZfuyVIoISUy9PSVHgUqJZQD5aV7xFLyGRhjQWNH6k0qR-oRwUR9bVjiYnuxLFW9xtVLSJ0FGHfvJrXqNATKX2mW6vuo9Ua9ENwuAH=w408-h306-k-no",
+  "kgmid": "/g/11pz7r2bbj",
+  "businessProfileId": "4563562948952755148"
+},
+{
+  "title": "Restaurant 2.0 & Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Jobra, LIC Colony, Kataka, Odisha 753003, India",
+  "neighborhood": "Jobra, LIC Colony",
+  "street": null,
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 90409 10746",
+  "phoneUnformatted": "+919040910746",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4717404,
+    "lng": 85.8965133
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJJzmnS6sNGToRYVZiKPkn3m8",
+  "categories": [
+    "Restaurant",
+    "Cafe"
+  ],
+  "fid": "0x3a190dab4ba73927:0x6fde27f928625661",
+  "cid": "8060924334117639777",
+  "reviewsCount": 16,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 13
+  },
+  "imagesCount": 21,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:41.736Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9:30 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9:30 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9:30 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9:30 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9:30 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9:30 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9:30 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Restaurant%202.0%20%26%20Cafe&query_place_id=ChIJJzmnS6sNGToRYVZiKPkn3m8",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.87061236060896,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3jRFlwmzeyss6sGrouRPD6gibo8aInQH_XnyLxHzxE6C3kgBteNeBR7LIqn1ddbBR1CgofM06vmqqnRfpF0b3GCfu_5US7XXyoGwh89PZfH9Nzmk-sFhRgMx0QrqaRxogh4zL=w408-h544-k-no",
+  "kgmid": "/g/11ltv9_6lt",
+  "businessProfileId": "13437439791150688018"
+},
+{
+  "title": "Swadeshi The Family Restaurant Cuttack",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Chinese restaurant",
+  "address": "Collage Chhaka, near Khadims showroom, LIC Colony, Kataka, Odisha 753003, India",
+  "neighborhood": "LIC Colony",
+  "street": "Collage Chhaka, near Khadims showroom",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 82493 37661",
+  "phoneUnformatted": "+918249337661",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 20.4681581,
+    "lng": 85.8957405
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJtxErg0kNGToRizbffvSsnU4",
+  "categories": [
+    "Chinese restaurant"
+  ],
+  "fid": "0x3a190d49832b11b7:0x4e9dacf47edf368b",
+  "cid": "5664874072402507403",
+  "reviewsCount": 35,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 5,
+    "fiveStar": 27
+  },
+  "imagesCount": 18,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:41.736Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 11 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Lunch": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ]
+  },
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Assistive hearing loop": true
+      },
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Swadeshi%20The%20Family%20Restaurant%20Cuttack&query_place_id=ChIJtxErg0kNGToRizbffvSsnU4",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.87061236060896,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjPPT9DbZ3a8JxvTif8r5v-o8KKYxlLKIp7B-LhDvFrMuA06gkfAJSDMeKVFW6Dtuqhlv0r7os02g5uuRl6nDl6KBHkvufrvogVPf_ke6WJRJpSwtH7E2EegHAnUHlSpPVNw=w408-h306-k-no",
+  "kgmid": "/g/11vk8zxt8m",
+  "businessProfileId": null
+},
+{
+  "title": "Babu Food Corner",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Near IDGHA ROAD, Road, SATICWORA, Kataka, Odisha 753002, India",
+  "neighborhood": "Nimchouri",
+  "street": "Near IDGHA ROAD, Road",
+  "city": "SATICWORA, Kataka",
+  "postalCode": "753002",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 83415 23786",
+  "phoneUnformatted": "+918341523786",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4636185,
+    "lng": 85.8614323
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJO1VQESsTGToR4W_DzcDXPBU",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a19132b1150553b:0x153cd7c0cdc36fe1",
+  "cid": "1530335196484956129",
+  "reviewsCount": 24,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 23
+  },
+  "imagesCount": 20,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:41.736Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "1:01 to 10:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "1:01 to 10:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "1:01 to 10:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "1:01 to 10:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "1:01 to 10:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "1:01 to 10:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "1:01 to 10:30 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Babu%20Food%20Corner&query_place_id=ChIJO1VQESsTGToR4W_DzcDXPBU",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.87061236060896,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 14,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLccV-7_jrSBkcX3dcrV3XZupSRGAnF0oeiBFNTUex3iBxqCD8rIyqiDwy1MF_SBJ2_pZHXhqoL5hSQ61yeoXPcjds2ui-T1wgjFjnSK5TOZtPzxwGLhkrbePmcxOtjY5jQfWO_z=w531-h240-k-no",
+  "kgmid": "/g/11s81_lv_2",
+  "businessProfileId": "14294769205037473665"
+},
+{
+  "title": "Hunger Station",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Mughlai restaurant",
+  "address": "Chandi chak, beside chandi mandir, Chandi Chhaka, Biju Patnaik Colony, Kataka, Odisha 753001, India",
+  "neighborhood": "Chandi Chhaka, Biju Patnaik Colony",
+  "street": "Chandi chak, beside chandi mandir",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 79780 36249",
+  "phoneUnformatted": "+917978036249",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4765497,
+    "lng": 85.862395
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZWQM2VETGToROamJSFTnR98",
+  "categories": [
+    "Mughlai restaurant",
+    "Family restaurant",
+    "Takeout Restaurant"
+  ],
+  "fid": "0x3a191351d90c6465:0xdf47e7544889a939",
+  "cid": "16089082542984636729",
+  "reviewsCount": 129,
+  "reviewsDistribution": {
+    "oneStar": 27,
+    "twoStar": 6,
+    "threeStar": 6,
+    "fourStar": 17,
+    "fiveStar": 73
+  },
+  "imagesCount": 160,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:41.736Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11:30 AM to 12 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11:30 AM to 12 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11:30 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11:30 AM to 12 AM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Assistive hearing loop": true
+      },
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      },
+      {
+        "Wheelchair accessible restroom": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hunger%20Station&query_place_id=ChIJZWQM2VETGToROamJSFTnR98",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.492743412538832,85.87061236060896,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmynmqZapzjrQyqRvzePBUL90fldLqxnbVGw4jdSHETZyzhJHKgHHvUQCbCcSQroFoNXDwucPv2SxFYkvv4Pz3EIf4KO4AyKSY7hNKlYDrOWsIas9fNOQtididtS92wSAY60ar=w426-h240-k-no",
+  "kgmid": "/g/11qp0j5mpx",
+  "businessProfileId": "2676974873389568212"
+},
+{
+  "title": "Premanands Cafe and Bakery",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Bakery",
+  "address": "552/730, Deulasahi, Deulasahi Colony, Kataka, Odisha 753008, India",
+  "neighborhood": "Deulasahi, Deulasahi Colony",
+  "street": "552/730",
+  "city": "Kataka",
+  "postalCode": "753008",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 73771 87184",
+  "phoneUnformatted": "+917377187184",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4845611,
+    "lng": 85.8489373
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJIR3o-IQTGToRLtqYb38sbuY",
+  "categories": [
+    "Bakery"
+  ],
+  "fid": "0x3a191384f8e81d21:0xe66e2c7f6f98da2e",
+  "cid": "16604257802006354478",
+  "reviewsCount": 221,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 12,
+    "fiveStar": 205
+  },
+  "imagesCount": 421,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:42.186Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 11:55 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 11:55 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 11:55 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 11:55 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 11:55 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 11:55 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 11:55 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Premanands%20Cafe%20and%20Bakery&query_place_id=ChIJIR3o-IQTGToRLtqYb38sbuY",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.87061236060896,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 5,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcER7X1njbslO38pDAhb1j7RQW9fIWSJRVacIsCK-qn4ZoZqpWlOpSJuFM58WjC5uflh_B9xMQWTDxylnmi-ym0J5nnZCJoYNRGv9SzLisWY7ZMXXQYBD4zp6Iae8d6lPIFy2B9uA=w533-h240-k-no",
+  "kgmid": "/g/11q9j8tbgc",
+  "businessProfileId": "6775645069370427729"
+},
+{
+  "title": "Coole Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Buxi Bazaar, Kataka, Odisha 753001, India",
+  "neighborhood": "Buxi Bazaar",
+  "street": null,
+  "city": "Kataka",
+  "postalCode": null,
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 82492 36343",
+  "phoneUnformatted": "+918249236343",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 20.485024,
+    "lng": 85.8703411
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": null,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJf4TxXW0SGToR4tpMzBLQkx4",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a19126d5df1847f:0x1e93d012cc4cdae2",
+  "cid": "2203333421869882082",
+  "reviewsCount": null,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:42.187Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [],
+  "wasOpenAtScrapeTime": null,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Coole%20Cafe&query_place_id=ChIJf4TxXW0SGToR4tpMzBLQkx4",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.87061236060896,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 9,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bUhtWl--dCS5mW_lhzo4YQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=131.39978&pitch=0&thumbfov=100",
+  "kgmid": "/g/11nk11ptgl",
+  "businessProfileId": null
+},
+{
+  "title": "Freedom Zone",
+  "subTitle": "ଫ୍ରିଡମ ଜୋନ",
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "FVH5+F59, Shaikh Bazar, Tulasipur Colony, Kataka, Odisha 753008, India",
+  "neighborhood": "Shaikh Bazar, Tulasipur Colony",
+  "street": "FVH5+F59",
+  "city": "Kataka",
+  "postalCode": "753008",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 75045 67808",
+  "phoneUnformatted": "+917504567808",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 20.4786556,
+    "lng": 85.8579897
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJm21VBAYSGToRETf2kNNA_Zw",
+  "categories": [
+    "Cafe",
+    "Coffee shop"
+  ],
+  "fid": "0x3a19120604556d9b:0x9cfd40d390f63711",
+  "cid": "11312269116438886161",
+  "reviewsCount": 418,
+  "reviewsDistribution": {
+    "oneStar": 10,
+    "twoStar": 5,
+    "threeStar": 39,
+    "fourStar": 96,
+    "fiveStar": 268
+  },
+  "imagesCount": 107,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:42.187Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible parking lot": false
+      },
+      {
+        "Wheelchair accessible seating": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Freedom%20Zone&query_place_id=ChIJm21VBAYSGToRETf2kNNA_Zw",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.87061236060896,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8xqBDzkPoQA5ehZiC8ojGvveI3L6QMHIQnsPSsYbNdIpU03T39eD59-X9aerMhzSckfmFTdX2jYGIcAY03vHMz4NIWJkGtldZuevsBy1azW4omAGl1seHGKXjEwh2uQv1oo6K1w=w408-h544-k-no",
+  "kgmid": "/g/11d_d28w8k",
+  "businessProfileId": null
+},
+{
+  "title": "Cookies The Cake Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Bakery",
+  "address": "Shelter Chhack, Masik Patna Colony, Kataka, Odisha 753008, India",
+  "neighborhood": "Masik Patna Colony",
+  "street": "Shelter Chhack",
+  "city": "Kataka",
+  "postalCode": "753008",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.478683,
+    "lng": 85.8529384
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJFYiyES4TGToRAbZng0JZCQM",
+  "categories": [
+    "Bakery"
+  ],
+  "fid": "0x3a19132e11b28815:0x30959428367b601",
+  "cid": "218804199111505409",
+  "reviewsCount": 53,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 4,
+    "fourStar": 11,
+    "fiveStar": 36
+  },
+  "imagesCount": 117,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:42.187Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cookies%20The%20Cake%20Cafe&query_place_id=ChIJFYiyES4TGToRAbZng0JZCQM",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.87061236060896,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdudTJcm-HQ4xBNE5NDeZBEMk6vxImiv_8ZvmlkAPpQT73ib-NwFqqe3YWySC_JV23v0EvaF_SwTG97gRzr9273R0SBgF6wqSPVrWdVhl-LlxN11PofHnJA7DpK-qKu8c3uEnbgvgxDlUW0=w408-h544-k-no",
+  "kgmid": "/g/11sx4rw6l1",
+  "businessProfileId": "18169384427171555182"
+},
+{
+  "title": "Chiraag cafe and lounge",
+  "subTitle": "ଚିରାଗ କ୍ୟାଫେ ଆଣ୍ଡ ଲଞ୍ଜ",
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Cafe",
+  "address": "Shop no 65, big bazar, Jail Rd, Oriya Bazar, Kataka, Odisha 753001, India",
+  "neighborhood": "Oriya Bazar",
+  "street": "Shop no 65, big bazar, Jail Rd",
+  "city": "Kataka",
+  "postalCode": "753001",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 77500 35532",
+  "phoneUnformatted": "+917750035532",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4677778,
+    "lng": 85.8691414
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJKWG_KzoNGToRZxCWu_2jC4s",
+  "categories": [
+    "Cafe"
+  ],
+  "fid": "0x3a190d3a2bbf6129:0x8b0ba3fdbb961067",
+  "cid": "10019282106185027687",
+  "reviewsCount": 41,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 4,
+    "fiveStar": 33
+  },
+  "imagesCount": 69,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:42.187Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Chiraag%20cafe%20and%20lounge&query_place_id=ChIJKWG_KzoNGToRZxCWu_2jC4s",
+  "searchPageUrl": "https://www.google.com/maps/search/Cafe/@20.492743412538832,85.87061236060896,16z?hl=en",
+  "searchString": "Cafe",
+  "language": "en",
+  "rank": 14,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVR7ffVjXSo8yY71NKpeovhVNxdjdHOGYLYnWh1zrOWkRlFqgP5t-xjSSikQEAIkWDAaGLcBcwBMeikVcpl9bW55X3OwPbzG2LQODGluVOHXcmfEPti_PhXN6GfX5x0oh6DvWE9w=w470-h240-k-no",
+  "kgmid": "/g/11h_58n349",
+  "businessProfileId": "17446090267596747127"
+},
+{
+  "title": "The Aromas Multi Cuisine Restaurant",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Biryani restaurant",
+  "address": "Plot No 881, Link Rd, near Hotel Sheetal, Madhupatna, Old LIC Colony, Kataka, Odisha 753012, India",
+  "neighborhood": "Madhupatna, Old LIC Colony",
+  "street": "Plot No 881, Link Rd, near Hotel Sheetal",
+  "city": "Kataka",
+  "postalCode": "753012",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 89843 21411",
+  "phoneUnformatted": "+918984321411",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4547626,
+    "lng": 85.8878948
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPX4DvwgNGToRxWwPkHezmoc",
+  "categories": [
+    "Biryani restaurant"
+  ],
+  "fid": "0x3a190d08bf037e3d:0x879ab377900f6cc5",
+  "cid": "9771319667633122501",
+  "reviewsCount": 213,
+  "reviewsDistribution": {
+    "oneStar": 19,
+    "twoStar": 5,
+    "threeStar": 4,
+    "fourStar": 8,
+    "fiveStar": 177
+  },
+  "imagesCount": 362,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:45.478Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "11 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "11 AM to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Aromas%20Multi%20Cuisine%20Restaurant&query_place_id=ChIJPX4DvwgNGToRxWwPkHezmoc",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.460552195820387,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJm-d98EabJgDzL8ekeyMOx5iy0u75Z_n4gFZOsQqVF9sHt7854i1TLc1sLFIY9X0vbOS-athQygpvOLpA11qK3XbkxzZD0Z_uLYYClyX1q98AARkCxmvKrWIq-MODJect8Z18Bw=w408-h544-k-no",
+  "kgmid": "/g/11vjwtqxsq",
+  "businessProfileId": "17126666107492075315"
+},
+{
+  "title": "Fatboy Restro & Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "North Indian restaurant",
+  "address": "College Square, Infront of Ravenshaw University, Plot no 948/2318, near Subhas Chandra Bose Statue, LIC Colony, Kataka, Odisha 753003, India",
+  "neighborhood": "LIC Colony",
+  "street": "College Square, Infront of Ravenshaw University, Plot no 948/2318, near Subhas Chandra Bose Statue",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 70082 88560",
+  "phoneUnformatted": "+917008288560",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4667335,
+    "lng": 85.8956239
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJT7H9ga8NGToR6ftfkH5f5pc",
+  "categories": [
+    "North Indian restaurant"
+  ],
+  "fid": "0x3a190daf81fdb14f:0x97e65f7e905ffbe9",
+  "cid": "10945540941563296745",
+  "reviewsCount": 1025,
+  "reviewsDistribution": {
+    "oneStar": 39,
+    "twoStar": 13,
+    "threeStar": 24,
+    "fourStar": 103,
+    "fiveStar": 846
+  },
+  "imagesCount": 663,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:45.478Z",
+  "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/DUcz-_VAaj0?source=pa&opi=79508299&hl=en-US&gei=INj1apzfOvHGp84Ph5jt-Ao&ahbb=1&sourceurl=https://www.google.com/search?authuser%3D0%26tbm%3Dmap%26q%3DRestaurant%26psi%3DHtj1asLCK5CrptQPyOS5kAU.1794496542875.1%26hl%3Den%26gl%3Dus%26pb%3D!4m12!1m3!1d7476.225965690608!2d85.88778763939104!3d20.460552195820387!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!8i0!10b1!12m36!1m1!18b1!2m3!5m1!6e2!20e3!6m18!4b1!49b1!63m0!73m0!74i150000!75b1!85b1!89b1!91b1!101i97!110m0!114b1!149b1!171b1!176f8!179f90!182b1!183m0!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1sHtj1asLCK5CrptQPyOS5kAU!2s1i:0,t:20588,p:Htj1asLCK5CrptQPyOS5kAU:22!4m1!2i20588!7e81!12e3!24m92!1m26!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m15!3b1!4b1!5b1!6b1!13b1!14b1!15b1!17b1!21b1!22b0!25b1!27m1!1b0!28b0!31b0!2b1!5m5!2b1!5b1!6b1!7b1!10b1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m17!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m8!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!9b1!89b1!103b1!113b1!117b1!122m1!1b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!34m19!2b1!3b1!4b1!6b1!7b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!46m1!1e10!47m0!49m7!3b1!6m2!1b1!2b1!7m2!1e3!2b1!50m25!1m21!2m7!1u3!4zT3RldsWZZW7DqQ!5e1!9s!10m2!3m1!1e1!2m7!1u2!4zTmVqbMOpcGUgaG9kbm9jZW7DqQ!5e1!9s!10m2!2m1!1e1!3m1!1u2!3m1!1u3!4BIAE!2e2!3m1!3b1!59BQ2dBd0Fn!61b1!67m3!7b1!10b1!14b0!69i675",
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 11 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Fatboy%20Restro%20%26%20Cafe&query_place_id=ChIJT7H9ga8NGToR6ftfkH5f5pc",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.460552195820387,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8CHnk0Od_cDV4mJkGnKhmUfeXvUB4lnCYFLp1JMkJQvHieJVvBJvYb7leCPKCw5mlL-5Yii8-x2It-q_fM0i-MiXFPSqJEPKOwjxFx_hXQPIelPYKR4kuhsp9M-ohRszsb9m7=w408-h306-k-no",
+  "kgmid": "/g/11v_931j4s",
+  "businessProfileId": "8838019510407697625"
+},
+{
+  "title": "Squad Restro And Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "North Indian restaurant",
+  "address": "College Square, above Triathlon, near Petrol Pump, Municipal Colony, Kataka, Odisha 753003, India",
+  "neighborhood": "Municipal Colony",
+  "street": "College Square, above Triathlon, near Petrol Pump",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "phone": "+91 91142 27777",
+  "phoneUnformatted": "+919114227777",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4666734,
+    "lng": 85.8965555
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJNaFV7LgNGToRdmVPBm1FKHs",
+  "categories": [
+    "North Indian restaurant"
+  ],
+  "fid": "0x3a190db8ec55a135:0x7b28456d064f6576",
+  "cid": "8874419400293180790",
+  "reviewsCount": 2138,
+  "reviewsDistribution": {
+    "oneStar": 69,
+    "twoStar": 22,
+    "threeStar": 76,
+    "fourStar": 303,
+    "fiveStar": 1668
+  },
+  "imagesCount": 1151,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:45.478Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 11 PM"
+    }
+  ],
+  "additionalOpeningHours": {
+    "Dinner": [
+      {
+        "day": "Monday",
+        "hours": "11 AM–11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM–11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM–11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM–11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM–11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM–11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM–11 PM"
+      }
+    ]
+  },
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible seating": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Squad%20Restro%20And%20Cafe&query_place_id=ChIJNaFV7LgNGToRdmVPBm1FKHs",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.460552195820387,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 3,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyhVWNmrvWp0jG4PzOgMDvmccHKLGcgK9e4JnkhOsoPPY-0nTdDDmUxv_IBGMkBl3Ur2MOPyTNcbGvRpl2GnkYz5liZK5DmeJgDUzJ1pcc3YD-Sjsg_QD9jH-YLl-5_i9_u5TTwTsID2I1=w408-h307-k-no",
+  "kgmid": "/g/11p75pfpkz",
+  "businessProfileId": "2646649760568353560"
+},
+{
+  "title": "Hungry Restaurant and Cafe",
+  "subTitle": null,
+  "description": null,
+  "ownerDescription": null,
+  "price": null,
+  "categoryName": "Restaurant",
+  "address": "Ground Floor, Reliance Smart College Square, near Kitab Mahal, LIC Colony, Kataka, Odisha 753003, India",
+  "neighborhood": "LIC Colony",
+  "street": "Ground Floor, Reliance Smart College Square, near Kitab Mahal",
+  "city": "Kataka",
+  "postalCode": "753003",
+  "state": "Odisha",
+  "countryCode": "IN",
+  "website": "https://hungry-restaurant.grexa.site/",
+  "phone": "",
+  "phoneUnformatted": "",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 20.4674642,
+    "lng": 85.895166
+  },
+  "locatedIn": null,
+  "floor": null,
+  "plusCode": null,
+  "menu": null,
+  "servicesLink": null,
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJo0P3KIMNGToR2440XF9VVJs",
+  "categories": [
+    "Restaurant"
+  ],
+  "fid": "0x3a190d8328f743a3:0x9b54555f5c348edb",
+  "cid": "11192664841979727579",
+  "reviewsCount": 30,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 2,
+    "fiveStar": 25
+  },
+  "imagesCount": 269,
+  "imageCategories": [],
+  "scrapedAt": "2026-11-12T15:15:45.478Z",
+  "reserveTableUrl": null,
+  "googleFoodUrl": null,
+  "hotelStars": null,
+  "hotelDescription": null,
+  "checkInDate": null,
+  "checkOutDate": null,
+  "hotelAds": [],
+  "popularTimesLiveText": null,
+  "popularTimesLivePercent": null,
+  "popularTimesHistogram": {},
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 10 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 10 PM"
+    }
+  ],
+  "wasOpenAtScrapeTime": true,
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hungry%20Restaurant%20and%20Cafe&query_place_id=ChIJo0P3KIMNGToR2440XF9VVJs",
+  "searchPageUrl": "https://www.google.com/maps/search/Restaurant/@20.460552195820387,85.88778763939104,16z?hl=en",
+  "searchString": "Restaurant",
+  "language": "en",
+  "rank": 4,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEmqfUs6K5My3ODUHbjUrncr5KyxQLSYChJX25a2lpJlE_onSHmw7UmxGKd22AmKK7Gc35kBjjR-5IwW02Fk0Ep-OXIAE3ClpULhY9PGB-c9ABOe_53YbtpVrn_spaJCN__IU3ciMooYXL=w408-h873-k-no",
+  "kgmid": "/g/11yqp731v8",
+  "businessProfileId": "11391835635592088293"
+}]
