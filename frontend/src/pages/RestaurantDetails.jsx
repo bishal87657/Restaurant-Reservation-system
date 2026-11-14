@@ -1,4 +1,5 @@
-import { useState } from "react";
+
+import { useState, useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
 import { apiRequest } from "../api";
 
@@ -21,14 +22,50 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import TableSelector from "../components/TableSelector";
 
-import restaurants from "../data/restaurants";
+// Convert the opening-hours data into readable text
+function formatOpeningHours(openingHours) {
+  if (!openingHours) {
+    return "Opening hours not available";
+  }
+
+  if (Array.isArray(openingHours)) {
+    const entries = openingHours
+      .map((item) => {
+        if (typeof item === "string") {
+          return item;
+        }
+
+        if (typeof item === "object" && item !== null) {
+          const day = item.day || "";
+          const hours = item.hours || "";
+
+          return `${day}: ${hours}`.trim();
+        }
+
+        return "";
+      })
+      .filter(Boolean);
+
+    return entries.length
+      ? entries.join(" · ")
+      : "Opening hours not available";
+  }
+
+  if (typeof openingHours === "object") {
+    return Object.entries(openingHours)
+      .map(([day, hours]) => `${day}: ${hours}`)
+      .join(" · ");
+  }
+
+  return String(openingHours);
+}
 
 function RestaurantDetails() {
   const { id } = useParams();
 
-  const restaurant = restaurants.find(
-    (item) => item.id === Number(id)
-  );
+  const [restaurant, setRestaurant] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [fetchError, setFetchError] = useState("");
 
   const [favorite, setFavorite] = useState(false);
   const [guests, setGuests] = useState(2);
@@ -41,28 +78,40 @@ function RestaurantDetails() {
   const [bookingError, setBookingError] = useState("");
   const [bookingSuccess, setBookingSuccess] = useState("");
 
-  // Restaurant not found
-  if (!restaurant) {
-    return (
-      <>
-        <Navbar />
+  // Fetch the selected restaurant from the backend
+  useEffect(() => {
+    let cancelled = false;
 
-        <div className="restaurant-not-found">
-          <h2>Restaurant Not Found</h2>
+    const fetchRestaurant = async () => {
+      setLoading(true);
+      setFetchError("");
+      setRestaurant(null);
 
-          <p>
-            The restaurant you're looking for does not exist.
-          </p>
+      try {
+        const data = await apiRequest(`/restaurants/${id}`);
 
-          <Link to="/explore">
-            Back to Restaurants
-          </Link>
-        </div>
+        if (!cancelled) {
+          setRestaurant(data);
+        }
+      } catch (error) {
+        if (!cancelled) {
+          setFetchError(
+            error.message || "Could not load restaurant details."
+          );
+        }
+      } finally {
+        if (!cancelled) {
+          setLoading(false);
+        }
+      }
+    };
 
-        <Footer />
-      </>
-    );
-  }
+    fetchRestaurant();
+
+    return () => {
+      cancelled = true;
+    };
+  }, [id]);
 
   // Check date, time and table availability in the UI
   const handleCheckAvailability = (e) => {
@@ -84,7 +133,7 @@ function RestaurantDetails() {
     setAvailabilityChecked(true);
   };
 
-  // Reset the table selection when guest count changes
+  // Reset table selection when guest count changes
   const handleGuestChange = (e) => {
     setGuests(Number(e.target.value));
     setSelectedTable(null);
@@ -138,17 +187,72 @@ function RestaurantDetails() {
     }
   };
 
+  // Loading state
+  if (loading) {
+    return (
+      <>
+        <Navbar />
+
+        <div className="restaurant-not-found">
+          <h2>Loading restaurant...</h2>
+          <p>Please wait while we retrieve the details.</p>
+        </div>
+
+        <Footer />
+      </>
+    );
+  }
+
+  // Error or restaurant not found
+  if (!restaurant) {
+    return (
+      <>
+        <Navbar />
+
+        <div className="restaurant-not-found">
+          <h2>Restaurant Not Found</h2>
+
+          <p>
+            {fetchError || "The restaurant you're looking for does not exist."}
+          </p>
+
+          <Link to="/explore">
+            Back to Restaurants
+          </Link>
+        </div>
+
+        <Footer />
+      </>
+    );
+  }
+
+  const openingHours = formatOpeningHours(
+    restaurant.opening_hours
+  );
+
+  const cuisine = restaurant.cuisine || "Restaurant";
+  const location = restaurant.location || "Location unavailable";
+
+  const description =
+    restaurant.description ||
+    restaurant.subtitle ||
+    "Additional information about this restaurant is not available.";
+
   return (
     <div className="restaurant-details-page">
       <Navbar />
 
       {/* HERO SECTION */}
-
       <section className="restaurant-detail-hero">
-        <img
-          src={restaurant.image}
-          alt={restaurant.name}
-        />
+        {restaurant.image ? (
+          <img
+            src={restaurant.image}
+            alt={restaurant.name}
+            onError={(e) => {
+              e.currentTarget.style.display = "none";
+            }}
+          />
+        ) : null}
 
         <div className="restaurant-detail-overlay" />
 
@@ -174,48 +278,37 @@ function RestaurantDetails() {
             Back to Explore
           </Link>
 
-          <p>
-            {restaurant.cuisine} CUISINE
-          </p>
+          <p>{cuisine.toUpperCase()}</p>
 
-          <h1>
-            {restaurant.name}
-          </h1>
+          <h1>{restaurant.name}</h1>
 
           <div className="detail-rating">
-            <Star
-              size={17}
-              fill="currentColor"
-            />
+            <Star size={17} fill="currentColor" />
 
             <strong>
-              {restaurant.rating}
+              {restaurant.rating != null
+                ? Number(restaurant.rating).toFixed(1)
+                : "New"}
             </strong>
 
             <span>
-              ({restaurant.reviews} reviews)
+              ({restaurant.reviews ?? 0} reviews)
             </span>
 
-            <span className="hero-divider">
-              |
-            </span>
+            <span className="hero-divider">|</span>
 
             <MapPin size={16} />
 
-            <span>
-              {restaurant.location}
-            </span>
+            <span>{location}</span>
           </div>
         </motion.div>
       </section>
 
       {/* MAIN CONTENT */}
-
       <main className="restaurant-detail-content">
         <div className="restaurant-detail-main">
 
           {/* ABOUT THE RESTAURANT */}
-
           <motion.section
             className="restaurant-info-section"
             initial={{
@@ -232,12 +325,10 @@ function RestaurantDetails() {
           >
             <div className="detail-heading">
               <div>
-                <span>
-                  ABOUT THE RESTAURANT
-                </span>
+                <span>ABOUT THE RESTAURANT</span>
 
                 <h2>
-                  A memorable dining experience
+                  {restaurant.subtitle || restaurant.name}
                 </h2>
               </div>
 
@@ -255,26 +346,24 @@ function RestaurantDetails() {
               >
                 <Heart
                   size={20}
-                  fill={
-                    favorite
-                      ? "currentColor"
-                      : "none"
-                  }
+                  fill={favorite ? "currentColor" : "none"}
                 />
               </button>
             </div>
 
             <p className="detail-description">
-              {restaurant.name} offers a carefully
-              designed dining experience with delicious{" "}
-
-              {restaurant.cuisine.toLowerCase()} cuisine,
-              welcoming ambience and quality service.
-
-              Whether you're planning a casual meal,
-              family dinner or special occasion, this
-              restaurant is a great choice.
+              {description}
             </p>
+
+            {restaurant.categories?.length > 0 && (
+              <div className="restaurant-categories">
+                {restaurant.categories.map((category, index) => (
+                  <span key={`${category}-${index}`}>
+                    {category}
+                  </span>
+                ))}
+              </div>
+            )}
 
             <div className="restaurant-features">
               <div>
@@ -283,9 +372,7 @@ function RestaurantDetails() {
                 <div>
                   <small>LOCATION</small>
 
-                  <strong>
-                    {restaurant.location}
-                  </strong>
+                  <strong>{location}</strong>
                 </div>
               </div>
 
@@ -295,9 +382,7 @@ function RestaurantDetails() {
                 <div>
                   <small>OPENING HOURS</small>
 
-                  <strong>
-                    11:00 AM – 11:00 PM
-                  </strong>
+                  <strong>{openingHours}</strong>
                 </div>
               </div>
 
@@ -308,15 +393,35 @@ function RestaurantDetails() {
                   <small>RATING</small>
 
                   <strong>
-                    {restaurant.rating} / 5
+                    {restaurant.rating != null
+                      ? `${Number(restaurant.rating).toFixed(1)} / 5`
+                      : "Not rated"}
                   </strong>
                 </div>
               </div>
             </div>
+
+            {restaurant.phone && (
+              <p className="restaurant-contact">
+                <strong>Phone:</strong> {restaurant.phone}
+              </p>
+            )}
+
+            {restaurant.website && (
+              <p className="restaurant-contact">
+                <strong>Website:</strong>{" "}
+                <a
+                  href={restaurant.website}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Visit website
+                </a>
+              </p>
+            )}
           </motion.section>
 
           {/* RESERVATION SECTION */}
-
           <motion.section
             className="reservation-section modern-reservation"
             initial={{
@@ -332,13 +437,9 @@ function RestaurantDetails() {
             }}
           >
             <div className="reservation-heading">
-              <span>
-                MAKE A RESERVATION
-              </span>
+              <span>MAKE A RESERVATION</span>
 
-              <h2>
-                Select Date and Time
-              </h2>
+              <h2>Select Date and Time</h2>
 
               <p>
                 Choose your date, time, number of guests
@@ -347,13 +448,11 @@ function RestaurantDetails() {
             </div>
 
             {/* RESERVATION CONTROLS */}
-
             <form
               className="reservation-controls"
               onSubmit={handleCheckAvailability}
             >
               {/* DATE */}
-
               <div className="reservation-control">
                 <label>
                   <CalendarDays size={17} />
@@ -366,11 +465,7 @@ function RestaurantDetails() {
                   <input
                     type="date"
                     value={date}
-                    min={
-                      new Date()
-                        .toISOString()
-                        .split("T")[0]
-                    }
+                    min={new Date().toLocaleDateString("en-CA")}
                     onChange={(e) => {
                       setDate(e.target.value);
                       setSelectedTable(null);
@@ -384,7 +479,6 @@ function RestaurantDetails() {
               </div>
 
               {/* TIME */}
-
               <div className="reservation-control">
                 <label>
                   <Clock size={17} />
@@ -405,51 +499,21 @@ function RestaurantDetails() {
                     }}
                     required
                   >
-                    <option value="">
-                      Select time
-                    </option>
-
-                    <option value="11:00:00">
-                      11:00 AM
-                    </option>
-
-                    <option value="12:00:00">
-                      12:00 PM
-                    </option>
-
-                    <option value="13:00:00">
-                      1:00 PM
-                    </option>
-
-                    <option value="14:00:00">
-                      2:00 PM
-                    </option>
-
-                    <option value="19:00:00">
-                      7:00 PM
-                    </option>
-
-                    <option value="19:30:00">
-                      7:30 PM
-                    </option>
-
-                    <option value="20:00:00">
-                      8:00 PM
-                    </option>
-
-                    <option value="21:00:00">
-                      9:00 PM
-                    </option>
-
-                    <option value="22:00:00">
-                      10:00 PM
-                    </option>
+                    <option value="">Select time</option>
+                    <option value="11:00:00">11:00 AM</option>
+                    <option value="12:00:00">12:00 PM</option>
+                    <option value="13:00:00">1:00 PM</option>
+                    <option value="14:00:00">2:00 PM</option>
+                    <option value="19:00:00">7:00 PM</option>
+                    <option value="19:30:00">7:30 PM</option>
+                    <option value="20:00:00">8:00 PM</option>
+                    <option value="21:00:00">9:00 PM</option>
+                    <option value="22:00:00">10:00 PM</option>
                   </select>
                 </div>
               </div>
 
               {/* GUESTS */}
-
               <div className="reservation-control">
                 <label>
                   <Users size={17} />
@@ -463,55 +527,29 @@ function RestaurantDetails() {
                     value={guests}
                     onChange={handleGuestChange}
                   >
-                    <option value={1}>
-                      1 Guest
-                    </option>
-
-                    <option value={2}>
-                      2 Guests
-                    </option>
-
-                    <option value={3}>
-                      3 Guests
-                    </option>
-
-                    <option value={4}>
-                      4 Guests
-                    </option>
-
-                    <option value={5}>
-                      5 Guests
-                    </option>
-
-                    <option value={6}>
-                      6 Guests
-                    </option>
-
-                    <option value={7}>
-                      7 Guests
-                    </option>
-
-                    <option value={8}>
-                      8 Guests
-                    </option>
+                    <option value={1}>1 Guest</option>
+                    <option value={2}>2 Guests</option>
+                    <option value={3}>3 Guests</option>
+                    <option value={4}>4 Guests</option>
+                    <option value={5}>5 Guests</option>
+                    <option value={6}>6 Guests</option>
+                    <option value={7}>7 Guests</option>
+                    <option value={8}>8 Guests</option>
                   </select>
                 </div>
               </div>
 
               {/* CHECK AVAILABILITY */}
-
               <button
                 type="submit"
                 className="check-availability-button"
               >
                 Check Availability
-
                 <ArrowRight size={18} />
               </button>
             </form>
 
             {/* TABLE SELECTOR */}
-
             {availabilityChecked && (
               <motion.div
                 initial={{
@@ -538,7 +576,6 @@ function RestaurantDetails() {
         </div>
 
         {/* BOOKING SIDEBAR */}
-
         <motion.aside
           className="restaurant-booking-sidebar"
           initial={{
@@ -554,51 +591,47 @@ function RestaurantDetails() {
           }}
         >
           {/* RESTAURANT CARD */}
-
           <div className="sidebar-restaurant-card">
-            <img
-              src={restaurant.image}
-              alt={restaurant.name}
-            />
+            {restaurant.image && (
+              <img
+                src={restaurant.image}
+                alt={restaurant.name}
+                onError={(e) => {
+                  e.currentTarget.style.display = "none";
+                }}
+              />
+            )}
 
             <div className="sidebar-restaurant-content">
-              <span>
-                {restaurant.cuisine}
-              </span>
+              <span>{cuisine}</span>
 
-              <h3>
-                {restaurant.name}
-              </h3>
+              <h3>{restaurant.name}</h3>
 
               <div className="sidebar-rating">
-                <Star
-                  size={15}
-                  fill="currentColor"
-                />
+                <Star size={15} fill="currentColor" />
 
-                {restaurant.rating}
+                {restaurant.rating != null
+                  ? Number(restaurant.rating).toFixed(1)
+                  : "Not rated"}
 
                 <small>
-                  {restaurant.reviews} reviews
+                  {restaurant.reviews ?? 0} reviews
                 </small>
               </div>
 
               <div className="sidebar-location">
                 <MapPin size={15} />
-
-                {restaurant.location}
+                {location}
               </div>
 
               <div className="sidebar-hours">
                 <Clock size={15} />
-
-                Open today · 11 AM – 11 PM
+                {openingHours}
               </div>
             </div>
           </div>
 
           {/* SELECTED TABLE */}
-
           <div className="booking-summary-card">
             <span className="summary-eyebrow">
               SELECTED TABLE
@@ -616,9 +649,7 @@ function RestaurantDetails() {
                       Table {selectedTable.id}
                     </strong>
 
-                    <span>
-                      {selectedTable.location}
-                    </span>
+                    <span>{selectedTable.location}</span>
                   </div>
                 </div>
 
@@ -633,17 +664,13 @@ function RestaurantDetails() {
                 <div className="summary-row">
                   <span>Location</span>
 
-                  <strong>
-                    {selectedTable.location}
-                  </strong>
+                  <strong>{selectedTable.location}</strong>
                 </div>
 
                 <div className="summary-row">
                   <span>Table Type</span>
 
-                  <strong>
-                    {selectedTable.type}
-                  </strong>
+                  <strong>{selectedTable.type}</strong>
                 </div>
               </>
             ) : (
@@ -653,15 +680,13 @@ function RestaurantDetails() {
                 </div>
 
                 <p>
-                  Select an available table
-                  from the floor plan.
+                  Select an available table from the floor plan.
                 </p>
               </div>
             )}
           </div>
 
           {/* RESERVATION SUMMARY */}
-
           <div className="booking-summary-card">
             <span className="summary-eyebrow">
               YOUR RESERVATION
@@ -670,26 +695,17 @@ function RestaurantDetails() {
             <div className="reservation-summary">
               <div>
                 <CalendarDays size={17} />
-
-                <span>
-                  {date || "Select date"}
-                </span>
+                <span>{date || "Select date"}</span>
               </div>
 
               <div>
                 <Clock size={17} />
-
-                <span>
-                  {time || "Select time"}
-                </span>
+                <span>{time || "Select time"}</span>
               </div>
 
               <div>
                 <Users size={17} />
-
-                <span>
-                  {guests} Guests
-                </span>
+                <span>{guests} Guests</span>
               </div>
 
               <div>
@@ -704,7 +720,6 @@ function RestaurantDetails() {
             </div>
 
             {/* ERROR MESSAGE */}
-
             {bookingError && (
               <p
                 role="alert"
@@ -718,7 +733,6 @@ function RestaurantDetails() {
             )}
 
             {/* SUCCESS MESSAGE */}
-
             {bookingSuccess && (
               <p
                 role="status"
@@ -732,7 +746,6 @@ function RestaurantDetails() {
             )}
 
             {/* CONFIRM RESERVATION */}
-
             <button
               type="button"
               className="confirm-reservation-button"
@@ -750,8 +763,7 @@ function RestaurantDetails() {
 
             <p className="reservation-note">
               <Check size={14} />
-
-              Tables are held for 10 minutes.
+              Your reservation will be saved to your account.
             </p>
           </div>
         </motion.aside>

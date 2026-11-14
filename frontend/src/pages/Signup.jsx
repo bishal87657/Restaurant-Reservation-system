@@ -28,57 +28,104 @@ function Signup() {
   const [loading, setLoading] = useState(false);
 
   const handleSignup = async (e) => {
-    e.preventDefault();
-    setError("");
+  e.preventDefault();
+  setError("");
 
-    if (!name || !email || !phone || !password || !confirmPassword) {
-      setError("Please fill in all fields.");
-      return;
-    }
+  // Remove accidental spaces from the user's input.
+  const cleanName = name.trim();
+  const cleanEmail = email.trim().toLowerCase();
+  const cleanPhone = phone.trim();
 
-    if (!/^[0-9]{10}$/.test(phone)) {
-      setError("Please enter a valid 10-digit phone number.");
-      return;
-    }
+  // Frontend validation
+  if (!cleanName || !cleanEmail || !cleanPhone || !password || !confirmPassword) {
+    setError("Please fill in all fields.");
+    return;
+  }
 
-    if (password !== confirmPassword) {
-      setError("Passwords do not match.");
-      return;
-    }
+  if (cleanName.length < 2) {
+    setError("Name must contain at least 2 characters.");
+    return;
+  }
 
-    try {
-      setLoading(true);
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(cleanEmail)) {
+    setError("Please enter a valid email address.");
+    return;
+  }
 
-      const response = await fetch(
-        "http://localhost:8000/auth/register",
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json"
-          },
-          body: JSON.stringify({
-            name,
-            email,
-            phone,
-            password
+  if (!/^[0-9]{10}$/.test(cleanPhone)) {
+    setError("Please enter a valid 10-digit phone number.");
+    return;
+  }
+
+  if (password.length < 6) {
+    setError("Password must contain at least 6 characters.");
+    return;
+  }
+
+  if (password.length > 128) {
+    setError("Password cannot exceed 128 characters.");
+    return;
+  }
+
+  if (password !== confirmPassword) {
+    setError("Passwords do not match.");
+    return;
+  }
+
+  try {
+    setLoading(true);
+
+    const response = await fetch(
+      "http://127.0.0.1:8000/auth/register",
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          name: cleanName,
+          email: cleanEmail,
+          phone: cleanPhone,
+          password: password,
+        }),
+      }
+    );
+
+    const data = await response.json();
+
+    if (!response.ok) {
+      // FastAPI may return either a string or an array of validation errors.
+      let errorMessage = "Registration failed. Please try again.";
+
+      if (typeof data.detail === "string") {
+        errorMessage = data.detail;
+      } else if (Array.isArray(data.detail)) {
+        errorMessage = data.detail
+          .map((item) => {
+            const field = item.loc?.slice(1).join(".");
+            return field
+              ? `${field}: ${item.msg}`
+              : item.msg;
           })
-        }
-      );
-
-      const data = await response.json();
-
-      if (!response.ok) {
-        setError(data.detail || "Registration failed.");
-        return;
+          .join(". ");
       }
 
-      navigate("/login");
-    } catch {
-      setError("Unable to connect to the server. Please try again.");
-    } finally {
-      setLoading(false);
+      setError(errorMessage);
+      return;
     }
-  };
+
+    // Registration succeeded. Redirect to login.
+    navigate("/login", {
+      replace: true,
+      state: { message: "Account created successfully! Please sign in." },
+    });
+  } catch (error) {
+    console.error("Registration error:", error);
+    setError("Unable to connect to the server. Please check that the backend is running.");
+  } finally {
+    setLoading(false);
+  }
+};
 
   return (
     <div className="auth-page">

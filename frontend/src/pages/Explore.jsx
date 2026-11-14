@@ -1,30 +1,77 @@
-import { useState } from "react";
+
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Search, MapPin, Star, Heart, ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
 
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import restaurants from "../data/restaurants";
+import { apiRequest } from "../api";
 
 function Explore() {
   const [search, setSearch] = useState("");
+  const [city, setCity] = useState("Bhubaneswar");
   const [cuisine, setCuisine] = useState("All");
+
+  const [restaurants, setRestaurants] = useState([]);
   const [favorites, setFavorites] = useState([]);
 
-  const cuisines = ["All", ...new Set(restaurants.map((r) => r.cuisine))];
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState("");
 
-  const filteredRestaurants = restaurants.filter((restaurant) => {
-    const matchesSearch =
-      restaurant.name.toLowerCase().includes(search.toLowerCase()) ||
-      restaurant.cuisine.toLowerCase().includes(search.toLowerCase()) ||
-      restaurant.location.toLowerCase().includes(search.toLowerCase());
+  // Fetch restaurants whenever the filters change
+  useEffect(() => {
+    let cancelled = false;
 
-    const matchesCuisine =
-      cuisine === "All" || restaurant.cuisine === cuisine;
+    const fetchRestaurants = async () => {
+      setLoading(true);
+      setError("");
 
-    return matchesSearch && matchesCuisine;
-  });
+      try {
+        const params = new URLSearchParams({
+          location: city,
+          search: search,
+          category: cuisine === "All" ? "" : cuisine,
+          limit: "200",
+        });
+
+        const data = await apiRequest(
+          `/restaurants/?${params.toString()}`
+        );
+
+        if (!cancelled) {
+          setRestaurants(data.restaurants || []);
+        }
+      } catch (err) {
+        if (!cancelled) {
+          setError(err.message || "Could not load restaurants.");
+          setRestaurants([]);
+        }
+      } finally {
+        if (!cancelled) {
+          setLoading(false);
+        }
+      }
+    };
+
+    // Small delay prevents a request on every keystroke
+    const timer = setTimeout(fetchRestaurants, 300);
+
+    return () => {
+      cancelled = true;
+      clearTimeout(timer);
+    };
+  }, [city, search, cuisine]);
+
+  // Get available cuisine/category names from the API data
+  const cuisines = [
+    "All",
+    ...new Set(
+      restaurants
+        .map((restaurant) => restaurant.cuisine)
+        .filter(Boolean)
+    ),
+  ];
 
   const toggleFavorite = (id) => {
     setFavorites((current) =>
@@ -48,9 +95,7 @@ function Explore() {
         >
           <p>DISCOVER • DINE • ENJOY</p>
 
-          <h1>
-            Explore Restaurants
-          </h1>
+          <h1>Explore Restaurants</h1>
 
           <span>
             Find the perfect place for your next dining experience.
@@ -60,7 +105,6 @@ function Explore() {
 
       {/* Search & Filters */}
       <section className="explore-controls">
-
         <div className="explore-search">
           <Search size={20} />
 
@@ -72,6 +116,25 @@ function Explore() {
           />
         </div>
 
+        {/* City Selector */}
+        <div className="city-filter">
+          <MapPin size={18} />
+
+          <select
+            value={city}
+            onChange={(e) => {
+              setCity(e.target.value);
+              setCuisine("All");
+            }}
+          >
+            <option value="Bhubaneswar">Bhubaneswar</option>
+            <option value="Cuttack">Cuttack</option>
+            <option value="Puri">Puri</option>
+            <option value="All">All Cities</option>
+          </select>
+        </div>
+
+        {/* Cuisine Filters */}
         <div className="cuisine-filters">
           {cuisines.map((item) => (
             <button
@@ -83,63 +146,78 @@ function Explore() {
             </button>
           ))}
         </div>
-
       </section>
 
       {/* Restaurant Results */}
       <section className="explore-restaurants">
-
         <div className="explore-title">
           <div>
             <p>OUR COLLECTION</p>
 
             <h2>
-              {filteredRestaurants.length} Restaurants
+              {loading ? "Loading..." : `${restaurants.length} Restaurants`}
             </h2>
           </div>
 
           <span>
-            Bhubaneswar
+            {city === "All" ? "All Cities" : city}
           </span>
         </div>
 
-        {filteredRestaurants.length > 0 ? (
+        {/* Loading State */}
+        {loading ? (
+          <div className="no-results">
+            <p>Finding restaurants for you...</p>
+          </div>
+        ) : error ? (
+          /* Error State */
+          <div className="no-results">
+            <h3>Could not load restaurants</h3>
+            <p>{error}</p>
+            <p>Check that your FastAPI backend is running.</p>
+          </div>
+        ) : restaurants.length > 0 ? (
+          /* Restaurant Cards */
           <div className="explore-grid">
-
-            {filteredRestaurants.map((restaurant, index) => (
+            {restaurants.map((restaurant, index) => (
               <motion.div
                 key={restaurant.id}
                 className="explore-card"
                 initial={{
                   opacity: 0,
-                  y: 30
+                  y: 30,
                 }}
                 animate={{
                   opacity: 1,
-                  y: 0
+                  y: 0,
                 }}
                 transition={{
                   duration: 0.5,
-                  delay: index * 0.08
+                  delay: Math.min(index * 0.03, 0.3),
                 }}
                 whileHover={{
-                  y: -8
+                  y: -8,
                 }}
               >
-
                 {/* Image */}
                 <div className="explore-card-image">
-
-                  <img
-                    src={restaurant.image}
-                    alt={restaurant.name}
-                  />
+                  {restaurant.image ? (
+                    <img
+                      src={restaurant.image}
+                      alt={restaurant.name}
+                      onError={(e) => {
+                        e.currentTarget.style.display = "none";
+                      }}
+                    />
+                  ) : (
+                    <div className="restaurant-image-placeholder">
+                      <MapPin size={32} />
+                    </div>
+                  )}
 
                   <button
                     className="explore-favorite"
-                    onClick={() =>
-                      toggleFavorite(restaurant.id)
-                    }
+                    onClick={() => toggleFavorite(restaurant.id)}
                   >
                     <Heart
                       size={19}
@@ -152,69 +230,55 @@ function Explore() {
                   </button>
 
                   <div className="explore-rating">
-                    <Star
-                      size={14}
-                      fill="currentColor"
-                    />
+                    <Star size={14} fill="currentColor" />
 
-                    {restaurant.rating}
+                    {restaurant.rating != null
+                      ? Number(restaurant.rating).toFixed(1)
+                      : "New"}
                   </div>
-
                 </div>
 
                 {/* Content */}
                 <div className="explore-card-content">
-
                   <p className="explore-cuisine">
-                    {restaurant.cuisine}
+                    {restaurant.cuisine || "Restaurant"}
                   </p>
 
-                  <h3>
-                    {restaurant.name}
-                  </h3>
+                  <h3>{restaurant.name}</h3>
 
                   <div className="explore-location">
                     <MapPin size={15} />
-                    {restaurant.location}
+                    {restaurant.location || restaurant.city || "Location unavailable"}
                   </div>
 
                   <div className="explore-card-bottom">
-
                     <span>
-                      {restaurant.reviews} reviews
+                      {restaurant.reviews != null
+                        ? `${restaurant.reviews} reviews`
+                        : "No reviews"}
                     </span>
 
-                    <Link
-                      to={`/restaurant/${restaurant.id}`}
-                    >
+                    <Link to={`/restaurant/${restaurant.id}`}>
                       View Details
                       <ArrowRight size={15} />
                     </Link>
-
                   </div>
-
                 </div>
-
               </motion.div>
             ))}
-
           </div>
         ) : (
+          /* No Results */
           <div className="no-results">
-
             <Search size={40} />
 
-            <h3>
-              No restaurants found
-            </h3>
+            <h3>No restaurants found</h3>
 
             <p>
               Try another restaurant, cuisine or location.
             </p>
-
           </div>
         )}
-
       </section>
 
       <Footer />

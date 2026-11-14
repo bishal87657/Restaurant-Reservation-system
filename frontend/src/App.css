@@ -208,3 +208,55 @@ button, a, input, select { transition: color .18s ease, background-color .18s ea
   .dashboard-explore-strip > a { white-space: normal; }
   .dashboard-recommendations .restaurants { grid-template-columns: 1fr; }
 }
+
+
+/* Navbar links: visible without hovering */
+.nav-links a {
+  color: #343434;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.nav-links a:hover {
+  color: #a65d2e;
+}
+
+/* Search and login buttons */
+.nav-search,
+.login-btn {
+  color: #343434;
+}
+
+.nav-search {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.login-btn {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+/* Sign Up and Logout buttons */
+.signup-btn {
+  background-color: #8b4f2c;
+  color: #ffffff;
+  border: 1px solid #8b4f2c;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.signup-btn:hover {
+  background-color: #69391f;
+  color: #ffffff;
+}
+
+/* Keep keyboard navigation visible */
+.nav-links a:focus-visible,
+.nav-actions button:focus-visible,
+.nav-actions a:focus-visible {
+  outline: 2px solid #8b4f2c;
+  outline-offset: 3px;
+}
