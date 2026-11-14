@@ -4,9 +4,13 @@ from fastapi.middleware.cors import CORSMiddleware
 from starlette.middleware.sessions import SessionMiddleware
 
 from database import engine, Base
+from dotenv import load_dotenv
+
+load_dotenv()
 from routes.auth import router as auth_router
 from routes.reservations import router as reservations_router
 from routes.favorites import router as favorites_router
+from routes.restaurants import router as restaurants_router
 import models
 
 # Initialize Database Tables
@@ -47,6 +51,7 @@ app.add_middleware(
 app.include_router(auth_router)
 app.include_router(reservations_router)
 app.include_router(favorites_router)
+app.include_router(restaurants_router)
 
 @app.get("/")
 def home():
