@@ -1,7 +1,7 @@
 from datetime import datetime
 from sqlalchemy.orm import Session
 from models import User, Reservation, Favorite
-from schemas import UserCreate, ReservationCreate, FavoriteCreate
+from schemas import UserCreate, ReservationCreate, FavoriteCreate, ReservationUpdate
 
 try:
     from pwdlib import PasswordHash
@@ -98,6 +98,38 @@ def cancel_reservation(db: Session, reservation_id: int, user_id: int):
         reservation.status = "cancelled"
         db.commit()
         db.refresh(reservation)
+    return reservation
+
+# ---------------- RESERVATION AMENDMENT CRUD ----------------
+
+def update_reservation(
+    db: Session,
+    reservation_id: int,
+    user_id: int,
+    update_data: ReservationUpdate
+):
+    reservation = get_reservation_by_id(
+        db,
+        reservation_id=reservation_id,
+        user_id=user_id
+    )
+
+    if not reservation:
+        return None
+
+    # Prevent amendment of cancelled reservations
+    if reservation.status == "cancelled":
+        return None
+
+    changes = update_data.model_dump(exclude_unset=True)
+
+    for key, value in changes.items():
+        if value is not None:
+            setattr(reservation, key, value)
+
+    db.commit()
+    db.refresh(reservation)
+
     return reservation
 
 

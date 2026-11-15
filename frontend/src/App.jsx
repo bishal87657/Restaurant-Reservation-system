@@ -13,6 +13,9 @@ import Favorites from "./pages/Favorites";
 import Profile from "./pages/Profile";
 import Settings from "./pages/Settings";
 
+import Payment from "./pages/Payment";
+import PaymentSuccess from "./pages/PaymentSuccess";
+
 function App() {
   return (
     <BrowserRouter>
@@ -32,6 +35,10 @@ function App() {
         <Route path="/favorites" element={<Favorites />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="/settings" element={<Settings />} />
+
+        {/* Payment Routes */}
+        <Route path="/payment" element={<Payment />} />
+        <Route path="/payment-success" element={<PaymentSuccess />} />
 
         {/* 404 Route */}
         <Route

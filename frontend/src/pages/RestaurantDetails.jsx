@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from "react";
-import { useParams, Link } from "react-router-dom";
+import { useParams, Link, useNavigate } from "react-router-dom";
 import { apiRequest } from "../api";
 
 import {
@@ -62,6 +62,7 @@ function formatOpeningHours(openingHours) {
 
 function RestaurantDetails() {
   const { id } = useParams();
+  const navigate = useNavigate();
 
   const [restaurant, setRestaurant] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -143,7 +144,8 @@ function RestaurantDetails() {
   };
 
   // Create reservation through the FastAPI backend
-  const handleConfirmReservation = async () => {
+
+  const handleConfirmReservation = () => {
     if (!selectedTable) {
       setBookingError("Please select an available table.");
       return;
@@ -156,36 +158,25 @@ function RestaurantDetails() {
       return;
     }
 
-    setBookingLoading(true);
-    setBookingError("");
-    setBookingSuccess("");
+    navigate("/payment", {
+      state: {
+        booking: {
+        restaurantId: restaurant.id,
+        restaurantName: restaurant.name,
+        date: date,
+        time: time.length === 5 ? `${time}:00` : time,
+        guests: Number(guests),
+        table: {
+          id: selectedTable.id,
+          seats: selectedTable.seats,
+          type: selectedTable.type,
+          location: selectedTable.location,
+        },
+      },
+    },
+  });
+};
 
-    try {
-      const result = await apiRequest("/reservations/", {
-        method: "POST",
-
-        body: JSON.stringify({
-          restaurant_id: restaurant.id,
-          restaurant_name: restaurant.name,
-          reservation_date: date,
-          reservation_time:
-            time.length === 5 ? `${time}:00` : time,
-          guests: Number(guests),
-          table_number: String(selectedTable.id),
-        }),
-      });
-
-      setBookingSuccess(
-        `Reservation confirmed! Booking ID: ${result.reservation_id}`
-      );
-    } catch (error) {
-      setBookingError(
-        error.message || "Could not create reservation."
-      );
-    } finally {
-      setBookingLoading(false);
-    }
-  };
 
   // Loading state
   if (loading) {

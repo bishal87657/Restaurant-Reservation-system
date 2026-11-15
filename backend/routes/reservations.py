@@ -52,6 +52,58 @@ def get_my_reservations(
     )
 
 
+# ---------------- RESERVATION AMENDMENT ----------------
+
+@router.put(
+    "/{reservation_id}",
+    response_model=schemas.ReservationResponse
+)
+def amend_my_reservation(
+    reservation_id: int,
+    update_data: schemas.ReservationUpdate,
+    request: Request,
+    db: Session = Depends(get_db),
+):
+    user_id = get_logged_in_user_id(request)
+
+    # Check that the reservation belongs to this user
+    reservation = crud.get_reservation_by_id(
+        db=db,
+        reservation_id=reservation_id,
+        user_id=user_id,
+    )
+
+    if reservation is None:
+        raise HTTPException(
+            status_code=404,
+            detail="Reservation not found.",
+        )
+
+    # Cancelled reservations cannot be amended
+    if reservation.status == "cancelled":
+        raise HTTPException(
+            status_code=400,
+            detail="Cancelled reservations cannot be amended.",
+        )
+
+    # Require at least one field to be updated
+    changes = update_data.model_dump(exclude_unset=True)
+
+    if not changes or all(value is None for value in changes.values()):
+        raise HTTPException(
+            status_code=400,
+            detail="Please provide at least one valid field to update.",
+        )
+
+    updated_reservation = crud.update_reservation(
+        db=db,
+        reservation_id=reservation_id,
+        user_id=user_id,
+        update_data=update_data,
+    )
+
+    return updated_reservation
+
 @router.delete("/{reservation_id}")
 def cancel_my_reservation(
     reservation_id: int,
