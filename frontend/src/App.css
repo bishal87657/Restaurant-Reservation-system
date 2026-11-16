@@ -260,3 +260,252 @@ button, a, input, select { transition: color .18s ease, background-color .18s ea
   outline: 2px solid #8b4f2c;
   outline-offset: 3px;
 }
+
+
+/* Reservation amendment controls */
+
+.reservation-title-line {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.reservation-title-line h2 {
+  margin: 0;
+}
+
+.reservation-details {
+  margin-top: 10px;
+}
+
+.reservation-details span {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.reservation-actions,
+.reservation-edit-actions {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  flex-wrap: wrap;
+}
+
+.edit-button,
+.reservation-close-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  border: 1px solid #dce3d3;
+  border-radius: 9px;
+  padding: 9px 12px;
+  background: #f4f6ef;
+  color: #526447;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.edit-button:hover,
+.reservation-close-button:hover {
+  background: #e9eee1;
+}
+
+.edit-button:disabled,
+.reservation-close-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.reservation-close-button {
+  background: #fff;
+  color: #62665c;
+}
+
+.reservation-edit-panel {
+  margin-top: 18px;
+  padding: 18px;
+  border: 1px solid #e5e8df;
+  border-radius: 13px;
+  background: #fafbf8;
+}
+
+.reservation-edit-panel h3 {
+  margin: 0 0 14px;
+  color: #292b25;
+  font-size: 17px;
+}
+
+.reservation-edit-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 13px;
+}
+
+.reservation-edit-grid label {
+  display: grid;
+  gap: 6px;
+  color: #55594f;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.reservation-edit-grid input {
+  width: 100%;
+  min-width: 0;
+  padding: 10px 11px;
+  border: 1px solid #dcded6;
+  border-radius: 8px;
+  background: #fff;
+  color: #292b25;
+  font: inherit;
+  font-weight: 400;
+}
+
+.reservation-edit-grid input:focus {
+  outline: 2px solid rgba(82, 100, 71, 0.2);
+  border-color: #7b8d6a;
+}
+
+.reservation-edit-actions {
+  margin-top: 15px;
+}
+
+.reservation-edit-error {
+  margin: 12px 0 0;
+  color: #a33c34;
+  font-size: 13px;
+}
+
+@media (max-width: 700px) {
+  .reservation-row {
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .reservation-row .utility-card-main {
+    flex: 1 1 calc(100% - 75px);
+  }
+
+  .reservation-actions {
+    width: 100%;
+    justify-content: flex-end;
+  }
+
+  .reservation-edit-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* =========================================
+   RESTORA NAVBAR - CONSISTENT COLOURS
+========================================= */
+
+.navbar {
+  background: rgba(38, 59, 45, 0.97);
+  color: #ffffff;
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(10px);
+}
+
+/* Logo */
+.navbar .logo,
+.navbar .logo h2,
+.navbar .logo span {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Home, Explore, About, Contact */
+.navbar .nav-links a {
+  color: #ffffff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.navbar .nav-links a:hover {
+  color: #f2c66d;
+}
+
+.navbar .nav-links a::after {
+  background: #f2c66d;
+}
+
+/* Search icon */
+.navbar .nav-search {
+  color: #ffffff;
+}
+
+.navbar .nav-search:hover {
+  color: #f2c66d;
+}
+
+/* Login and Dashboard */
+.navbar .login-btn {
+  color: #ffffff;
+  border: 1px solid #d9c18b;
+  border-radius: 7px;
+  background: transparent;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.navbar .login-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+  color: #f2c66d;
+  border-color: #f2c66d;
+}
+
+/* Sign Up and Logout */
+.navbar .signup-btn {
+  background: #e8b84b;
+  color: #263b2d;
+  border: 1px solid #e8b84b;
+  border-radius: 7px;
+  font-weight: 700;
+}
+
+.navbar .signup-btn:hover {
+  background: #f5cd73;
+  border-color: #f5cd73;
+  color: #263b2d;
+}
+
+/* Mobile menu icon */
+.navbar .mobile-menu-btn {
+  color: #ffffff;
+}
+
+/* Mobile dropdown */
+.navbar .mobile-menu {
+  background: #263b2d;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.navbar .mobile-menu a,
+.navbar .mobile-menu button {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.navbar .mobile-menu a:hover,
+.navbar .mobile-menu button:hover {
+  color: #f2c66d;
+}
+
+.navbar .mobile-menu button {
+  background: transparent;
+  border: none;
+  text-align: left;
+  font: inherit;
+}
+
+/* Keyboard accessibility */
+.navbar a:focus-visible,
+.navbar button:focus-visible {
+  outline: 2px solid #f2c66d;
+  outline-offset: 4px;
+}
